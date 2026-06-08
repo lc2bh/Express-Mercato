@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Express Mercato</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@600;700;800&family=Manrope:wght@500;600;700;800&display=swap');
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  body { margin: 0; background: #0a0c10; color: #fff; font-family: 'Manrope', sans-serif; }
+  .wrap { max-width: 480px; margin: 0 auto; min-height: 100vh; }
+  .head { padding: 18px 16px 8px; background: linear-gradient(180deg,#11141b,#0d1016); position: sticky; top: 0; z-index: 5; }
+  .title { font-family: 'Anton',sans-serif; font-size: 24px; letter-spacing: .02em; }
+  .dot { color: #16c47f; }
+  .pill { display:flex; align-items:center; gap:8px; border-radius:12px; padding:8px 12px; margin-top:12px; font-size:12px; }
+  .pill.open { background: rgba(22,196,127,.1); border:1px solid rgba(22,196,127,.25); color:#16c47f; font-weight:700; }
+  .pill.status { background:#12151c; border:1px solid #232836; color:#c7ccd6; font-weight:600; }
+  .muted { color:#6b7280; font-weight:500; margin-left:auto; }
+  .seg { display:flex; gap:4px; background:#12151c; border-radius:12px; padding:4px; margin-top:12px; }
+  .seg button { flex:1; padding:8px 0; border:none; border-radius:9px; background:transparent; color:#8a93a6; font-weight:700; font-size:12.5px; font-family:'Manrope',sans-serif; cursor:pointer; }
+  .seg button.on { background:#16c47f; color:#08130d; }
+  .seg.amber button.on { background:#f4a623; color:#1a1206; }
+  .chips { display:flex; gap:8px; overflow-x:auto; padding:10px 16px; }
+  .chips button { white-space:nowrap; padding:6px 13px; border-radius:999px; border:1px solid #232836; background:transparent; color:#8a93a6; font-size:12px; font-weight:600; font-family:'Manrope',sans-serif; cursor:pointer; }
+  .chips button.on { border-color:#16c47f; background:rgba(22,196,127,.12); color:#16c47f; }
+  .feed { padding: 4px 16px 40px; display:flex; flex-direction:column; gap:14px; }
+  .card { background:linear-gradient(160deg,#171b24,#12151c); border:1px solid #232836; border-radius:20px; padding:16px; box-shadow:0 8px 24px rgba(0,0,0,.35); }
+  .row { display:flex; align-items:center; justify-content:space-between; }
+  .badge { display:inline-flex; align-items:center; gap:4px; font-size:10px; font-weight:800; letter-spacing:.08em; padding:4px 9px; border-radius:999px; font-family:'Archivo',sans-serif; }
+  .badge.rumor { color:#f4a623; background:rgba(244,166,35,.12); }
+  .badge.off { color:#16c47f; background:rgba(22,196,127,.12); }
+  .rank { font-family:'Archivo',sans-serif; font-size:11px; font-weight:800; padding:3px 7px; border-radius:8px; color:#8a93a6; background:#1c2029; }
+  .rank.top { color:#ffd166; background:rgba(255,209,102,.14); }
+  .buzz { display:inline-flex; align-items:center; gap:3px; font-size:11px; color:#c7ccd6; font-weight:700; }
+  .time { font-size:11px; color:#6b7280; }
+  .pname { font-family:'Anton',sans-serif; font-size:22px; letter-spacing:.01em; margin:10px 0 2px; }
+  .meta { font-size:12px; color:#8a93a6; margin:0 0 14px; }
+  .clubs { display:flex; align-items:center; justify-content:space-between; gap:8px; }
+  .crest { width:34px; height:34px; border-radius:10px; display:flex; align-items:center; justify-content:center; font-family:'Archivo',sans-serif; font-weight:800; font-size:11px; color:#fff; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,.25); }
+  .crest img { width:26px; height:26px; object-fit:contain; }
+  .cname { font-size:13px; color:#c7ccd6; font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .arrow { color:#4b5563; flex-shrink:0; }
+  .foot { display:flex; align-items:center; justify-content:space-between; margin-top:14px; padding-top:12px; border-top:1px solid #232836; }
+  .src { font-size:11px; color:#6b7280; }
+  .fee { font-family:'Anton',sans-serif; font-size:17px; }
+  .empty { text-align:center; color:#6b7280; font-size:13px; margin-top:40px; }
+  .note { text-align:center; color:#3b4250; font-size:10.5px; margin-top:6px; }
+  ::-webkit-scrollbar { height:0; width:0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="head">
+    <div class="row">
+      <div class="title">EXPRESS MERCATO<span class="dot">.</span></div>
+    </div>
+    <div class="pill open"><span>● Mercato d'été ouvert</span><span class="muted">ferme le 1er sept.</span></div>
+    <div class="pill status" id="status"><span id="statusText">Connexion aux données…</span></div>
+    <div class="seg" id="segType">
+      <button data-v="Tout" class="on">Tout</button>
+      <button data-v="Confirmés">Confirmés</button>
+      <button data-v="Rumeurs">Rumeurs</button>
+    </div>
+  </div>
+  <div class="chips" id="chips"></div>
+  <div style="padding:0 16px 6px;">
+    <div class="seg amber" id="segSort">
+      <button data-v="mix" class="on">À la une</button>
+      <button data-v="recent">Récent</button>
+      <button data-v="pop">Populaire</button>
+    </div>
+  </div>
+  <div class="feed" id="feed"></div>
+</div>
+
+<script>
+var DATA_URL = "data.json";
+var LIVE_REFRESH_MS = 5 * 60 * 1000;
+var LEAGUES = ["Tout","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Liga Portugal","Eredivisie","Saudi Pro League","Süper Lig","MLS","Autres"];
+var MAIN_LEAGUES = LEAGUES.filter(function(l){ return l!=="Tout" && l!=="Autres"; });
+
+var CLUB_POP = {"Real Madrid":100,"Barcelona":98,"Barcelone":98,"Manchester United":95,"Bayern Munich":90,"Bayern":90,"Paris Saint Germain":89,"PSG":89,"Arsenal":88,"Juventus":85,"AC Milan":82,"Milan":82,"Atletico Madrid":80,"Atlético":80,"Inter Miami":80,"Tottenham":78,"Newcastle":70,"Benfica":68,"Galatasaray":66,"Celtic":60,"Liverpool":92};
+var PLAYER_POP = {"Sergio Ramos":92,"Julián Álvarez":84,"Xavi Simons":80,"Nico Williams":78,"Memphis Depay":76};
+function clubPop(c){ return CLUB_POP[c] != null ? CLUB_POP[c] : 45; }
+function playerPop(p){ return PLAYER_POP[p] != null ? PLAYER_POP[p] : 50; }
+function popScore(i){ return Math.round(0.5*playerPop(i.player)+0.3*clubPop(i.to)+0.2*clubPop(i.from)); }
+
+function ageHours(item){
+  if(item.ts) return Math.max(0,(Date.now()-item.ts)/3600000);
+  var s=item.time||""; if(/aujourd'hui|instant/i.test(s)) return 1;
+  var m=s.match(/il y a\s+(\d+)\s*(h|j|mois)/i); if(!m) return 72;
+  var n=Number(m[1]); return m[2]==="h"?n:m[2]==="j"?n*24:n*24*30;
+}
+function recencyScore(item){ return 100*Math.pow(0.5, ageHours(item)/24); }
+function aLaUneScore(item){ return 0.85*recencyScore(item)+0.15*popScore(item); }
+function relTime(d){ if(!d) return ""; var diff=Date.now()-new Date(d).getTime(); if(isNaN(diff)) return ""; var day=86400000; if(diff<day) return "aujourd'hui"; var j=Math.floor(diff/day); return j<30?("il y a "+j+" j"):("il y a "+Math.floor(j/30)+" mois"); }
+
+var FEED = [
+  {id:"d1",type:"rumor",player:"Julián Álvarez",pos:"Attaquant",age:26,from:"Atlético",fromColor:"#cb3524",to:"Arsenal",toColor:"#ef0107",league:"Premier League",fee:"≈ 90 M€",time:"il y a 2 h",source:"Fabrizio Romano"},
+  {id:"d2",type:"confirmed",player:"Anthony Gordon",pos:"Ailier",age:25,from:"Newcastle",fromColor:"#241f20",to:"Barcelone",toColor:"#a50044",league:"La Liga",fee:"75 M€",time:"il y a 5 h",source:"Officiel"},
+  {id:"d3",type:"rumor",player:"Teun Koopmeiners",pos:"Milieu",age:28,from:"Juventus",fromColor:"#000",to:"Man United",toColor:"#da291c",league:"Premier League",fee:"≈ 45 M€",time:"il y a 8 h",source:"Sky"}
+];
+
+function mapLive(raw){
+  return (raw && raw.transfers ? raw.transfers : []).map(function(t,i){
+    return { id:t.id||("live-"+i), type:"confirmed", player:t.player||"Inconnu", pos:"", age:null, league:"",
+      from:t.from||"?", fromColor:"#2a3142", fromLogo:t.fromLogo||null,
+      to:t.to||"?", toColor:"#2a3142", toLogo:t.toLogo||null,
+      fee:t.type||"—", source:"API-Football", ts:new Date(t.date).getTime(), time:relTime(t.date) };
+  });
+}
+
+var state = { filterType:"Tout", league:"Tout", sortMode:"mix", source:"loading", liveItems:[], liveUpdatedAt:null };
+
+function load(){
+  fetch(DATA_URL,{cache:"no-store"}).then(function(r){ return r.json(); }).then(function(j){
+    state.liveItems = mapLive(j); state.liveUpdatedAt = j.updatedAt || null; state.source = "live"; render();
+  }).catch(function(){ state.source = "demo"; render(); });
+}
+
+function esc(s){ return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c];}); }
+function crest(name,color,logo){
+  var inner = logo ? '<img src="'+esc(logo)+'" alt="">' : esc(String(name).slice(0,3).toUpperCase());
+  return '<div class="crest" style="background:'+(logo?"#fff":color)+'">'+inner+'</div>';
+}
+function card(item,rank,showRank){
+  var isR = item.type==="rumor";
+  var meta = [item.pos, item.age?item.age+" ans":"", item.league].filter(Boolean).join(" · ");
+  var rankHtml = showRank ? '<span class="rank '+(rank<=3?"top":"")+'">#'+rank+'</span>' : '';
+  var badge = isR ? '<span class="badge rumor">🔥 RUMEUR</span>' : '<span class="badge off">✓ OFFICIEL</span>';
+  return '<div class="card">'
+    + '<div class="row"><div style="display:flex;align-items:center;gap:6px">'+rankHtml+badge+'</div>'
+    + '<div style="display:flex;align-items:center;gap:8px"><span class="buzz">🔥 '+item.pop+'</span><span class="time">'+esc(item.time||"")+'</span></div></div>'
+    + '<div class="pname">'+esc(item.player)+'</div>'
+    + (meta?'<p class="meta">'+esc(meta)+'</p>':'<div style="height:12px"></div>')
+    + '<div class="clubs">'+crest(item.from,item.fromColor,item.fromLogo)+'<span class="cname" style="flex:1">'+esc(item.from)+'</span>'
+    + '<span class="arrow">→</span>'
+    + crest(item.to,item.toColor,item.toLogo)+'<span class="cname" style="flex:1;text-align:right">'+esc(item.to)+'</span></div>'
+    + '<div class="foot"><span class="src">'+esc(item.source||"")+'</span><span class="fee">'+esc(item.fee||"")+'</span></div>'
+    + '</div>';
+}
+
+function render(){
+  var status = document.getElementById("status");
+  if(state.source==="live"){ status.innerHTML = '<span>🟢 En direct · API-Football</span><span class="muted">synchro '+(relTime(state.liveUpdatedAt)||"—")+'</span>'; }
+  else if(state.source==="loading"){ status.innerHTML = '<span>Connexion aux données…</span>'; }
+  else { status.innerHTML = '<span>Données d\'exemple</span><span class="muted">mode démo</span>'; }
+
+  var chips = document.getElementById("chips");
+  chips.innerHTML = LEAGUES.map(function(l){ return '<button data-v="'+esc(l)+'" class="'+(state.league===l?"on":"")+'">'+esc(l)+'</button>'; }).join("");
+
+  var base = state.source==="live" ? state.liveItems : FEED;
+  var list = base.filter(function(i){
+    var typeOk = state.filterType==="Tout" || (state.filterType==="Confirmés"&&i.type==="confirmed") || (state.filterType==="Rumeurs"&&i.type==="rumor");
+    var leagueOk = state.league==="Tout" || (state.league==="Autres" ? MAIN_LEAGUES.indexOf(i.league)===-1 : i.league===state.league);
+    return typeOk && leagueOk;
+  }).map(function(i){ var o=Object.assign({},i); o.pop=popScore(i); return o; });
+  if(state.sortMode==="mix") list.sort(function(a,b){ return aLaUneScore(b)-aLaUneScore(a); });
+  else if(state.sortMode==="recent") list.sort(function(a,b){ return ageHours(a)-ageHours(b); });
+  else if(state.sortMode==="pop") list.sort(function(a,b){ return b.pop-a.pop; });
+
+  var feed = document.getElementById("feed");
+  var showRank = state.sortMode!=="recent";
+  if(list.length===0){ feed.innerHTML = '<p class="empty">Aucun transfert pour ce filtre pour l\'instant.<br>Ça se remplit au fil des heures.</p>'; }
+  else { feed.innerHTML = list.map(function(it,idx){ return card(it,idx+1,showRank); }).join("") + '<p class="note">'+(state.source==="live"?"Source : API-Football · synchro toutes les 15 min":"Mode démo")+'</p>'; }
+}
+
+function wireSeg(id, key){
+  document.getElementById(id).addEventListener("click", function(e){
+    var b = e.target.closest("button"); if(!b) return;
+    state[key] = b.getAttribute("data-v");
+    Array.prototype.forEach.call(this.querySelectorAll("button"), function(x){ x.classList.toggle("on", x===b); });
+    render();
+  });
+}
+wireSeg("segType","filterType");
+wireSeg("segSort","sortMode");
+document.getElementById("chips").addEventListener("click", function(e){
+  var b = e.target.closest("button"); if(!b) return;
+  state.league = b.getAttribute("data-v"); render();
+});
+
+render();
+load();
+setInterval(load, LIVE_REFRESH_MS);
+</script>
+</body>
+</html>
