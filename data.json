@@ -1,9 +1,108 @@
 {
-  "updatedAt": "2026-06-08T16:59:24.512Z",
-  "lastTeamChecked": "100 clubs",
+  "updatedAt": "2026-06-08T17:30:11.761Z",
+  "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 97,
+  "count": 114,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
+      "kind": "rumor",
+      "player": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "date": "2026-06-08",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/08/manchester-united-cit",
+      "kind": "rumor",
+      "player": "Manchester United think they can beat City to £100m-rated Elliot Anderson",
+      "date": "2026-06-08",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/08/manchester-united-city-100m-elliot-anderson-transfer-news"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-t",
+      "kind": "rumor",
+      "player": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "date": "2026-06-08",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/05/tottenham-sign-outsta",
+      "kind": "rumor",
+      "player": "Tottenham sign Andy Robertson on a free as De Zerbi looks to fill leadership vacuum",
+      "date": "2026-06-05",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/05/tottenham-sign-outstanding-andy-robertson-on-a-free-transfer"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/05/real-madrid-to-launch",
+      "kind": "rumor",
+      "player": "Real Madrid to launch €150m bid for Michael Olise if Florentino Pérez re-elected",
+      "date": "2026-06-05",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/05/real-madrid-to-launch-150m-bid-for-michael-olise-if-florentino-perez-re-elected"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/04/katie-mccabe-chelsea-",
+      "kind": "rumor",
+      "player": "Anger at Katie McCabe’s move to Chelsea is forgivable – crossing line into abuse is not | Suzanne Wrack",
+      "date": "2026-06-04",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/04/katie-mccabe-chelsea-arsenal-wsl-transfer-move-controversy-abuse"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/sport/2026/jun/02/manchester-united-tie-up",
+      "kind": "rumor",
+      "player": "Manchester United tie up £35m deal to make Éderson first signing of Carrick reign",
+      "date": "2026-06-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/sport/2026/jun/02/manchester-united-tie-up-35m-deal-to-make-ederson-first-signing-of-carrick-reign"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/02/everton-interested-in",
+      "kind": "rumor",
+      "player": "Everton interested in £15m Hayden Hackney but face stiff competition",
+      "date": "2026-06-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/02/everton-interested-in-15m-hayden-hackney-but-face-stiff-competition"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/02/london-city-lionesses",
+      "kind": "rumor",
+      "player": "London City poised to sign Mary Earps and Mapi León in hunt for trophies and fans",
+      "date": "2026-06-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/02/london-city-lionesses-mary-earps-mapi-leon"
+    },
     {
       "id": "51295-2026-05-30-81",
       "player": "D. Cornelius",
@@ -495,6 +594,61 @@
       "toLogo": "https://media.api-sports.io/football/teams/257.png"
     },
     {
+      "id": "rss-https://www.theguardian.com/football/2026/may/29/anthony-gordon-signs-",
+      "kind": "rumor",
+      "player": "Anthony Gordon shows ‘fire in belly’ and Spanish skills after joining Barcelona",
+      "date": "2026-05-29",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/may/29/anthony-gordon-signs-barcelona-from-newcastle-five-year-deal"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/may/28/ibrahima-konate-set-t",
+      "kind": "rumor",
+      "player": "Ibrahima Konaté poised to leave Liverpool after failing to agree new contract",
+      "date": "2026-05-28",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/may/28/ibrahima-konate-set-to-leave-liverpool-after-failing-to-agree-new-contract"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/may/27/barcelona-advanced-ta",
+      "kind": "rumor",
+      "player": "Anthony Gordon to undergo Barcelona medical before £69.3m move from Newcastle",
+      "date": "2026-05-27",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/may/27/barcelona-advanced-talks-signing-anthony-gordon-newcastle"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/may/27/manchester-united-agr",
+      "kind": "rumor",
+      "player": "Manchester United agree £37m deal for Éderson as midfield rebuild starts",
+      "date": "2026-05-27",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/may/27/manchester-united-agree-to-sign-ederson-as-midfeld-rebuild-begins-to-take-shape"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/may/26/joao-palhinha-wants-t",
+      "kind": "rumor",
+      "player": "João Palhinha wants to stay at Tottenham after helping club avoid relegation",
+      "date": "2026-05-26",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/may/26/joao-palhinha-wants-to-stay-tottenham-bayern-munich"
+    },
+    {
       "id": "554589-2026-05-23-495",
       "player": "M. Romano",
       "date": "2026-05-23",
@@ -513,6 +667,17 @@
       "fromLogo": "https://media.api-sports.io/football/teams/1602.png",
       "to": "Huntsville City",
       "toLogo": "https://media.api-sports.io/football/teams/21140.png"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/may/19/manchester-united-liv",
+      "kind": "rumor",
+      "player": "Manchester United, Liverpool and Chelsea target Jarrod Bowen amid drop threat",
+      "date": "2026-05-19",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/may/19/manchester-united-liverpool-chelsea-target-jarrod-bowen-west-ham-transfer"
     },
     {
       "id": "138415-2026-05-17-257",
@@ -665,6 +830,17 @@
       "toLogo": "https://media.api-sports.io/football/teams/85.png"
     },
     {
+      "id": "rss-https://www.theguardian.com/football/2026/apr/30/manchester-united-wes",
+      "kind": "rumor",
+      "player": "Manchester United target West Ham’s Diouf and confirm new Mainoo contract",
+      "date": "2026-04-30",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/apr/30/manchester-united-west-ham-el-hadji-malick-diouf-target-kobbie-mainoo-new-contract"
+    },
+    {
       "id": "138415-2026-04-29-250",
       "player": "K. Wright",
       "date": "2026-04-29",
@@ -683,6 +859,17 @@
       "fromLogo": "https://media.api-sports.io/football/teams/2939.png",
       "to": "Al-Nassr",
       "toLogo": "https://media.api-sports.io/football/teams/2939.png"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/apr/25/manchester-united-tar",
+      "kind": "rumor",
+      "player": "Manchester United target Atalanta’s Éderson as Casemiro replacement",
+      "date": "2026-04-25",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/apr/25/manchester-united-target-atalanta-ederson-to-replace-casemiro"
     },
     {
       "id": "616197-2026-04-16-487",
