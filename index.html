@@ -34,7 +34,7 @@
   .rank.top { color:#ffd166; background:rgba(255,209,102,.14); }
   .buzz { display:inline-flex; align-items:center; gap:3px; font-size:11px; color:#c7ccd6; font-weight:700; }
   .time { font-size:11px; color:#6b7280; }
-  .pname { font-family:'Anton',sans-serif; font-size:22px; letter-spacing:.01em; margin:10px 0 2px; }
+  .pname { font-family:'Anton',sans-serif; letter-spacing:.01em; margin:10px 0 2px; line-height:1.1; }
   .meta { font-size:12px; color:#8a93a6; margin:0 0 14px; }
   .clubs { display:flex; align-items:center; justify-content:space-between; gap:8px; }
   .crest { width:34px; height:34px; border-radius:10px; display:flex; align-items:center; justify-content:center; font-family:'Archivo',sans-serif; font-weight:800; font-size:11px; color:#fff; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,.25); }
@@ -52,9 +52,7 @@
 <body>
 <div class="wrap">
   <div class="head">
-    <div class="row">
-      <div class="title">EXPRESS MERCATO<span class="dot">.</span></div>
-    </div>
+    <div class="row"><div class="title">EXPRESS MERCATO<span class="dot">.</span></div></div>
     <div class="pill open"><span>● Mercato d'été ouvert</span><span class="muted">ferme le 1er sept.</span></div>
     <div class="pill status" id="status"><span id="statusText">Connexion aux données…</span></div>
     <div class="seg" id="segType">
@@ -73,19 +71,16 @@
   </div>
   <div class="feed" id="feed"></div>
 </div>
-
 <script>
 var DATA_URL = "data.json";
 var LIVE_REFRESH_MS = 5 * 60 * 1000;
 var LEAGUES = ["Tout","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Liga Portugal","Eredivisie","Saudi Pro League","Süper Lig","MLS","Autres"];
 var MAIN_LEAGUES = LEAGUES.filter(function(l){ return l!=="Tout" && l!=="Autres"; });
-
-var CLUB_POP = {"Real Madrid":100,"Barcelona":98,"Barcelone":98,"Manchester United":95,"Bayern Munich":90,"Bayern":90,"Paris Saint Germain":89,"PSG":89,"Arsenal":88,"Juventus":85,"AC Milan":82,"Milan":82,"Atletico Madrid":80,"Atlético":80,"Inter Miami":80,"Tottenham":78,"Newcastle":70,"Benfica":68,"Galatasaray":66,"Celtic":60,"Liverpool":92};
-var PLAYER_POP = {"Sergio Ramos":92,"Julián Álvarez":84,"Xavi Simons":80,"Nico Williams":78,"Memphis Depay":76};
+var CLUB_POP = {"Real Madrid":100,"Barcelona":98,"Manchester United":95,"Bayern Munich":90,"Paris Saint Germain":89,"Arsenal":88,"Juventus":85,"AC Milan":82,"Atletico Madrid":80,"Inter Miami":80,"Tottenham":78,"Newcastle":70,"Benfica":68,"Galatasaray":66,"Celtic":60,"Liverpool":92};
+var PLAYER_POP = {};
 function clubPop(c){ return CLUB_POP[c] != null ? CLUB_POP[c] : 45; }
 function playerPop(p){ return PLAYER_POP[p] != null ? PLAYER_POP[p] : 50; }
 function popScore(i){ return Math.round(0.5*playerPop(i.player)+0.3*clubPop(i.to)+0.2*clubPop(i.from)); }
-
 function ageHours(item){
   if(item.ts) return Math.max(0,(Date.now()-item.ts)/3600000);
   var s=item.time||""; if(/aujourd'hui|instant/i.test(s)) return 1;
@@ -95,30 +90,23 @@ function ageHours(item){
 function recencyScore(item){ return 100*Math.pow(0.5, ageHours(item)/24); }
 function aLaUneScore(item){ return 0.85*recencyScore(item)+0.15*popScore(item); }
 function relTime(d){ if(!d) return ""; var diff=Date.now()-new Date(d).getTime(); if(isNaN(diff)) return ""; var day=86400000; if(diff<day) return "aujourd'hui"; var j=Math.floor(diff/day); return j<30?("il y a "+j+" j"):("il y a "+Math.floor(j/30)+" mois"); }
-
-var FEED = [
-  {id:"d1",type:"rumor",player:"Julián Álvarez",pos:"Attaquant",age:26,from:"Atlético",fromColor:"#cb3524",to:"Arsenal",toColor:"#ef0107",league:"Premier League",fee:"≈ 90 M€",time:"il y a 2 h",source:"Fabrizio Romano"},
-  {id:"d2",type:"confirmed",player:"Anthony Gordon",pos:"Ailier",age:25,from:"Newcastle",fromColor:"#241f20",to:"Barcelone",toColor:"#a50044",league:"La Liga",fee:"75 M€",time:"il y a 5 h",source:"Officiel"},
-  {id:"d3",type:"rumor",player:"Teun Koopmeiners",pos:"Milieu",age:28,from:"Juventus",fromColor:"#000",to:"Man United",toColor:"#da291c",league:"Premier League",fee:"≈ 45 M€",time:"il y a 8 h",source:"Sky"}
-];
-
+var FEED = [{id:"d1",type:"rumor",player:"Exemple de rumeur",from:"",to:"",league:"",fee:"",time:"il y a 2 h",source:"Démo"}];
 function mapLive(raw){
   return (raw && raw.transfers ? raw.transfers : []).map(function(t,i){
-    return { id:t.id||("live-"+i), type:"confirmed", player:t.player||"Inconnu", pos:"", age:null, league:"",
-      from:t.from||"?", fromColor:"#2a3142", fromLogo:t.fromLogo||null,
-      to:t.to||"?", toColor:"#2a3142", toLogo:t.toLogo||null,
-      fee:t.type||"—", source:"API-Football", ts:new Date(t.date).getTime(), time:relTime(t.date) };
+    var isR = t.kind === "rumor";
+    return { id:t.id||("live-"+i), type:isR?"rumor":"confirmed", player:t.player||"Inconnu", pos:"", age:null, league:t.league||"",
+      from:t.from||"", fromColor:"#2a3142", fromLogo:t.fromLogo||null,
+      to:t.to||"", toColor:"#2a3142", toLogo:t.toLogo||null,
+      fee:isR?"":(t.type||"—"), source:t.source||"API-Football", link:t.link||null,
+      ts:new Date(t.date).getTime(), time:relTime(t.date) };
   });
 }
-
 var state = { filterType:"Tout", league:"Tout", sortMode:"mix", source:"loading", liveItems:[], liveUpdatedAt:null };
-
 function load(){
   fetch(DATA_URL,{cache:"no-store"}).then(function(r){ return r.json(); }).then(function(j){
     state.liveItems = mapLive(j); state.liveUpdatedAt = j.updatedAt || null; state.source = "live"; render();
   }).catch(function(){ state.source = "demo"; render(); });
 }
-
 function esc(s){ return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c];}); }
 function crest(name,color,logo){
   var inner = logo ? '<img src="'+esc(logo)+'" alt="">' : esc(String(name).slice(0,3).toUpperCase());
@@ -126,30 +114,26 @@ function crest(name,color,logo){
 }
 function card(item,rank,showRank){
   var isR = item.type==="rumor";
-  var meta = [item.pos, item.age?item.age+" ans":"", item.league].filter(Boolean).join(" · ");
+  var hasClubs = item.from && item.to && item.from!=="?" && item.to!=="?";
+  var meta = [item.league].filter(Boolean).join(" · ");
   var rankHtml = showRank ? '<span class="rank '+(rank<=3?"top":"")+'">#'+rank+'</span>' : '';
   var badge = isR ? '<span class="badge rumor">🔥 RUMEUR</span>' : '<span class="badge off">✓ OFFICIEL</span>';
-  return '<div class="card">'
-    + '<div class="row"><div style="display:flex;align-items:center;gap:6px">'+rankHtml+badge+'</div>'
+  var clubsHtml = hasClubs ? ('<div class="clubs">'+crest(item.from,item.fromColor,item.fromLogo)+'<span class="cname" style="flex:1">'+esc(item.from)+'</span><span class="arrow">→</span>'+crest(item.to,item.toColor,item.toLogo)+'<span class="cname" style="flex:1;text-align:right">'+esc(item.to)+'</span></div>') : '';
+  var inner = '<div class="row"><div style="display:flex;align-items:center;gap:6px">'+rankHtml+badge+'</div>'
     + '<div style="display:flex;align-items:center;gap:8px"><span class="buzz">🔥 '+item.pop+'</span><span class="time">'+esc(item.time||"")+'</span></div></div>'
-    + '<div class="pname">'+esc(item.player)+'</div>'
-    + (meta?'<p class="meta">'+esc(meta)+'</p>':'<div style="height:12px"></div>')
-    + '<div class="clubs">'+crest(item.from,item.fromColor,item.fromLogo)+'<span class="cname" style="flex:1">'+esc(item.from)+'</span>'
-    + '<span class="arrow">→</span>'
-    + crest(item.to,item.toColor,item.toLogo)+'<span class="cname" style="flex:1;text-align:right">'+esc(item.to)+'</span></div>'
-    + '<div class="foot"><span class="src">'+esc(item.source||"")+'</span><span class="fee">'+esc(item.fee||"")+'</span></div>'
-    + '</div>';
+    + '<div class="pname" style="font-size:'+(isR&&!hasClubs?"16px":"22px")+'">'+esc(item.player)+'</div>'
+    + (meta?'<p class="meta">'+esc(meta)+'</p>':(hasClubs?'<div style="height:12px"></div>':'<div style="height:6px"></div>'))
+    + clubsHtml
+    + '<div class="foot"><span class="src">'+esc(item.source||"")+'</span>'+(item.fee?'<span class="fee">'+esc(item.fee)+'</span>':'')+'</div>';
+  if(item.link){ return '<a class="card" style="display:block;text-decoration:none;color:inherit" href="'+esc(item.link)+'" target="_blank" rel="noopener">'+inner+'</a>'; }
+  return '<div class="card">'+inner+'</div>';
 }
-
 function render(){
   var status = document.getElementById("status");
   if(state.source==="live"){ status.innerHTML = '<span>🟢 En direct · API-Football</span><span class="muted">synchro '+(relTime(state.liveUpdatedAt)||"—")+'</span>'; }
   else if(state.source==="loading"){ status.innerHTML = '<span>Connexion aux données…</span>'; }
   else { status.innerHTML = '<span>Données d\'exemple</span><span class="muted">mode démo</span>'; }
-
-  var chips = document.getElementById("chips");
-  chips.innerHTML = LEAGUES.map(function(l){ return '<button data-v="'+esc(l)+'" class="'+(state.league===l?"on":"")+'">'+esc(l)+'</button>'; }).join("");
-
+  document.getElementById("chips").innerHTML = LEAGUES.map(function(l){ return '<button data-v="'+esc(l)+'" class="'+(state.league===l?"on":"")+'">'+esc(l)+'</button>'; }).join("");
   var base = state.source==="live" ? state.liveItems : FEED;
   var list = base.filter(function(i){
     var typeOk = state.filterType==="Tout" || (state.filterType==="Confirmés"&&i.type==="confirmed") || (state.filterType==="Rumeurs"&&i.type==="rumor");
@@ -159,13 +143,11 @@ function render(){
   if(state.sortMode==="mix") list.sort(function(a,b){ return aLaUneScore(b)-aLaUneScore(a); });
   else if(state.sortMode==="recent") list.sort(function(a,b){ return ageHours(a)-ageHours(b); });
   else if(state.sortMode==="pop") list.sort(function(a,b){ return b.pop-a.pop; });
-
   var feed = document.getElementById("feed");
   var showRank = state.sortMode!=="recent";
-  if(list.length===0){ feed.innerHTML = '<p class="empty">Aucun transfert pour ce filtre pour l\'instant.<br>Ça se remplit au fil des heures.</p>'; }
-  else { feed.innerHTML = list.map(function(it,idx){ return card(it,idx+1,showRank); }).join("") + '<p class="note">'+(state.source==="live"?"Source : API-Football · synchro toutes les 15 min":"Mode démo")+'</p>'; }
+  if(list.length===0){ feed.innerHTML = '<p class="empty">Rien pour ce filtre pour l\'instant.</p>'; }
+  else { feed.innerHTML = list.map(function(it,idx){ return card(it,idx+1,showRank); }).join("") + '<p class="note">'+(state.source==="live"?"Sources : API-Football + The Guardian":"Mode démo")+'</p>'; }
 }
-
 function wireSeg(id, key){
   document.getElementById(id).addEventListener("click", function(e){
     var b = e.target.closest("button"); if(!b) return;
@@ -180,10 +162,7 @@ document.getElementById("chips").addEventListener("click", function(e){
   var b = e.target.closest("button"); if(!b) return;
   state.league = b.getAttribute("data-v"); render();
 });
-
-render();
-load();
-setInterval(load, LIVE_REFRESH_MS);
+render(); load(); setInterval(load, LIVE_REFRESH_MS);
 </script>
 </body>
 </html>
