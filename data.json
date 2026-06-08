@@ -1,0 +1,158 @@
+{
+  "updatedAt": "2026-06-08T06:58:03.577Z",
+  "lastTeamChecked": "Liverpool",
+  "requestsRemaining": 99,
+  "count": 15,
+  "transfers": [
+    {
+      "id": "102202-250712-2353",
+      "player": "Antonio Nicolás Fernández Mozzo",
+      "date": "250712",
+      "type": "Free",
+      "from": "Liverpool",
+      "fromLogo": "https://media.api-sports.io/football/teams/40.png",
+      "to": "Juventud",
+      "toLogo": "https://media.api-sports.io/football/teams/2353.png"
+    },
+    {
+      "id": "104129-240716-247",
+      "player": "Kolo Habib Touré",
+      "date": "240716",
+      "type": "Free",
+      "from": "Liverpool",
+      "fromLogo": "https://media.api-sports.io/football/teams/40.png",
+      "to": "Celtic",
+      "toLogo": "https://media.api-sports.io/football/teams/247.png"
+    },
+    {
+      "id": "90523-220716-40",
+      "player": "Alexander Manninger",
+      "date": "220716",
+      "type": "Free",
+      "from": "FC Augsburg",
+      "fromLogo": "https://media.api-sports.io/football/teams/170.png",
+      "to": "Liverpool",
+      "toLogo": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
+      "id": "90657-200804-40",
+      "player": "Xabier Alonso Olano",
+      "date": "200804",
+      "type": "16M €",
+      "from": "Real Sociedad",
+      "fromLogo": "https://media.api-sports.io/football/teams/548.png",
+      "to": "Liverpool",
+      "toLogo": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
+      "id": "93990-190806-40",
+      "player": "Dirk Kuijt",
+      "date": "190806",
+      "type": "18M €",
+      "from": "Feyenoord",
+      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
+      "to": "Liverpool",
+      "toLogo": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
+      "id": "90657-050809-541",
+      "player": "Xabier Alonso Olano",
+      "date": "050809",
+      "type": "35.4M €",
+      "from": "Liverpool",
+      "fromLogo": "https://media.api-sports.io/football/teams/40.png",
+      "to": "Real Madrid",
+      "toLogo": "https://media.api-sports.io/football/teams/541.png"
+    },
+    {
+      "id": "243083-050417-40",
+      "player": "Christian Leonel Rodríguez Fleitas",
+      "date": "050417",
+      "type": "N/A",
+      "from": "Tacuarembo",
+      "fromLogo": "https://media.api-sports.io/football/teams/2374.png",
+      "to": "Liverpool",
+      "toLogo": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
+      "id": "114783-040110-492",
+      "player": "Andrea Dossena",
+      "date": "040110",
+      "type": "3.8M €",
+      "from": "Liverpool",
+      "fromLogo": "https://media.api-sports.io/football/teams/40.png",
+      "to": "Napoli",
+      "toLogo": "https://media.api-sports.io/football/teams/492.png"
+    },
+    {
+      "id": "87051-020802-111",
+      "player": "Alou Diarra",
+      "date": "020802",
+      "type": "Loan",
+      "from": "Liverpool",
+      "fromLogo": "https://media.api-sports.io/football/teams/40.png",
+      "to": "LE Havre",
+      "toLogo": "https://media.api-sports.io/football/teams/111.png"
+    },
+    {
+      "id": "87051-010903-1305",
+      "player": "Alou Diarra",
+      "date": "010903",
+      "type": "Loan",
+      "from": "Liverpool",
+      "fromLogo": "https://media.api-sports.io/football/teams/40.png",
+      "to": "Bastia",
+      "toLogo": "https://media.api-sports.io/football/teams/1305.png"
+    },
+    {
+      "id": "87051-010804-116",
+      "player": "Alou Diarra",
+      "date": "010804",
+      "type": "Loan",
+      "from": "Liverpool",
+      "fromLogo": "https://media.api-sports.io/football/teams/40.png",
+      "to": "Lens",
+      "toLogo": "https://media.api-sports.io/football/teams/116.png"
+    },
+    {
+      "id": "87051-010802-40",
+      "player": "Alou Diarra",
+      "date": "010802",
+      "type": "Free",
+      "from": "Bayern Munich",
+      "fromLogo": "https://media.api-sports.io/football/teams/157.png",
+      "to": "Liverpool",
+      "toLogo": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
+      "id": "83027-010714-40",
+      "player": "Rickie Lambert",
+      "date": "010714",
+      "type": "5.5M €",
+      "from": "Southampton",
+      "fromLogo": "https://media.api-sports.io/football/teams/41.png",
+      "to": "Liverpool",
+      "toLogo": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
+      "id": "93990-010712-611",
+      "player": "Dirk Kuijt",
+      "date": "010712",
+      "type": "1M €",
+      "from": "Liverpool",
+      "fromLogo": "https://media.api-sports.io/football/teams/40.png",
+      "to": "Fenerbahce",
+      "toLogo": "https://media.api-sports.io/football/teams/611.png"
+    },
+    {
+      "id": "114783-010708-40",
+      "player": "Andrea Dossena",
+      "date": "010708",
+      "type": "9M €",
+      "from": "Udinese",
+      "fromLogo": "https://media.api-sports.io/football/teams/494.png",
+      "to": "Liverpool",
+      "toLogo": "https://media.api-sports.io/football/teams/40.png"
+    }
+  ]
+}
