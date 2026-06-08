@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-08T16:16:16.065Z",
-  "lastTeamChecked": "Marseille",
-  "requestsRemaining": 98,
-  "count": 2,
+  "updatedAt": "2026-06-08T16:27:51.867Z",
+  "lastTeamChecked": "Leicester",
+  "requestsRemaining": 97,
+  "count": 11,
   "transfers": [
     {
       "id": "51295-2026-05-30-81",
@@ -23,6 +23,96 @@
       "fromLogo": "https://media.api-sports.io/football/teams/39.png",
       "to": "Marseille",
       "toLogo": "https://media.api-sports.io/football/teams/81.png"
+    },
+    {
+      "id": "305733-2026-05-30-46",
+      "player": "W. Alves",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Huddersfield",
+      "fromLogo": "https://media.api-sports.io/football/teams/37.png",
+      "to": "Leicester",
+      "toLogo": "https://media.api-sports.io/football/teams/46.png"
+    },
+    {
+      "id": "570104-2026-05-30-46",
+      "player": "C. Popov",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Morecambe",
+      "fromLogo": "https://media.api-sports.io/football/teams/1375.png",
+      "to": "Leicester",
+      "toLogo": "https://media.api-sports.io/football/teams/46.png"
+    },
+    {
+      "id": "434183-2026-05-30-46",
+      "player": "J. Evans",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Northampton",
+      "fromLogo": "https://media.api-sports.io/football/teams/1337.png",
+      "to": "Leicester",
+      "toLogo": "https://media.api-sports.io/football/teams/46.png"
+    },
+    {
+      "id": "289624-2026-05-30-46",
+      "player": "S. Braybrooke",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Chesterfield",
+      "fromLogo": "https://media.api-sports.io/football/teams/1345.png",
+      "to": "Leicester",
+      "toLogo": "https://media.api-sports.io/football/teams/46.png"
+    },
+    {
+      "id": "411808-2026-05-30-x",
+      "player": "D. Richards",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Leicester",
+      "fromLogo": "https://media.api-sports.io/football/teams/46.png",
+      "to": "Phoenix FA",
+      "toLogo": null
+    },
+    {
+      "id": "278079-2026-05-30-44",
+      "player": "A. Ramsey",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Leicester",
+      "fromLogo": "https://media.api-sports.io/football/teams/46.png",
+      "to": "Burnley",
+      "toLogo": "https://media.api-sports.io/football/teams/44.png"
+    },
+    {
+      "id": "380681-2026-05-30-50",
+      "player": "D. Mukasa",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Leicester",
+      "fromLogo": "https://media.api-sports.io/football/teams/46.png",
+      "to": "Manchester City",
+      "toLogo": "https://media.api-sports.io/football/teams/50.png"
+    },
+    {
+      "id": "19825-2026-05-30-41",
+      "player": "J. Aribo",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Leicester",
+      "fromLogo": "https://media.api-sports.io/football/teams/46.png",
+      "to": "Southampton",
+      "toLogo": "https://media.api-sports.io/football/teams/41.png"
+    },
+    {
+      "id": "546686-2026-03-29-46",
+      "player": "T. Onanaye",
+      "date": "2026-03-29",
+      "type": "Return from loan",
+      "from": "Kidderminster Harriers",
+      "fromLogo": "https://media.api-sports.io/football/teams/4695.png",
+      "to": "Leicester",
+      "toLogo": "https://media.api-sports.io/football/teams/46.png"
     }
   ]
 }
