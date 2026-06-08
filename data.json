@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-08T16:27:51.867Z",
-  "lastTeamChecked": "Leicester",
-  "requestsRemaining": 97,
-  "count": 11,
+  "updatedAt": "2026-06-08T16:59:24.512Z",
+  "lastTeamChecked": "100 clubs",
+  "requestsRemaining": 99,
+  "count": 97,
   "transfers": [
     {
       "id": "51295-2026-05-30-81",
@@ -105,6 +105,756 @@
       "toLogo": "https://media.api-sports.io/football/teams/41.png"
     },
     {
+      "id": "328093-2026-05-30-49",
+      "player": "I. Samuels-Smith",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Swansea",
+      "fromLogo": "https://media.api-sports.io/football/teams/76.png",
+      "to": "Chelsea",
+      "toLogo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    {
+      "id": "298061-2026-05-30-49",
+      "player": "Ted Curd",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Boreham Wood",
+      "fromLogo": "https://media.api-sports.io/football/teams/1830.png",
+      "to": "Chelsea",
+      "toLogo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    {
+      "id": "286774-2026-05-30-49",
+      "player": "Ronnie Stutter",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Barnet",
+      "fromLogo": "https://media.api-sports.io/football/teams/1369.png",
+      "to": "Chelsea",
+      "toLogo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    {
+      "id": "334037-2026-05-30-49",
+      "player": "Tyrique George",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Everton",
+      "fromLogo": "https://media.api-sports.io/football/teams/45.png",
+      "to": "Chelsea",
+      "toLogo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    {
+      "id": "284474-2026-05-30-55",
+      "player": "M. Olakigbe",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Swindon Town",
+      "fromLogo": "https://media.api-sports.io/football/teams/1353.png",
+      "to": "Brentford",
+      "toLogo": "https://media.api-sports.io/football/teams/55.png"
+    },
+    {
+      "id": "430734-2026-05-30-55",
+      "player": "Y. Konak",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Oxford United",
+      "fromLogo": "https://media.api-sports.io/football/teams/1338.png",
+      "to": "Brentford",
+      "toLogo": "https://media.api-sports.io/football/teams/55.png"
+    },
+    {
+      "id": "382925-2026-05-30-55",
+      "player": "R. Trevitt",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Wigan",
+      "fromLogo": "https://media.api-sports.io/football/teams/61.png",
+      "to": "Brentford",
+      "toLogo": "https://media.api-sports.io/football/teams/55.png"
+    },
+    {
+      "id": "350625-2026-05-30-55",
+      "player": "J. Meghoma",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Rangers",
+      "fromLogo": "https://media.api-sports.io/football/teams/257.png",
+      "to": "Brentford",
+      "toLogo": "https://media.api-sports.io/football/teams/55.png"
+    },
+    {
+      "id": "278041-2026-05-30-55",
+      "player": "M. Cox",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Shrewsbury",
+      "fromLogo": "https://media.api-sports.io/football/teams/1352.png",
+      "to": "Brentford",
+      "toLogo": "https://media.api-sports.io/football/teams/55.png"
+    },
+    {
+      "id": "560744-2026-05-30-55",
+      "player": "B. Krauhaus",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Bromley",
+      "fromLogo": "https://media.api-sports.io/football/teams/1832.png",
+      "to": "Brentford",
+      "toLogo": "https://media.api-sports.io/football/teams/55.png"
+    },
+    {
+      "id": "153422-2026-05-30-55",
+      "player": "E. Brierley",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Exeter City",
+      "fromLogo": "https://media.api-sports.io/football/teams/1364.png",
+      "to": "Brentford",
+      "toLogo": "https://media.api-sports.io/football/teams/55.png"
+    },
+    {
+      "id": "284475-2026-05-30-36",
+      "player": "L. Harris",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Wycombe",
+      "fromLogo": "https://media.api-sports.io/football/teams/1358.png",
+      "to": "Fulham",
+      "toLogo": "https://media.api-sports.io/football/teams/36.png"
+    },
+    {
+      "id": "284522-2026-05-30-36",
+      "player": "O. Sanderson",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Woking",
+      "fromLogo": "https://media.api-sports.io/football/teams/1836.png",
+      "to": "Fulham",
+      "toLogo": "https://media.api-sports.io/football/teams/36.png"
+    },
+    {
+      "id": "329327-2026-05-30-36",
+      "player": "A. Loupalo-Bi",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Walsall",
+      "fromLogo": "https://media.api-sports.io/football/teams/1342.png",
+      "to": "Fulham",
+      "toLogo": "https://media.api-sports.io/football/teams/36.png"
+    },
+    {
+      "id": "284558-2026-05-30-36",
+      "player": "Harvey Araujo",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Colchester",
+      "fromLogo": "https://media.api-sports.io/football/teams/1361.png",
+      "to": "Fulham",
+      "toLogo": "https://media.api-sports.io/football/teams/36.png"
+    },
+    {
+      "id": "454018-2026-05-30-36",
+      "player": "M. Underwood",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Uxbridge",
+      "fromLogo": "https://media.api-sports.io/football/teams/7257.png",
+      "to": "Fulham",
+      "toLogo": "https://media.api-sports.io/football/teams/36.png"
+    },
+    {
+      "id": "557570-2026-05-30-36",
+      "player": "D. Kaiser",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Margate",
+      "fromLogo": "https://media.api-sports.io/football/teams/7730.png",
+      "to": "Fulham",
+      "toLogo": "https://media.api-sports.io/football/teams/36.png"
+    },
+    {
+      "id": "349684-2026-05-30-36",
+      "player": "C. Nwoko",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Forest Green",
+      "fromLogo": "https://media.api-sports.io/football/teams/1378.png",
+      "to": "Fulham",
+      "toLogo": "https://media.api-sports.io/football/teams/36.png"
+    },
+    {
+      "id": "19485-2026-05-30-41",
+      "player": "B. Brereton",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Derby",
+      "fromLogo": "https://media.api-sports.io/football/teams/69.png",
+      "to": "Southampton",
+      "toLogo": "https://media.api-sports.io/football/teams/41.png"
+    },
+    {
+      "id": "105971-2026-05-30-41",
+      "player": "G. Bazunu",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Stoke City",
+      "fromLogo": "https://media.api-sports.io/football/teams/75.png",
+      "to": "Southampton",
+      "toLogo": "https://media.api-sports.io/football/teams/41.png"
+    },
+    {
+      "id": "560753-2026-05-30-41",
+      "player": "O. Wright",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Accrington ST",
+      "fromLogo": "https://media.api-sports.io/football/teams/1360.png",
+      "to": "Southampton",
+      "toLogo": "https://media.api-sports.io/football/teams/41.png"
+    },
+    {
+      "id": "412152-2026-05-30-41",
+      "player": "Jayden Moore",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Eastleigh",
+      "fromLogo": "https://media.api-sports.io/football/teams/1822.png",
+      "to": "Southampton",
+      "toLogo": "https://media.api-sports.io/football/teams/41.png"
+    },
+    {
+      "id": "358666-2026-05-30-41",
+      "player": "R. Akachukwu",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Colchester",
+      "fromLogo": "https://media.api-sports.io/football/teams/1361.png",
+      "to": "Southampton",
+      "toLogo": "https://media.api-sports.io/football/teams/41.png"
+    },
+    {
+      "id": "309364-2026-05-30-546",
+      "player": "Coba",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Anderlecht",
+      "fromLogo": "https://media.api-sports.io/football/teams/554.png",
+      "to": "Getafe",
+      "toLogo": "https://media.api-sports.io/football/teams/546.png"
+    },
+    {
+      "id": "350529-2026-05-30-247",
+      "player": "J. Bonnar",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Ayr Utd",
+      "fromLogo": "https://media.api-sports.io/football/teams/1387.png",
+      "to": "Celtic",
+      "toLogo": "https://media.api-sports.io/football/teams/247.png"
+    },
+    {
+      "id": "67958-2026-05-30-247",
+      "player": "S. Welsh",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Motherwell",
+      "fromLogo": "https://media.api-sports.io/football/teams/256.png",
+      "to": "Celtic",
+      "toLogo": "https://media.api-sports.io/football/teams/247.png"
+    },
+    {
+      "id": "348262-2026-05-30-247",
+      "player": "J. Clarke",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Partick",
+      "fromLogo": "https://media.api-sports.io/football/teams/901.png",
+      "to": "Celtic",
+      "toLogo": "https://media.api-sports.io/football/teams/247.png"
+    },
+    {
+      "id": "355749-2026-05-30-247",
+      "player": "B. Summers",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Ayr Utd",
+      "fromLogo": "https://media.api-sports.io/football/teams/1387.png",
+      "to": "Celtic",
+      "toLogo": "https://media.api-sports.io/football/teams/247.png"
+    },
+    {
+      "id": "158820-2026-05-30-247",
+      "player": "M. Robertson",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Inverness CT",
+      "fromLogo": "https://media.api-sports.io/football/teams/903.png",
+      "to": "Celtic",
+      "toLogo": "https://media.api-sports.io/football/teams/247.png"
+    },
+    {
+      "id": "449057-2026-05-30-257",
+      "player": "J. Gentles",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Alloa Athletic",
+      "fromLogo": "https://media.api-sports.io/football/teams/1391.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "162284-2026-05-30-257",
+      "player": "L. King",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Ayr Utd",
+      "fromLogo": "https://media.api-sports.io/football/teams/1387.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "64314-2026-05-30-257",
+      "player": "L. Cameron",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Aberdeen",
+      "fromLogo": "https://media.api-sports.io/football/teams/252.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "562809-2026-05-30-257",
+      "player": "Z. Hutton",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Hamilton Academical",
+      "fromLogo": "https://media.api-sports.io/football/teams/248.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "303322-2026-05-30-39",
+      "player": "N. Djiga",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Rangers",
+      "fromLogo": "https://media.api-sports.io/football/teams/257.png",
+      "to": "Wolves",
+      "toLogo": "https://media.api-sports.io/football/teams/39.png"
+    },
+    {
+      "id": "380690-2026-05-30-47",
+      "player": "M. Moore",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Rangers",
+      "fromLogo": "https://media.api-sports.io/football/teams/257.png",
+      "to": "Tottenham",
+      "toLogo": "https://media.api-sports.io/football/teams/47.png"
+    },
+    {
+      "id": "592398-2026-05-30-257",
+      "player": "Connor Campbell",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Stirling Albion",
+      "fromLogo": "https://media.api-sports.io/football/teams/4669.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "433272-2026-05-30-257",
+      "player": "Findlay Curtis",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Kilmarnock",
+      "fromLogo": "https://media.api-sports.io/football/teams/250.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "637438-2026-05-30-257",
+      "player": "Alexander Smith",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Dumbarton",
+      "fromLogo": "https://media.api-sports.io/football/teams/1382.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "384577-2026-05-30-257",
+      "player": "P. Nsio",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "from": "Raith Rovers",
+      "fromLogo": "https://media.api-sports.io/football/teams/1385.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "554589-2026-05-23-495",
+      "player": "M. Romano",
+      "date": "2026-05-23",
+      "type": "-",
+      "from": "Real Forio 2014",
+      "fromLogo": null,
+      "to": "Genoa",
+      "toLogo": "https://media.api-sports.io/football/teams/495.png"
+    },
+    {
+      "id": "416996-2026-05-21-21140",
+      "player": "A. Jarvis",
+      "date": "2026-05-21",
+      "type": "Loan",
+      "from": "New York Red Bulls",
+      "fromLogo": "https://media.api-sports.io/football/teams/1602.png",
+      "to": "Huntsville City",
+      "toLogo": "https://media.api-sports.io/football/teams/21140.png"
+    },
+    {
+      "id": "138415-2026-05-17-257",
+      "player": "K. Wright",
+      "date": "2026-05-17",
+      "type": "Return from loan",
+      "from": "Kilmarnock",
+      "fromLogo": "https://media.api-sports.io/football/teams/250.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "646348-2026-05-17-121",
+      "player": "M. Kone",
+      "date": "2026-05-17",
+      "type": "-",
+      "from": "Palmeiras",
+      "fromLogo": "https://media.api-sports.io/football/teams/121.png",
+      "to": "Palmeiras",
+      "toLogo": "https://media.api-sports.io/football/teams/121.png"
+    },
+    {
+      "id": "662553-2026-05-17-435",
+      "player": "J. Asuzu",
+      "date": "2026-05-17",
+      "type": "-",
+      "from": "River Plate",
+      "fromLogo": "https://media.api-sports.io/football/teams/435.png",
+      "to": "River Plate",
+      "toLogo": "https://media.api-sports.io/football/teams/435.png"
+    },
+    {
+      "id": "498776-2026-05-15-520",
+      "player": "M. Cassin",
+      "date": "2026-05-15",
+      "type": "-",
+      "from": "Udinese",
+      "fromLogo": "https://media.api-sports.io/football/teams/494.png",
+      "to": "Cremonese",
+      "toLogo": "https://media.api-sports.io/football/teams/520.png"
+    },
+    {
+      "id": "486052-2026-05-15-194",
+      "player": "M. Muzungu",
+      "date": "2026-05-15",
+      "type": "-",
+      "from": "Jong Ajax",
+      "fromLogo": "https://media.api-sports.io/football/teams/425.png",
+      "to": "Ajax",
+      "toLogo": "https://media.api-sports.io/football/teams/194.png"
+    },
+    {
+      "id": "500047-2026-05-14-212",
+      "player": "Bernardo Lima",
+      "date": "2026-05-14",
+      "type": "Raise",
+      "from": "FC Porto",
+      "fromLogo": "https://media.api-sports.io/football/teams/212.png",
+      "to": "FC Porto",
+      "toLogo": "https://media.api-sports.io/football/teams/212.png"
+    },
+    {
+      "id": "138415-2026-05-13-257",
+      "player": "K. Wright",
+      "date": "2026-05-13",
+      "type": "Return from loan",
+      "from": "Kilmarnock",
+      "fromLogo": "https://media.api-sports.io/football/teams/250.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "138815-2026-05-10-x",
+      "player": "T. Lamptey",
+      "date": "2026-05-10",
+      "type": "Free agent",
+      "from": "Fiorentina",
+      "fromLogo": "https://media.api-sports.io/football/teams/502.png",
+      "to": "Lamptey Tariq",
+      "toLogo": null
+    },
+    {
+      "id": "557343-2026-05-09-63",
+      "player": "R. Chadwick-Chaplin",
+      "date": "2026-05-09",
+      "type": "Raise",
+      "from": "Leeds",
+      "fromLogo": "https://media.api-sports.io/football/teams/63.png",
+      "to": "Leeds",
+      "toLogo": "https://media.api-sports.io/football/teams/63.png"
+    },
+    {
+      "id": "138415-2026-05-06-257",
+      "player": "K. Wright",
+      "date": "2026-05-06",
+      "type": "Return from loan",
+      "from": "Kilmarnock",
+      "fromLogo": "https://media.api-sports.io/football/teams/250.png",
+      "to": "Rangers",
+      "toLogo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+      "id": "483798-2026-05-06-1602",
+      "player": "Odeyinka Malik",
+      "date": "2026-05-06",
+      "type": "Loan",
+      "from": "AF Elbasani",
+      "fromLogo": "https://media.api-sports.io/football/teams/20406.png",
+      "to": "New York Red Bulls",
+      "toLogo": "https://media.api-sports.io/football/teams/1602.png"
+    },
+    {
+      "id": "303010-2026-05-02-33",
+      "player": "Daniel Gore",
+      "date": "2026-05-02",
+      "type": "Return from loan",
+      "from": "Rotherham",
+      "fromLogo": "https://media.api-sports.io/football/teams/73.png",
+      "to": "Manchester United",
+      "toLogo": "https://media.api-sports.io/football/teams/33.png"
+    },
+    {
+      "id": "400938-2026-05-02-55",
+      "player": "Iwan Morgan",
+      "date": "2026-05-02",
+      "type": "Return from loan",
+      "from": "Shrewsbury",
+      "fromLogo": "https://media.api-sports.io/football/teams/1352.png",
+      "to": "Brentford",
+      "toLogo": "https://media.api-sports.io/football/teams/55.png"
+    },
+    {
+      "id": "616143-2026-05-01-500",
+      "player": "Riccardo Gnudi",
+      "date": "2026-05-01",
+      "type": "Raise",
+      "from": "Bologna",
+      "fromLogo": "https://media.api-sports.io/football/teams/500.png",
+      "to": "Bologna",
+      "toLogo": "https://media.api-sports.io/football/teams/500.png"
+    },
+    {
+      "id": "568269-2026-04-30-85",
+      "player": "T. Cordier",
+      "date": "2026-04-30",
+      "type": "Raise",
+      "from": "Paris Saint Germain",
+      "fromLogo": "https://media.api-sports.io/football/teams/85.png",
+      "to": "Paris Saint Germain",
+      "toLogo": "https://media.api-sports.io/football/teams/85.png"
+    },
+    {
+      "id": "138415-2026-04-29-250",
+      "player": "K. Wright",
+      "date": "2026-04-29",
+      "type": "Loan",
+      "from": "Rangers",
+      "fromLogo": "https://media.api-sports.io/football/teams/257.png",
+      "to": "Kilmarnock",
+      "toLogo": "https://media.api-sports.io/football/teams/250.png"
+    },
+    {
+      "id": "607030-2026-04-27-2939",
+      "player": "A. Al Otaibi",
+      "date": "2026-04-27",
+      "type": "Raise",
+      "from": "Al-Nassr",
+      "fromLogo": "https://media.api-sports.io/football/teams/2939.png",
+      "to": "Al-Nassr",
+      "toLogo": "https://media.api-sports.io/football/teams/2939.png"
+    },
+    {
+      "id": "616197-2026-04-16-487",
+      "player": "Nicolo Pannozzo",
+      "date": "2026-04-16",
+      "type": "-",
+      "from": "Latina",
+      "fromLogo": "https://media.api-sports.io/football/teams/804.png",
+      "to": "Lazio",
+      "toLogo": "https://media.api-sports.io/football/teams/487.png"
+    },
+    {
+      "id": "616219-2026-04-10-495",
+      "player": "Klisys",
+      "date": "2026-04-10",
+      "type": "-",
+      "from": "BFA",
+      "fromLogo": "https://media.api-sports.io/football/teams/3857.png",
+      "to": "Genoa",
+      "toLogo": "https://media.api-sports.io/football/teams/495.png"
+    },
+    {
+      "id": "628439-2026-04-10-217",
+      "player": "Luisinho",
+      "date": "2026-04-10",
+      "type": "Raise",
+      "from": "SC Braga",
+      "fromLogo": "https://media.api-sports.io/football/teams/217.png",
+      "to": "SC Braga",
+      "toLogo": "https://media.api-sports.io/football/teams/217.png"
+    },
+    {
+      "id": "639743-2026-04-06-126",
+      "player": "Osorio Luis",
+      "date": "2026-04-06",
+      "type": "-",
+      "from": "Sao Paulo",
+      "fromLogo": "https://media.api-sports.io/football/teams/126.png",
+      "to": "Sao Paulo",
+      "toLogo": "https://media.api-sports.io/football/teams/126.png"
+    },
+    {
+      "id": "616225-2026-04-04-495",
+      "player": "Jacopo Grossi",
+      "date": "2026-04-04",
+      "type": "Raise",
+      "from": "Genoa",
+      "fromLogo": "https://media.api-sports.io/football/teams/495.png",
+      "to": "Genoa",
+      "toLogo": "https://media.api-sports.io/football/teams/495.png"
+    },
+    {
+      "id": "570402-2026-04-04-131",
+      "player": "I. Machado",
+      "date": "2026-04-04",
+      "type": "Raise",
+      "from": "Corinthians",
+      "fromLogo": "https://media.api-sports.io/football/teams/131.png",
+      "to": "Corinthians",
+      "toLogo": "https://media.api-sports.io/football/teams/131.png"
+    },
+    {
+      "id": "653521-2026-04-03-209",
+      "player": "I. Grootfaam",
+      "date": "2026-04-03",
+      "type": "Raise",
+      "from": "Feyenoord",
+      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
+      "to": "Feyenoord",
+      "toLogo": "https://media.api-sports.io/football/teams/209.png"
+    },
+    {
+      "id": "407238-2026-04-03-3989",
+      "player": "K. Hughes",
+      "date": "2026-04-03",
+      "type": "Loan",
+      "from": "New England Revolution",
+      "fromLogo": "https://media.api-sports.io/football/teams/1609.png",
+      "to": "Birmingham Legion",
+      "toLogo": "https://media.api-sports.io/football/teams/3989.png"
+    },
+    {
+      "id": "551129-2026-04-02-194",
+      "player": "M. Verkuijl",
+      "date": "2026-04-02",
+      "type": "-",
+      "from": "Ajax",
+      "fromLogo": "https://media.api-sports.io/football/teams/194.png",
+      "to": "Ajax",
+      "toLogo": "https://media.api-sports.io/football/teams/194.png"
+    },
+    {
+      "id": "18833-2026-04-01-724",
+      "player": "Lucas Pérez",
+      "date": "2026-04-01",
+      "type": "Free agent",
+      "from": "PSV Eindhoven",
+      "fromLogo": "https://media.api-sports.io/football/teams/197.png",
+      "to": "Cadiz",
+      "toLogo": "https://media.api-sports.io/football/teams/724.png"
+    },
+    {
+      "id": "655333-2026-03-31-1609",
+      "player": "S. Sasaki",
+      "date": "2026-03-31",
+      "type": "Transfer",
+      "from": "New England Revolution",
+      "fromLogo": "https://media.api-sports.io/football/teams/1609.png",
+      "to": "New England Revolution",
+      "toLogo": "https://media.api-sports.io/football/teams/1609.png"
+    },
+    {
+      "id": "576756-2026-03-31-1197",
+      "player": "Caio Garcia",
+      "date": "2026-03-31",
+      "type": "-",
+      "from": "Flamengo",
+      "fromLogo": "https://media.api-sports.io/football/teams/127.png",
+      "to": "Botafogo PB",
+      "toLogo": "https://media.api-sports.io/football/teams/1197.png"
+    },
+    {
+      "id": "562691-2026-03-30-2149",
+      "player": "J. Norbye",
+      "date": "2026-03-30",
+      "type": "Loan",
+      "from": "RB Leipzig",
+      "fromLogo": "https://media.api-sports.io/football/teams/173.png",
+      "to": "Fredrikstad",
+      "toLogo": "https://media.api-sports.io/football/teams/2149.png"
+    },
+    {
+      "id": "136106-2026-03-30-326",
+      "player": "O. Holm",
+      "date": "2026-03-30",
+      "type": "Loan",
+      "from": "Celtic",
+      "fromLogo": "https://media.api-sports.io/football/teams/247.png",
+      "to": "Valerenga",
+      "toLogo": "https://media.api-sports.io/football/teams/326.png"
+    },
+    {
+      "id": "423-2026-03-30-319",
+      "player": "R. Matondo",
+      "date": "2026-03-30",
+      "type": "-",
+      "from": "Rangers",
+      "fromLogo": "https://media.api-sports.io/football/teams/257.png",
+      "to": "Brann",
+      "toLogo": "https://media.api-sports.io/football/teams/319.png"
+    },
+    {
+      "id": "576756-2026-03-30-127",
+      "player": "Caio Garcia",
+      "date": "2026-03-30",
+      "type": "Return from loan",
+      "from": "Botafogo PB",
+      "fromLogo": "https://media.api-sports.io/football/teams/1197.png",
+      "to": "Flamengo",
+      "toLogo": "https://media.api-sports.io/football/teams/127.png"
+    },
+    {
+      "id": "631534-2026-03-30-126",
+      "player": "Matheus Belem",
+      "date": "2026-03-30",
+      "type": "Return from loan",
+      "from": "Camboriú",
+      "fromLogo": "https://media.api-sports.io/football/teams/18272.png",
+      "to": "Sao Paulo",
+      "toLogo": "https://media.api-sports.io/football/teams/126.png"
+    },
+    {
       "id": "546686-2026-03-29-46",
       "player": "T. Onanaye",
       "date": "2026-03-29",
@@ -113,6 +863,116 @@
       "fromLogo": "https://media.api-sports.io/football/teams/4695.png",
       "to": "Leicester",
       "toLogo": "https://media.api-sports.io/football/teams/46.png"
+    },
+    {
+      "id": "275268-2026-03-29-18375",
+      "player": "C. Nadje",
+      "date": "2026-03-29",
+      "type": "Loan",
+      "from": "Feyenoord",
+      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
+      "to": "Monterey Bay",
+      "toLogo": "https://media.api-sports.io/football/teams/18375.png"
+    },
+    {
+      "id": "619034-2026-03-29-12952",
+      "player": "Pedro Fachinetti",
+      "date": "2026-03-29",
+      "type": "-",
+      "from": "Flamengo",
+      "fromLogo": "https://media.api-sports.io/football/teams/127.png",
+      "to": "Atlético Mineiro U20",
+      "toLogo": "https://media.api-sports.io/football/teams/12952.png"
+    },
+    {
+      "id": "275268-2026-03-28-209",
+      "player": "C. Nadje",
+      "date": "2026-03-28",
+      "type": "Return from loan",
+      "from": "Excelsior",
+      "fromLogo": "https://media.api-sports.io/football/teams/196.png",
+      "to": "Feyenoord",
+      "toLogo": "https://media.api-sports.io/football/teams/209.png"
+    },
+    {
+      "id": "10040-2026-03-27-126",
+      "player": "Artur",
+      "date": "2026-03-27",
+      "type": "Loan",
+      "from": "Botafogo",
+      "fromLogo": "https://media.api-sports.io/football/teams/120.png",
+      "to": "Sao Paulo",
+      "toLogo": "https://media.api-sports.io/football/teams/126.png"
+    },
+    {
+      "id": "383792-2026-03-26-1609",
+      "player": "Marcos Zambrano-Delgado",
+      "date": "2026-03-26",
+      "type": "Loan",
+      "from": "Real Salt Lake",
+      "fromLogo": "https://media.api-sports.io/football/teams/1606.png",
+      "to": "New England Revolution",
+      "toLogo": "https://media.api-sports.io/football/teams/1609.png"
+    },
+    {
+      "id": "412152-2026-03-22-1822",
+      "player": "Jayden Moore",
+      "date": "2026-03-22",
+      "type": "Loan",
+      "from": "Southampton",
+      "fromLogo": "https://media.api-sports.io/football/teams/41.png",
+      "to": "Eastleigh",
+      "toLogo": "https://media.api-sports.io/football/teams/1822.png"
+    },
+    {
+      "id": "630920-2026-03-22-145",
+      "player": "Vitor Marcio",
+      "date": "2026-03-22",
+      "type": "-",
+      "from": "Palmeiras",
+      "fromLogo": "https://media.api-sports.io/football/teams/121.png",
+      "to": "Avai",
+      "toLogo": "https://media.api-sports.io/football/teams/145.png"
+    },
+    {
+      "id": "487304-2026-03-19-1602",
+      "player": "M. Morigi",
+      "date": "2026-03-19",
+      "type": "Loan",
+      "from": "Caracas FC",
+      "fromLogo": "https://media.api-sports.io/football/teams/2808.png",
+      "to": "New York Red Bulls",
+      "toLogo": "https://media.api-sports.io/football/teams/1602.png"
+    },
+    {
+      "id": "633039-2026-03-13-7758",
+      "player": "E. Sills",
+      "date": "2026-03-13",
+      "type": "Loan",
+      "from": "Bournemouth",
+      "fromLogo": "https://media.api-sports.io/football/teams/35.png",
+      "to": "Wimborne Town",
+      "toLogo": "https://media.api-sports.io/football/teams/7758.png"
+    },
+    {
+      "id": "646997-2026-03-12-530",
+      "player": "Álvaro Moreno",
+      "date": "2026-03-12",
+      "type": "Raise",
+      "from": "Atletico Madrid",
+      "fromLogo": "https://media.api-sports.io/football/teams/530.png",
+      "to": "Atletico Madrid",
+      "toLogo": "https://media.api-sports.io/football/teams/530.png"
+    },
+    {
+      "id": "51010-2026-03-12-1609",
+      "player": "D. Fagundez",
+      "date": "2026-03-12",
+      "type": "Free agent",
+      "from": "Los Angeles Galaxy",
+      "fromLogo": "https://media.api-sports.io/football/teams/1605.png",
+      "to": "New England Revolution",
+      "toLogo": "https://media.api-sports.io/football/teams/1609.png"
     }
   ]
 }
