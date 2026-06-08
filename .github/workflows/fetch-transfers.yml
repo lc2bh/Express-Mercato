@@ -2,12 +2,11 @@ name: Mercato — récupération des transferts
 
 on:
   schedule:
-    # Toutes les 15 minutes → ~96 exécutions/jour (sous la limite gratuite de 100).
-    - cron: "*/15 * * * *"
-  workflow_dispatch: {}   # bouton « Run workflow » pour tester à la main
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
 
 permissions:
-  contents: write          # nécessaire pour committer data.json
+  contents: write
 
 concurrency:
   group: fetch-transfers
@@ -36,7 +35,7 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add data.json
           if git diff --staged --quiet; then
-            echo "Aucun changement à committer."
+            echo "Aucun changement."
           else
             git commit -m "MAJ transferts $(date -u +%FT%TZ)"
             git push
