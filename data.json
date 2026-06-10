@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-09T16:32:07.531Z",
+  "updatedAt": "2026-06-10T17:56:29.884Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
-  "count": 140,
+  "count": 159,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/09/out-of-contract-xis-p",
@@ -14,6 +14,17 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jun/09/out-of-contract-xis-players-in-their-20s-versus-players-in-their-30s-who-wins"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/09/atletico-madrid-rejec",
+      "kind": "rumor",
+      "player": "Atlético Madrid reject £129m bid from Real Madrid for Julián Alvarez",
+      "date": "2026-06-09",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/09/atletico-madrid-reject-129m-bid-from-real-madrid-for-julian-alvarez"
     },
     {
       "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
@@ -979,6 +990,246 @@
       "toLogo": "https://media.api-sports.io/football/teams/39.png"
     },
     {
+      "id": "312260-2026-05-30-66",
+      "kind": "confirmed",
+      "player": "K. Young",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Reading",
+      "fromLogo": "https://media.api-sports.io/football/teams/53.png",
+      "to": "Aston Villa",
+      "toLogo": "https://media.api-sports.io/football/teams/66.png"
+    },
+    {
+      "id": "284556-2026-05-30-66",
+      "kind": "confirmed",
+      "player": "T. O&apos;Reilly",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Crewe",
+      "fromLogo": "https://media.api-sports.io/football/teams/1363.png",
+      "to": "Aston Villa",
+      "toLogo": "https://media.api-sports.io/football/teams/66.png"
+    },
+    {
+      "id": "284523-2026-05-30-66",
+      "kind": "confirmed",
+      "player": "S. Swinkels",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Chesterfield",
+      "fromLogo": "https://media.api-sports.io/football/teams/1345.png",
+      "to": "Aston Villa",
+      "toLogo": "https://media.api-sports.io/football/teams/66.png"
+    },
+    {
+      "id": "284439-2026-05-30-66",
+      "kind": "confirmed",
+      "player": "L. Sousa",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Rotherham",
+      "fromLogo": "https://media.api-sports.io/football/teams/73.png",
+      "to": "Aston Villa",
+      "toLogo": "https://media.api-sports.io/football/teams/66.png"
+    },
+    {
+      "id": "162168-2026-05-30-66",
+      "kind": "confirmed",
+      "player": "L. Barry",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Stockport County",
+      "fromLogo": "https://media.api-sports.io/football/teams/4686.png",
+      "to": "Aston Villa",
+      "toLogo": "https://media.api-sports.io/football/teams/66.png"
+    },
+    {
+      "id": "153425-2026-05-30-66",
+      "kind": "confirmed",
+      "player": "L. Dobbin",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Preston",
+      "fromLogo": "https://media.api-sports.io/football/teams/59.png",
+      "to": "Aston Villa",
+      "toLogo": "https://media.api-sports.io/football/teams/66.png"
+    },
+    {
+      "id": "7029-2026-05-30-66",
+      "kind": "confirmed",
+      "player": "J. Gauci",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Port Vale",
+      "fromLogo": "https://media.api-sports.io/football/teams/1351.png",
+      "to": "Aston Villa",
+      "toLogo": "https://media.api-sports.io/football/teams/66.png"
+    },
+    {
+      "id": "434180-2026-05-30-66",
+      "kind": "confirmed",
+      "player": "Aidan Borland",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Swindon Town",
+      "fromLogo": "https://media.api-sports.io/football/teams/1353.png",
+      "to": "Aston Villa",
+      "toLogo": "https://media.api-sports.io/football/teams/66.png"
+    },
+    {
+      "id": "18-2026-05-30-33",
+      "kind": "confirmed",
+      "player": "J. Sancho",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Aston Villa",
+      "fromLogo": "https://media.api-sports.io/football/teams/66.png",
+      "to": "Manchester United",
+      "toLogo": "https://media.api-sports.io/football/teams/33.png"
+    },
+    {
+      "id": "291363-2026-05-30-48",
+      "kind": "confirmed",
+      "player": "George Earthy",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Bristol City",
+      "fromLogo": "https://media.api-sports.io/football/teams/56.png",
+      "to": "West Ham",
+      "toLogo": "https://media.api-sports.io/football/teams/48.png"
+    },
+    {
+      "id": "2938-2026-05-30-48",
+      "kind": "confirmed",
+      "player": "J. Ward-Prowse",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Burnley",
+      "fromLogo": "https://media.api-sports.io/football/teams/44.png",
+      "to": "West Ham",
+      "toLogo": "https://media.api-sports.io/football/teams/48.png"
+    },
+    {
+      "id": "538508-2026-05-30-48",
+      "kind": "confirmed",
+      "player": "M. Terry",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Braintree",
+      "fromLogo": "https://media.api-sports.io/football/teams/1831.png",
+      "to": "West Ham",
+      "toLogo": "https://media.api-sports.io/football/teams/48.png"
+    },
+    {
+      "id": "310529-2026-05-30-48",
+      "kind": "confirmed",
+      "player": "G. Kodua",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Luton",
+      "fromLogo": "https://media.api-sports.io/football/teams/1359.png",
+      "to": "West Ham",
+      "toLogo": "https://media.api-sports.io/football/teams/48.png"
+    },
+    {
+      "id": "284444-2026-05-30-48",
+      "kind": "confirmed",
+      "player": "Junior Robinson",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Boreham Wood",
+      "fromLogo": "https://media.api-sports.io/football/teams/1830.png",
+      "to": "West Ham",
+      "toLogo": "https://media.api-sports.io/football/teams/48.png"
+    },
+    {
+      "id": "284419-2026-05-30-48",
+      "kind": "confirmed",
+      "player": "M. Forbes",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Northampton",
+      "fromLogo": "https://media.api-sports.io/football/teams/1337.png",
+      "to": "West Ham",
+      "toLogo": "https://media.api-sports.io/football/teams/48.png"
+    },
+    {
+      "id": "529074-2026-05-30-65",
+      "kind": "confirmed",
+      "player": "Cherif Yaya",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Hereford",
+      "fromLogo": "https://media.api-sports.io/football/teams/4692.png",
+      "to": "Nottingham Forest",
+      "toLogo": "https://media.api-sports.io/football/teams/65.png"
+    },
+    {
+      "id": "595748-2026-05-30-65",
+      "kind": "confirmed",
+      "player": "Cormac Daly",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Hereford",
+      "fromLogo": "https://media.api-sports.io/football/teams/4692.png",
+      "to": "Nottingham Forest",
+      "toLogo": "https://media.api-sports.io/football/teams/65.png"
+    },
+    {
+      "id": "329345-2026-05-30-65",
+      "kind": "confirmed",
+      "player": "Jack Ethan Thompson",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Barrow",
+      "fromLogo": "https://media.api-sports.io/football/teams/1819.png",
+      "to": "Nottingham Forest",
+      "toLogo": "https://media.api-sports.io/football/teams/65.png"
+    },
+    {
+      "id": "443634-2026-05-30-63",
+      "kind": "confirmed",
+      "player": "H. Gray",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Rotherham",
+      "fromLogo": "https://media.api-sports.io/football/teams/73.png",
+      "to": "Leeds",
+      "toLogo": "https://media.api-sports.io/football/teams/63.png"
+    },
+    {
+      "id": "21104-2026-05-30-85",
+      "kind": "confirmed",
+      "player": "R. Kolo Muani",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Ligue 1",
+      "from": "Tottenham",
+      "fromLogo": "https://media.api-sports.io/football/teams/47.png",
+      "to": "Paris Saint Germain",
+      "toLogo": "https://media.api-sports.io/football/teams/85.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/may/29/anthony-gordon-signs-",
       "kind": "rumor",
       "player": "Anthony Gordon shows ‘fire in belly’ and Spanish skills after joining Barcelona",
@@ -1641,30 +1892,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/35.png",
       "to": "Wimborne Town",
       "toLogo": "https://media.api-sports.io/football/teams/7758.png"
-    },
-    {
-      "id": "646997-2026-03-12-530",
-      "kind": "confirmed",
-      "player": "Álvaro Moreno",
-      "date": "2026-03-12",
-      "type": "Raise",
-      "league": "La Liga",
-      "from": "Atletico Madrid",
-      "fromLogo": "https://media.api-sports.io/football/teams/530.png",
-      "to": "Atletico Madrid",
-      "toLogo": "https://media.api-sports.io/football/teams/530.png"
-    },
-    {
-      "id": "51010-2026-03-12-1609",
-      "kind": "confirmed",
-      "player": "D. Fagundez",
-      "date": "2026-03-12",
-      "type": "Free agent",
-      "league": "MLS",
-      "from": "Los Angeles Galaxy",
-      "fromLogo": "https://media.api-sports.io/football/teams/1605.png",
-      "to": "New England Revolution",
-      "toLogo": "https://media.api-sports.io/football/teams/1609.png"
     }
   ]
 }
