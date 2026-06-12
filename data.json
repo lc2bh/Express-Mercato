@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-06-11T18:10:47.721Z",
+  "updatedAt": "2026-06-12T16:46:06.415Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
-  "count": 196,
+  "count": 197,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/12/beth-mead-describes-m",
+      "kind": "rumor",
+      "player": "Beth Mead describes moving to Manchester City as a ‘no-brainer’",
+      "date": "2026-06-12",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/12/beth-mead-describes-moving-to-manchester-city-as-a-no-brainer"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/10/nottingham-forest-rej",
       "kind": "rumor",
