@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-06-12T16:46:06.415Z",
+  "updatedAt": "2026-06-13T12:21:29.832Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
-  "count": 197,
+  "count": 198,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/12/manchester-united-wes",
+      "kind": "rumor",
+      "player": "Manchester United lead chase for West Ham’s £80m-rated Mateus Fernandes",
+      "date": "2026-06-13",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/12/manchester-united-west-ham-mateus-fernandes-real-madrid-arsenal-psg"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/12/beth-mead-describes-m",
       "kind": "rumor",
