@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-06-14T12:41:19.392Z",
+  "updatedAt": "2026-06-15T20:11:30.200Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 9,
-  "count": 198,
+  "requestsRemaining": 8,
+  "count": 202,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/14/real-madrid-marc-cucu",
+      "kind": "rumor",
+      "player": "Real Madrid announce signing of Chelsea’s Marc Cucurella in £52m deal",
+      "date": "2026-06-15",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/14/real-madrid-marc-cucurella-chelsea-transfer-window-football"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/12/manchester-united-wes",
       "kind": "rumor",
@@ -93,6 +104,18 @@
       "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues"
     },
     {
+      "id": "630917-2026-06-08-151",
+      "kind": "confirmed",
+      "player": "Halerrandrio",
+      "date": "2026-06-08",
+      "type": "Return from loan",
+      "league": "",
+      "from": "Palmeiras",
+      "fromLogo": "https://media.api-sports.io/football/teams/121.png",
+      "to": "Goias",
+      "toLogo": "https://media.api-sports.io/football/teams/151.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jun/05/tottenham-sign-outsta",
       "kind": "rumor",
       "player": "Tottenham sign Andy Robertson on a free as De Zerbi looks to fill leadership vacuum",
@@ -157,6 +180,18 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jun/02/london-city-lionesses-mary-earps-mapi-leon"
+    },
+    {
+      "id": "371930-2026-06-02-998",
+      "kind": "confirmed",
+      "player": "P. Yıldırım",
+      "date": "2026-06-02",
+      "type": "Return from loan",
+      "league": "Süper Lig",
+      "from": "Sakaryaspor",
+      "fromLogo": "https://media.api-sports.io/football/teams/3602.png",
+      "to": "Trabzonspor",
+      "toLogo": "https://media.api-sports.io/football/teams/998.png"
     },
     {
       "id": "51295-2026-05-30-81",
@@ -2010,6 +2045,18 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/apr/30/manchester-united-west-ham-el-hadji-malick-diouf-target-kobbie-mainoo-new-contract"
+    },
+    {
+      "id": "660860-2026-04-30-2961",
+      "kind": "confirmed",
+      "player": "M. Al Zubaidi",
+      "date": "2026-04-30",
+      "type": "-",
+      "league": "Saudi Pro League",
+      "from": "Al-Ahli Jeddah",
+      "fromLogo": "https://media.api-sports.io/football/teams/2929.png",
+      "to": "Al Orubah",
+      "toLogo": "https://media.api-sports.io/football/teams/2961.png"
     },
     {
       "id": "138415-2026-04-29-250",
