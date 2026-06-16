@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-15T20:11:30.200Z",
+  "updatedAt": "2026-06-16T20:03:27.529Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 8,
-  "count": 202,
+  "requestsRemaining": 9,
+  "count": 203,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/14/real-madrid-marc-cucu",
@@ -2164,6 +2164,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/131.png",
       "to": "Corinthians",
       "toLogo": "https://media.api-sports.io/football/teams/131.png"
+    },
+    {
+      "id": "557442-2026-04-04-x",
+      "kind": "confirmed",
+      "player": "C. O'Neill",
+      "date": "2026-04-04",
+      "type": "Free agent",
+      "league": "Premier League",
+      "from": "Arsenal",
+      "fromLogo": "https://media.api-sports.io/football/teams/42.png",
+      "to": "O'Neill Ceadach",
+      "toLogo": null
     },
     {
       "id": "653521-2026-04-03-209",
