@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-06-17T17:45:28.197Z",
+  "updatedAt": "2026-06-18T18:01:01.799Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 9,
-  "count": 202,
+  "requestsRemaining": 0,
+  "count": 204,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpoo",
+      "kind": "rumor",
+      "player": "Liverpool beat Newcastle to £34.5m Víctor Muñoz in first signing of Iraola era",
+      "date": "2026-06-18",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpool-newcastle-andoni-iraola-transfer-news"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/18/caroline-weir-ol-lyon",
+      "kind": "rumor",
+      "player": "OL Lyonnes and Scotland’s Caroline Weir: ‘I would love to be competing for the Champions League’",
+      "date": "2026-06-18",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/18/caroline-weir-ol-lyonnes-scotland-interview"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/14/real-madrid-marc-cucu",
       "kind": "rumor",
