@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-18T18:01:01.799Z",
+  "updatedAt": "2026-06-19T16:31:33.492Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
-  "count": 204,
+  "count": 206,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpoo",
       "kind": "rumor",
-      "player": "Liverpool beat Newcastle to £34.5m Víctor Muñoz in first signing of Iraola era",
+      "player": "Liverpool sign Víctor Muñoz for £34.5m in first arrival of Andoni Iraola era",
       "date": "2026-06-18",
       "league": "",
       "from": "",
@@ -25,6 +25,28 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jun/18/caroline-weir-ol-lyonnes-scotland-interview"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/19/when-real-come-for-yo",
+      "kind": "rumor",
+      "player": "‘When Real come for you it’s very difficult to say no’: Cucurella explains Chelsea exit",
+      "date": "2026-06-18",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/19/when-real-come-for-you-its-very-difficult-to-say-no-cucurella-explains-chelsea-exit"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/18/tottenham-52m-van-hec",
+      "kind": "rumor",
+      "player": "Tottenham complete £52m Van Hecke signing as De Zerbi focuses on defence",
+      "date": "2026-06-18",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/18/tottenham-52m-van-hecke-de-zerbi-defence"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/14/real-madrid-marc-cucu",
