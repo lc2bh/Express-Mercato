@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-19T16:31:33.492Z",
+  "updatedAt": "2026-06-20T12:27:49.411Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
-  "count": 206,
+  "count": 204,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpoo",
@@ -2424,30 +2424,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/1606.png",
       "to": "New England Revolution",
       "toLogo": "https://media.api-sports.io/football/teams/1609.png"
-    },
-    {
-      "id": "412152-2026-03-22-1822",
-      "kind": "confirmed",
-      "player": "Jayden Moore",
-      "date": "2026-03-22",
-      "type": "Loan",
-      "league": "Premier League",
-      "from": "Southampton",
-      "fromLogo": "https://media.api-sports.io/football/teams/41.png",
-      "to": "Eastleigh",
-      "toLogo": "https://media.api-sports.io/football/teams/1822.png"
-    },
-    {
-      "id": "630920-2026-03-22-145",
-      "kind": "confirmed",
-      "player": "Vitor Marcio",
-      "date": "2026-03-22",
-      "type": "-",
-      "league": "",
-      "from": "Palmeiras",
-      "fromLogo": "https://media.api-sports.io/football/teams/121.png",
-      "to": "Avai",
-      "toLogo": "https://media.api-sports.io/football/teams/145.png"
     }
   ]
 }
