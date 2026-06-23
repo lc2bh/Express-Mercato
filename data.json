@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-06-22T19:10:02.011Z",
+  "updatedAt": "2026-06-23T16:24:11.684Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 0,
-  "count": 204,
+  "requestsRemaining": 8,
+  "count": 206,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/22/arsenal-make-morgan-r",
+      "kind": "rumor",
+      "player": "Arsenal make Villa’s Morgan Rogers their No 1 target in transfer window",
+      "date": "2026-06-22",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/22/arsenal-make-morgan-rogers-top-target-in-transfer-window"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/23/julian-alvarez-sparks",
+      "kind": "rumor",
+      "player": "Julián Alvarez sparks transfer frenzy by telling Atlético Madrid he wants to leave",
+      "date": "2026-06-22",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/23/julian-alvarez-sparks-transfer-frenzy-by-telling-atletico-madrid-he-wants-to-leave"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpoo",
       "kind": "rumor",
