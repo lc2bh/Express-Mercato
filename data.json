@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-06-23T16:24:11.684Z",
+  "updatedAt": "2026-06-24T14:11:10.206Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 8,
-  "count": 206,
+  "count": 207,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/24/five-breakout-world-c",
+      "kind": "rumor",
+      "player": "Five breakout World Cup stars who could prosper in the Premier League | David Pleat",
+      "date": "2026-06-24",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/24/five-breakout-world-cup-stars-who-could-prosper-in-the-premier-league"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/23/transfer-latest-spurs",
+      "kind": "rumor",
+      "player": "Transfer latest: Spurs push for Fernandes and Tonali, Chelsea like Palestra",
+      "date": "2026-06-23",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/23/transfer-latest-spurs-mateus-fernandes-sandro-tonali-chelsea-marco-palestra"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/22/arsenal-make-morgan-r",
       "kind": "rumor",
@@ -2434,18 +2456,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/120.png",
       "to": "Sao Paulo",
       "toLogo": "https://media.api-sports.io/football/teams/126.png"
-    },
-    {
-      "id": "383792-2026-03-26-1609",
-      "kind": "confirmed",
-      "player": "Marcos Zambrano-Delgado",
-      "date": "2026-03-26",
-      "type": "Loan",
-      "league": "MLS",
-      "from": "Real Salt Lake",
-      "fromLogo": "https://media.api-sports.io/football/teams/1606.png",
-      "to": "New England Revolution",
-      "toLogo": "https://media.api-sports.io/football/teams/1609.png"
     }
   ]
 }
