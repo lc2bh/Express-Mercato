@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-24T14:11:10.206Z",
+  "updatedAt": "2026-06-25T13:50:10.616Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 8,
-  "count": 207,
+  "count": 206,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/24/five-breakout-world-c",
@@ -2444,18 +2444,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/196.png",
       "to": "Feyenoord",
       "toLogo": "https://media.api-sports.io/football/teams/209.png"
-    },
-    {
-      "id": "10040-2026-03-27-126",
-      "kind": "confirmed",
-      "player": "Artur",
-      "date": "2026-03-27",
-      "type": "Loan",
-      "league": "",
-      "from": "Botafogo",
-      "fromLogo": "https://media.api-sports.io/football/teams/120.png",
-      "to": "Sao Paulo",
-      "toLogo": "https://media.api-sports.io/football/teams/126.png"
     }
   ]
 }
