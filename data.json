@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-06-25T13:50:10.616Z",
+  "updatedAt": "2026-06-26T13:46:23.178Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 8,
   "count": 206,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/25/manchester-city-agree",
+      "kind": "rumor",
+      "player": "Manchester City agree £116m fee with Nottingham Forest for Elliot Anderson",
+      "date": "2026-06-25",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/25/manchester-city-agree-british-record-130m-fee-with-nottingham-forest-for-elliot-anderson"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/24/five-breakout-world-c",
       "kind": "rumor",
@@ -2432,18 +2443,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/127.png",
       "to": "Atlético Mineiro U20",
       "toLogo": "https://media.api-sports.io/football/teams/12952.png"
-    },
-    {
-      "id": "275268-2026-03-28-209",
-      "kind": "confirmed",
-      "player": "C. Nadje",
-      "date": "2026-03-28",
-      "type": "Return from loan",
-      "league": "Eredivisie",
-      "from": "Excelsior",
-      "fromLogo": "https://media.api-sports.io/football/teams/196.png",
-      "to": "Feyenoord",
-      "toLogo": "https://media.api-sports.io/football/teams/209.png"
     }
   ]
 }
