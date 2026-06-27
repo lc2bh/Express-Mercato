@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-26T13:46:23.178Z",
+  "updatedAt": "2026-06-27T11:28:14.258Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 8,
-  "count": 206,
+  "requestsRemaining": 9,
+  "count": 203,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/25/manchester-city-agree",
@@ -2407,42 +2407,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/18272.png",
       "to": "Sao Paulo",
       "toLogo": "https://media.api-sports.io/football/teams/126.png"
-    },
-    {
-      "id": "546686-2026-03-29-46",
-      "kind": "confirmed",
-      "player": "T. Onanaye",
-      "date": "2026-03-29",
-      "type": "Return from loan",
-      "league": "Premier League",
-      "from": "Kidderminster Harriers",
-      "fromLogo": "https://media.api-sports.io/football/teams/4695.png",
-      "to": "Leicester",
-      "toLogo": "https://media.api-sports.io/football/teams/46.png"
-    },
-    {
-      "id": "275268-2026-03-29-18375",
-      "kind": "confirmed",
-      "player": "C. Nadje",
-      "date": "2026-03-29",
-      "type": "Loan",
-      "league": "Eredivisie",
-      "from": "Feyenoord",
-      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
-      "to": "Monterey Bay",
-      "toLogo": "https://media.api-sports.io/football/teams/18375.png"
-    },
-    {
-      "id": "619034-2026-03-29-12952",
-      "kind": "confirmed",
-      "player": "Pedro Fachinetti",
-      "date": "2026-03-29",
-      "type": "-",
-      "league": "",
-      "from": "Flamengo",
-      "fromLogo": "https://media.api-sports.io/football/teams/127.png",
-      "to": "Atlético Mineiro U20",
-      "toLogo": "https://media.api-sports.io/football/teams/12952.png"
     }
   ]
 }
