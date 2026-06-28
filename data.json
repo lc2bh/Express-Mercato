@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-06-27T11:28:14.258Z",
+  "updatedAt": "2026-06-28T12:12:02.053Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 9,
-  "count": 203,
+  "requestsRemaining": 1,
+  "count": 199,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/27/chelsea-granit-xhaka-",
+      "kind": "rumor",
+      "player": "Chelsea interested in Granit Xhaka to reunite midfielder with Xabi Alonso",
+      "date": "2026-06-27",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/27/chelsea-granit-xhaka-xabi-alonso-sunderland-trevoh-chalobah-como"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/25/manchester-city-agree",
       "kind": "rumor",
@@ -2347,66 +2358,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/127.png",
       "to": "Botafogo PB",
       "toLogo": "https://media.api-sports.io/football/teams/1197.png"
-    },
-    {
-      "id": "562691-2026-03-30-2149",
-      "kind": "confirmed",
-      "player": "J. Norbye",
-      "date": "2026-03-30",
-      "type": "Loan",
-      "league": "Bundesliga",
-      "from": "RB Leipzig",
-      "fromLogo": "https://media.api-sports.io/football/teams/173.png",
-      "to": "Fredrikstad",
-      "toLogo": "https://media.api-sports.io/football/teams/2149.png"
-    },
-    {
-      "id": "136106-2026-03-30-326",
-      "kind": "confirmed",
-      "player": "O. Holm",
-      "date": "2026-03-30",
-      "type": "Loan",
-      "league": "",
-      "from": "Celtic",
-      "fromLogo": "https://media.api-sports.io/football/teams/247.png",
-      "to": "Valerenga",
-      "toLogo": "https://media.api-sports.io/football/teams/326.png"
-    },
-    {
-      "id": "423-2026-03-30-319",
-      "kind": "confirmed",
-      "player": "R. Matondo",
-      "date": "2026-03-30",
-      "type": "-",
-      "league": "",
-      "from": "Rangers",
-      "fromLogo": "https://media.api-sports.io/football/teams/257.png",
-      "to": "Brann",
-      "toLogo": "https://media.api-sports.io/football/teams/319.png"
-    },
-    {
-      "id": "576756-2026-03-30-127",
-      "kind": "confirmed",
-      "player": "Caio Garcia",
-      "date": "2026-03-30",
-      "type": "Return from loan",
-      "league": "",
-      "from": "Botafogo PB",
-      "fromLogo": "https://media.api-sports.io/football/teams/1197.png",
-      "to": "Flamengo",
-      "toLogo": "https://media.api-sports.io/football/teams/127.png"
-    },
-    {
-      "id": "631534-2026-03-30-126",
-      "kind": "confirmed",
-      "player": "Matheus Belem",
-      "date": "2026-03-30",
-      "type": "Return from loan",
-      "league": "",
-      "from": "Camboriú",
-      "fromLogo": "https://media.api-sports.io/football/teams/18272.png",
-      "to": "Sao Paulo",
-      "toLogo": "https://media.api-sports.io/football/teams/126.png"
     }
   ]
 }
