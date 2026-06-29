@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-28T12:12:02.053Z",
+  "updatedAt": "2026-06-29T17:25:49.310Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 1,
-  "count": 199,
+  "requestsRemaining": 0,
+  "count": 198,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/27/chelsea-granit-xhaka-",
@@ -157,6 +157,18 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jun/10/nottingham-forest-reject-manchester-citys-122m-bid-for-elliot-anderson"
+    },
+    {
+      "id": "425734-2026-06-10-12956",
+      "kind": "confirmed",
+      "player": "Vitor Figueiredo",
+      "date": "2026-06-10",
+      "type": "-",
+      "league": "",
+      "from": "Palmeiras",
+      "fromLogo": "https://media.api-sports.io/football/teams/121.png",
+      "to": "Ceará U20",
+      "toLogo": "https://media.api-sports.io/football/teams/12956.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/09/out-of-contract-xis-p",
@@ -2334,30 +2346,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/197.png",
       "to": "Cadiz",
       "toLogo": "https://media.api-sports.io/football/teams/724.png"
-    },
-    {
-      "id": "655333-2026-03-31-1609",
-      "kind": "confirmed",
-      "player": "S. Sasaki",
-      "date": "2026-03-31",
-      "type": "Transfer",
-      "league": "MLS",
-      "from": "New England Revolution",
-      "fromLogo": "https://media.api-sports.io/football/teams/1609.png",
-      "to": "New England Revolution",
-      "toLogo": "https://media.api-sports.io/football/teams/1609.png"
-    },
-    {
-      "id": "576756-2026-03-31-1197",
-      "kind": "confirmed",
-      "player": "Caio Garcia",
-      "date": "2026-03-31",
-      "type": "-",
-      "league": "",
-      "from": "Flamengo",
-      "fromLogo": "https://media.api-sports.io/football/teams/127.png",
-      "to": "Botafogo PB",
-      "toLogo": "https://media.api-sports.io/football/teams/1197.png"
     }
   ]
 }
