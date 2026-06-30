@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-29T17:25:49.310Z",
+  "updatedAt": "2026-06-30T12:44:13.813Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 0,
-  "count": 198,
+  "requestsRemaining": 9,
+  "count": 197,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/27/chelsea-granit-xhaka-",
@@ -2334,18 +2334,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/194.png",
       "to": "Ajax",
       "toLogo": "https://media.api-sports.io/football/teams/194.png"
-    },
-    {
-      "id": "18833-2026-04-01-724",
-      "kind": "confirmed",
-      "player": "Lucas Pérez",
-      "date": "2026-04-01",
-      "type": "Free agent",
-      "league": "Eredivisie",
-      "from": "PSV Eindhoven",
-      "fromLogo": "https://media.api-sports.io/football/teams/197.png",
-      "to": "Cadiz",
-      "toLogo": "https://media.api-sports.io/football/teams/724.png"
     }
   ]
 }
