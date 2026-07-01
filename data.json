@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-06-30T12:44:13.813Z",
+  "updatedAt": "2026-07-01T14:09:24.203Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 9,
-  "count": 197,
+  "requestsRemaining": 0,
+  "count": 199,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy",
+      "kind": "rumor",
+      "player": "Liverpool complete £60m Jacquet deal as Chelsea tie up £47m Palestra move",
+      "date": "2026-07-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/30/tottenham-west-ham-ma",
+      "kind": "rumor",
+      "player": "Tottenham win race to sign West Ham’s Mateus Fernandes for club record £85m",
+      "date": "2026-06-30",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/30/tottenham-west-ham-mateus-fernandes-club-record-85m-manchester-united-transfers"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jun/30/everton-chelsea-tyriq",
+      "kind": "rumor",
+      "player": "Everton close in on deals for Tyrique George and Hayden Hackney",
+      "date": "2026-06-30",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jun/30/everton-chelsea-tyrique-george-hayden-hackney-middlesbrough-transfers"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/27/chelsea-granit-xhaka-",
       "kind": "rumor",
@@ -2322,18 +2355,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/1609.png",
       "to": "Birmingham Legion",
       "toLogo": "https://media.api-sports.io/football/teams/3989.png"
-    },
-    {
-      "id": "551129-2026-04-02-194",
-      "kind": "confirmed",
-      "player": "M. Verkuijl",
-      "date": "2026-04-02",
-      "type": "-",
-      "league": "Eredivisie",
-      "from": "Ajax",
-      "fromLogo": "https://media.api-sports.io/football/teams/194.png",
-      "to": "Ajax",
-      "toLogo": "https://media.api-sports.io/football/teams/194.png"
     }
   ]
 }
