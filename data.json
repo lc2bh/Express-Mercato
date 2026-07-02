@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-07-01T14:09:24.203Z",
+  "updatedAt": "2026-07-02T12:44:34.885Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
-  "count": 199,
+  "count": 202,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/02/transfer-latest-premi",
+      "kind": "rumor",
+      "player": "Transfer roundup: Everton clinch Hackney signing, Spurs announce Fernandes",
+      "date": "2026-07-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/02/transfer-latest-premier-league-everton-tottenham"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/02/record-breaker-layla-",
+      "kind": "rumor",
+      "player": "Record-breaker Layla Drury signs first professional deal with Manchester United",
+      "date": "2026-07-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/02/record-breaker-layla-drury-signs-first-professional-deal-with-manchester-united"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy",
       "kind": "rumor",
@@ -14,6 +36,17 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/01/tottenham-sandro-tona",
+      "kind": "rumor",
+      "player": "Tottenham agree £100m deal to buy Sandro Tonali from Newcastle",
+      "date": "2026-07-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/01/tottenham-sandro-tonali-agree-100m-deal-newcastle"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/30/tottenham-west-ham-ma",
@@ -1897,6 +1930,30 @@
       "toLogo": "https://media.api-sports.io/football/teams/35.png"
     },
     {
+      "id": "310186-2026-05-30-40",
+      "kind": "confirmed",
+      "player": "C. Scanlon",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Cardiff",
+      "fromLogo": "https://media.api-sports.io/football/teams/43.png",
+      "to": "Liverpool",
+      "toLogo": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
+      "id": "329347-2026-05-30-49",
+      "kind": "confirmed",
+      "player": "O. Kellyman",
+      "date": "2026-05-30",
+      "type": "Return from loan",
+      "league": "Premier League",
+      "from": "Cardiff",
+      "fromLogo": "https://media.api-sports.io/football/teams/43.png",
+      "to": "Chelsea",
+      "toLogo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/may/29/anthony-gordon-signs-",
       "kind": "rumor",
       "player": "Anthony Gordon shows ‘fire in belly’ and Spanish skills after joining Barcelona",
@@ -2331,30 +2388,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/42.png",
       "to": "O'Neill Ceadach",
       "toLogo": null
-    },
-    {
-      "id": "653521-2026-04-03-209",
-      "kind": "confirmed",
-      "player": "I. Grootfaam",
-      "date": "2026-04-03",
-      "type": "Raise",
-      "league": "Eredivisie",
-      "from": "Feyenoord",
-      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
-      "to": "Feyenoord",
-      "toLogo": "https://media.api-sports.io/football/teams/209.png"
-    },
-    {
-      "id": "407238-2026-04-03-3989",
-      "kind": "confirmed",
-      "player": "K. Hughes",
-      "date": "2026-04-03",
-      "type": "Loan",
-      "league": "MLS",
-      "from": "New England Revolution",
-      "fromLogo": "https://media.api-sports.io/football/teams/1609.png",
-      "to": "Birmingham Legion",
-      "toLogo": "https://media.api-sports.io/football/teams/3989.png"
     }
   ]
 }
