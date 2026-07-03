@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-02T12:44:34.885Z",
+  "updatedAt": "2026-07-03T12:42:28.817Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
-  "count": 202,
+  "count": 199,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/02/transfer-latest-premi",
@@ -2352,42 +2352,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/126.png",
       "to": "Sao Paulo",
       "toLogo": "https://media.api-sports.io/football/teams/126.png"
-    },
-    {
-      "id": "616225-2026-04-04-495",
-      "kind": "confirmed",
-      "player": "Jacopo Grossi",
-      "date": "2026-04-04",
-      "type": "Raise",
-      "league": "Serie A",
-      "from": "Genoa",
-      "fromLogo": "https://media.api-sports.io/football/teams/495.png",
-      "to": "Genoa",
-      "toLogo": "https://media.api-sports.io/football/teams/495.png"
-    },
-    {
-      "id": "570402-2026-04-04-131",
-      "kind": "confirmed",
-      "player": "I. Machado",
-      "date": "2026-04-04",
-      "type": "Raise",
-      "league": "",
-      "from": "Corinthians",
-      "fromLogo": "https://media.api-sports.io/football/teams/131.png",
-      "to": "Corinthians",
-      "toLogo": "https://media.api-sports.io/football/teams/131.png"
-    },
-    {
-      "id": "557442-2026-04-04-x",
-      "kind": "confirmed",
-      "player": "C. O'Neill",
-      "date": "2026-04-04",
-      "type": "Free agent",
-      "league": "Premier League",
-      "from": "Arsenal",
-      "fromLogo": "https://media.api-sports.io/football/teams/42.png",
-      "to": "O'Neill Ceadach",
-      "toLogo": null
     }
   ]
 }
