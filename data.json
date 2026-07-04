@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-07-03T12:42:28.817Z",
+  "updatedAt": "2026-07-04T11:24:05.379Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
-  "count": 199,
+  "count": 201,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-",
+      "kind": "rumor",
+      "player": "Fulham make move for Crysencio Summerville while Granit Xhaka stays at Sunderland",
+      "date": "2026-07-03",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-ham-crysencio-summerville"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/02/transfer-latest-premi",
       "kind": "rumor",
@@ -47,6 +58,18 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jul/01/tottenham-sandro-tonali-agree-100m-deal-newcastle"
+    },
+    {
+      "id": "47380-2026-07-01-541",
+      "kind": "confirmed",
+      "player": "Marc Cucurella",
+      "date": "2026-07-01",
+      "type": "€ 55M",
+      "league": "La Liga",
+      "from": "Chelsea",
+      "fromLogo": "https://media.api-sports.io/football/teams/49.png",
+      "to": "Real Madrid",
+      "toLogo": "https://media.api-sports.io/football/teams/541.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jun/30/tottenham-west-ham-ma",
