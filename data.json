@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-07-04T11:24:05.379Z",
+  "updatedAt": "2026-07-05T12:00:42.537Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
   "count": 201,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/05/andrey-santos-manches",
+      "kind": "rumor",
+      "player": "Manchester United target Andrey Santos but Chelsea value midfielder at £50m",
+      "date": "2026-07-05",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/05/andrey-santos-manchester-united-chelsea-transfer"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-",
       "kind": "rumor",
@@ -2363,18 +2374,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/217.png",
       "to": "SC Braga",
       "toLogo": "https://media.api-sports.io/football/teams/217.png"
-    },
-    {
-      "id": "639743-2026-04-06-126",
-      "kind": "confirmed",
-      "player": "Osorio Luis",
-      "date": "2026-04-06",
-      "type": "-",
-      "league": "",
-      "from": "Sao Paulo",
-      "fromLogo": "https://media.api-sports.io/football/teams/126.png",
-      "to": "Sao Paulo",
-      "toLogo": "https://media.api-sports.io/football/teams/126.png"
     }
   ]
 }
