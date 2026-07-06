@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-07-05T12:00:42.537Z",
+  "updatedAt": "2026-07-06T17:29:47.420Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
-  "count": 201,
+  "count": 203,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-m",
+      "kind": "rumor",
+      "player": "Sandro Tonali seals £92.5m move to Tottenham on back of ‘magic’ sales pitch",
+      "date": "2026-07-06",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-move-to-tottenham-newcastle-transfer-window"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/05/andrey-santos-manches",
       "kind": "rumor",
@@ -14,6 +25,17 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jul/05/andrey-santos-manchester-united-chelsea-transfer"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/05/newcastle-confirm-43m",
+      "kind": "rumor",
+      "player": "‘A high ceiling’: Newcastle confirm £43m signing of Hoffenheim winger Touré",
+      "date": "2026-07-05",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/05/newcastle-confirm-43m-signing-of-hoffenheim-winger-toure"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-",
