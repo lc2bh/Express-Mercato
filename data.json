@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-07-06T17:29:47.420Z",
+  "updatedAt": "2026-07-07T14:07:07.517Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 0,
-  "count": 203,
+  "requestsRemaining": 8,
+  "count": 204,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/07/newcastle-sean-steur-",
+      "kind": "rumor",
+      "player": "Newcastle close in on signing Ajax generational talent Sean Steur for £23m",
+      "date": "2026-07-07",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/07/newcastle-sean-steur-transfers-round-up-football"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-m",
       "kind": "rumor",
