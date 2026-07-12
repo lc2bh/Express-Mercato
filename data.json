@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-07-11T07:59:55.614Z",
+  "updatedAt": "2026-07-12T08:21:24.011Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
+      "kind": "rumor",
+      "player": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "date": "2026-07-11",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-t",
+      "kind": "rumor",
+      "player": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "date": "2026-07-11",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/11/manchester-city-beat-",
+      "kind": "rumor",
+      "player": "Manchester City beat Arsenal to signing of 17-year-old Jeremy Monga from Leicester",
+      "date": "2026-07-11",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/11/manchester-city-beat-arsenal-to-signing-of-17-year-old-jeremy-monga-from-leicester"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/10/arsenal-sign-ona-batl",
       "kind": "rumor",
@@ -117,6 +150,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/540.png"
     },
     {
+      "id": "736-2026-07-07-543",
+      "kind": "confirmed",
+      "player": "Fran García",
+      "date": "2026-07-07",
+      "type": "Transfer",
+      "league": "La Liga",
+      "from": "Real Madrid",
+      "fromLogo": "https://media.api-sports.io/football/teams/541.png",
+      "to": "Real Betis",
+      "toLogo": "https://media.api-sports.io/football/teams/543.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-m",
       "kind": "rumor",
       "player": "Sandro Tonali seals £92.5m move to Tottenham on back of ‘magic’ sales pitch",
@@ -126,6 +171,18 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-move-to-tottenham-newcastle-transfer-window"
+    },
+    {
+      "id": "736-2026-07-06-543",
+      "kind": "confirmed",
+      "player": "Fran García",
+      "date": "2026-07-06",
+      "type": "Transfer",
+      "league": "La Liga",
+      "from": "Real Madrid",
+      "fromLogo": "https://media.api-sports.io/football/teams/541.png",
+      "to": "Real Betis",
+      "toLogo": "https://media.api-sports.io/football/teams/543.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/05/andrey-santos-manches",
@@ -157,9 +214,21 @@
       "type": "Transfer",
       "league": "La Liga",
       "from": "Fluminense",
-      "fromLogo": null,
+      "fromLogo": "https://media.api-sports.io/football/teams/124.png",
       "to": "Real Betis",
       "toLogo": "https://media.api-sports.io/football/teams/543.png"
+    },
+    {
+      "id": "226-2026-07-04-541",
+      "kind": "confirmed",
+      "player": "D. Dumfries",
+      "date": "2026-07-04",
+      "type": "Transfer",
+      "league": "La Liga",
+      "from": "Inter",
+      "fromLogo": "https://media.api-sports.io/football/teams/505.png",
+      "to": "Real Madrid",
+      "toLogo": "https://media.api-sports.io/football/teams/541.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-",
@@ -484,7 +553,7 @@
       "player": "C. Lenglet",
       "date": "2026-06-30",
       "type": "Loan",
-      "league": "La Liga",
+      "league": "Liga Portugal",
       "from": "Atletico Madrid",
       "fromLogo": "https://media.api-sports.io/football/teams/530.png",
       "to": "Benfica",
@@ -496,7 +565,7 @@
       "player": "Álex Grimaldo",
       "date": "2026-06-30",
       "type": "Transfer",
-      "league": "La Liga",
+      "league": "Bundesliga",
       "from": "Bayer Leverkusen",
       "fromLogo": "https://media.api-sports.io/football/teams/168.png",
       "to": "Atletico Madrid",
@@ -573,6 +642,78 @@
       "fromLogo": "https://media.api-sports.io/football/teams/797.png",
       "to": "Anderlecht",
       "toLogo": "https://media.api-sports.io/football/teams/554.png"
+    },
+    {
+      "id": "47380-2026-06-30-541",
+      "kind": "confirmed",
+      "player": "Marc Cucurella",
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "league": "La Liga",
+      "from": "Chelsea",
+      "fromLogo": "https://media.api-sports.io/football/teams/49.png",
+      "to": "Real Madrid",
+      "toLogo": "https://media.api-sports.io/football/teams/541.png"
+    },
+    {
+      "id": "1145-2026-06-30-541",
+      "kind": "confirmed",
+      "player": "I. Konaté",
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "league": "La Liga",
+      "from": "Liverpool",
+      "fromLogo": "https://media.api-sports.io/football/teams/40.png",
+      "to": "Real Madrid",
+      "toLogo": "https://media.api-sports.io/football/teams/541.png"
+    },
+    {
+      "id": "636-2026-06-30-541",
+      "kind": "confirmed",
+      "player": "Bernardo Silva",
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "league": "La Liga",
+      "from": "Manchester City",
+      "fromLogo": "https://media.api-sports.io/football/teams/50.png",
+      "to": "Real Madrid",
+      "toLogo": "https://media.api-sports.io/football/teams/541.png"
+    },
+    {
+      "id": "47566-2026-06-30-538",
+      "kind": "confirmed",
+      "player": "Javi Galán",
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "league": "La Liga",
+      "from": "Osasuna",
+      "fromLogo": "https://media.api-sports.io/football/teams/727.png",
+      "to": "Celta Vigo",
+      "toLogo": "https://media.api-sports.io/football/teams/538.png"
+    },
+    {
+      "id": "560931-2026-06-30-538",
+      "kind": "confirmed",
+      "player": "B. Somuah",
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "league": "La Liga",
+      "from": "Asante Kotoko",
+      "fromLogo": "https://media.api-sports.io/football/teams/6411.png",
+      "to": "Celta Vigo",
+      "toLogo": "https://media.api-sports.io/football/teams/538.png"
+    },
+    {
+      "id": "46711-2026-06-30-538",
+      "kind": "confirmed",
+      "player": "Aleix Febas",
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "league": "La Liga",
+      "from": "Elche",
+      "fromLogo": "https://media.api-sports.io/football/teams/797.png",
+      "to": "Celta Vigo",
+      "toLogo": "https://media.api-sports.io/football/teams/538.png"
     },
     {
       "id": "47551-2026-06-29-728",
@@ -1326,7 +1467,7 @@
       "type": "Return from loan",
       "league": "La Liga",
       "from": "Granada CF",
-      "fromLogo": null,
+      "fromLogo": "https://media.api-sports.io/football/teams/715.png",
       "to": "Real Betis",
       "toLogo": "https://media.api-sports.io/football/teams/543.png"
     },
@@ -1350,7 +1491,7 @@
       "type": "Return from loan",
       "league": "La Liga",
       "from": "Ponferradina",
-      "fromLogo": null,
+      "fromLogo": "https://media.api-sports.io/football/teams/4907.png",
       "to": "Real Betis",
       "toLogo": "https://media.api-sports.io/football/teams/543.png"
     },
@@ -1362,7 +1503,7 @@
       "type": "Return from loan",
       "league": "La Liga",
       "from": "Ourense CF",
-      "fromLogo": null,
+      "fromLogo": "https://media.api-sports.io/football/teams/9612.png",
       "to": "Real Betis",
       "toLogo": "https://media.api-sports.io/football/teams/543.png"
     },
@@ -1374,7 +1515,7 @@
       "type": "Return from loan",
       "league": "La Liga",
       "from": "Arouca",
-      "fromLogo": null,
+      "fromLogo": "https://media.api-sports.io/football/teams/240.png",
       "to": "Real Betis",
       "toLogo": "https://media.api-sports.io/football/teams/543.png"
     },
@@ -2152,7 +2293,7 @@
       "player": "Fer López",
       "date": "2026-06-29",
       "type": "Return from loan",
-      "league": "Premier League",
+      "league": "La Liga",
       "from": "Celta Vigo",
       "fromLogo": "https://media.api-sports.io/football/teams/538.png",
       "to": "Wolves",
@@ -2464,7 +2605,7 @@
       "player": "N. Maupay",
       "date": "2026-06-29",
       "type": "Return from loan",
-      "league": "La Liga",
+      "league": "Ligue 1",
       "from": "Sevilla",
       "fromLogo": "https://media.api-sports.io/football/teams/536.png",
       "to": "Marseille",
@@ -2524,7 +2665,7 @@
       "player": "Rafa Marín",
       "date": "2026-06-29",
       "type": "Return from loan",
-      "league": "La Liga",
+      "league": "Serie A",
       "from": "Villarreal",
       "fromLogo": "https://media.api-sports.io/football/teams/533.png",
       "to": "Napoli",
@@ -2841,144 +2982,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/797.png",
       "to": "AS Roma",
       "toLogo": "https://media.api-sports.io/football/teams/497.png"
-    },
-    {
-      "id": "421807-2026-06-29-502",
-      "kind": "confirmed",
-      "player": "M. Moreno",
-      "date": "2026-06-29",
-      "type": "Return from loan",
-      "league": "Serie A",
-      "from": "Levante",
-      "fromLogo": "https://media.api-sports.io/football/teams/539.png",
-      "to": "Fiorentina",
-      "toLogo": "https://media.api-sports.io/football/teams/502.png"
-    },
-    {
-      "id": "334878-2026-06-29-79",
-      "kind": "confirmed",
-      "player": "U. Raghouber",
-      "date": "2026-06-29",
-      "type": "Return from loan",
-      "league": "Ligue 1",
-      "from": "Levante",
-      "fromLogo": "https://media.api-sports.io/football/teams/539.png",
-      "to": "Lille",
-      "toLogo": "https://media.api-sports.io/football/teams/79.png"
-    },
-    {
-      "id": "286084-2026-06-29-228",
-      "kind": "confirmed",
-      "player": "Sergi Altimira",
-      "date": "2026-06-29",
-      "type": "Transfer",
-      "league": "Liga Portugal",
-      "from": "Real Betis",
-      "fromLogo": "https://media.api-sports.io/football/teams/543.png",
-      "to": "Sporting CP",
-      "toLogo": "https://media.api-sports.io/football/teams/228.png"
-    },
-    {
-      "id": "74-2026-06-29-611",
-      "kind": "confirmed",
-      "player": "S. Amrabat",
-      "date": "2026-06-29",
-      "type": "Return from loan",
-      "league": "Süper Lig",
-      "from": "Real Betis",
-      "fromLogo": "https://media.api-sports.io/football/teams/543.png",
-      "to": "Fenerbahçe",
-      "toLogo": "https://media.api-sports.io/football/teams/611.png"
-    },
-    {
-      "id": "855-2026-06-29-2932",
-      "kind": "confirmed",
-      "player": "João Cancelo",
-      "date": "2026-06-29",
-      "type": "Return from loan",
-      "league": "Saudi Pro League",
-      "from": "Barcelona",
-      "fromLogo": "https://media.api-sports.io/football/teams/529.png",
-      "to": "Al-Hilal Saudi FC",
-      "toLogo": "https://media.api-sports.io/football/teams/2932.png"
-    },
-    {
-      "id": "70476-2026-06-29-542",
-      "kind": "confirmed",
-      "player": "M. Diarra",
-      "date": "2026-06-29",
-      "type": "Return from loan",
-      "league": "",
-      "from": "Anderlecht",
-      "fromLogo": "https://media.api-sports.io/football/teams/554.png",
-      "to": "Alaves",
-      "toLogo": "https://media.api-sports.io/football/teams/542.png"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jun/27/chelsea-granit-xhaka-",
-      "kind": "rumor",
-      "player": "Chelsea interested in Granit Xhaka to reunite midfielder with Xabi Alonso",
-      "date": "2026-06-27",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jun/27/chelsea-granit-xhaka-xabi-alonso-sunderland-trevoh-chalobah-como"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jun/25/manchester-city-agree",
-      "kind": "rumor",
-      "player": "Manchester City agree £116m fee with Nottingham Forest for Elliot Anderson",
-      "date": "2026-06-25",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jun/25/manchester-city-agree-british-record-130m-fee-with-nottingham-forest-for-elliot-anderson"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jun/24/five-breakout-world-c",
-      "kind": "rumor",
-      "player": "Five breakout World Cup stars who could prosper in the Premier League | David Pleat",
-      "date": "2026-06-24",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jun/24/five-breakout-world-cup-stars-who-could-prosper-in-the-premier-league"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jun/23/transfer-latest-spurs",
-      "kind": "rumor",
-      "player": "Transfer latest: Spurs push for Fernandes and Tonali, Chelsea like Palestra",
-      "date": "2026-06-23",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jun/23/transfer-latest-spurs-mateus-fernandes-sandro-tonali-chelsea-marco-palestra"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jun/22/arsenal-make-morgan-r",
-      "kind": "rumor",
-      "player": "Arsenal make Villa’s Morgan Rogers their No 1 target in transfer window",
-      "date": "2026-06-22",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jun/22/arsenal-make-morgan-rogers-top-target-in-transfer-window"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jun/23/julian-alvarez-sparks",
-      "kind": "rumor",
-      "player": "Julián Alvarez sparks transfer frenzy by telling Atlético Madrid he wants to leave",
-      "date": "2026-06-22",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jun/23/julian-alvarez-sparks-transfer-frenzy-by-telling-atletico-madrid-he-wants-to-leave"
     }
   ]
 }
