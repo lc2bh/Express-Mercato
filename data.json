@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-07-16T08:17:19.658Z",
+  "updatedAt": "2026-07-17T08:13:52.640Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-ag",
+      "kind": "rumor",
+      "player": "Dominik Szoboszlai agrees Liverpool deal as Aston Villa go for João Gomes",
+      "date": "2026-07-16",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/16/arsenal-34m-deal-club",
+      "kind": "rumor",
+      "player": "Arsenal close in on £34m deal for Club Brugge forward Christos Tzolis",
+      "date": "2026-07-16",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/16/arsenal-34m-deal-club-brugge-forward-christos-tzolis-premier-league"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/16/andrey-santos-manches",
+      "kind": "rumor",
+      "player": "Why did Manchester United pay Chelsea £48m for Andrey Santos?",
+      "date": "2026-07-16",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/16/andrey-santos-manchester-united-chelsea-michael-carrick-brazil-midfielder-casemiro"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/15/aston-villa-sign-emil",
       "kind": "rumor",
@@ -219,6 +252,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/571.png"
     },
     {
+      "id": "347644-2026-07-10-502",
+      "kind": "confirmed",
+      "player": "A. Atta",
+      "date": "2026-07-10",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Udinese",
+      "fromLogo": "https://media.api-sports.io/football/teams/494.png",
+      "to": "Fiorentina",
+      "toLogo": "https://media.api-sports.io/football/teams/502.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jul/09/team-for-now-not-a-sq",
       "kind": "rumor",
       "player": "Team for now, not a squad for later – Spurs are spending big but what is it for? | Jonathan Liew",
@@ -322,6 +367,42 @@
       "fromLogo": "https://media.api-sports.io/football/teams/93.png",
       "to": "Reims",
       "toLogo": "https://media.api-sports.io/football/teams/93.png"
+    },
+    {
+      "id": "346867-2026-07-09-1581",
+      "kind": "confirmed",
+      "player": "L. Romani",
+      "date": "2026-07-09",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Fiorentina",
+      "fromLogo": "https://media.api-sports.io/football/teams/502.png",
+      "to": "Carrarese",
+      "toLogo": "https://media.api-sports.io/football/teams/1581.png"
+    },
+    {
+      "id": "383267-2026-07-09-528",
+      "kind": "confirmed",
+      "player": "T. Martinelli",
+      "date": "2026-07-09",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Fiorentina",
+      "fromLogo": "https://media.api-sports.io/football/teams/502.png",
+      "to": "Avellino",
+      "toLogo": "https://media.api-sports.io/football/teams/528.png"
+    },
+    {
+      "id": "347644-2026-07-09-502",
+      "kind": "confirmed",
+      "player": "A. Atta",
+      "date": "2026-07-09",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Udinese",
+      "fromLogo": "https://media.api-sports.io/football/teams/494.png",
+      "to": "Fiorentina",
+      "toLogo": "https://media.api-sports.io/football/teams/502.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/08/arsenal-on-alert-afte",
@@ -499,6 +580,54 @@
       "fromLogo": "https://media.api-sports.io/football/teams/404.png",
       "to": "Toulouse",
       "toLogo": "https://media.api-sports.io/football/teams/96.png"
+    },
+    {
+      "id": "544571-2026-07-08-1578",
+      "kind": "confirmed",
+      "player": "G. Stabile",
+      "date": "2026-07-08",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Inter",
+      "fromLogo": "https://media.api-sports.io/football/teams/505.png",
+      "to": "Sudtirol",
+      "toLogo": "https://media.api-sports.io/football/teams/1578.png"
+    },
+    {
+      "id": "452430-2026-07-08-507",
+      "kind": "confirmed",
+      "player": "S. Perciun",
+      "date": "2026-07-08",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Torino",
+      "fromLogo": "https://media.api-sports.io/football/teams/503.png",
+      "to": "Ascoli",
+      "toLogo": "https://media.api-sports.io/football/teams/507.png"
+    },
+    {
+      "id": "161859-2026-07-08-503",
+      "kind": "confirmed",
+      "player": "G. Oristanio",
+      "date": "2026-07-08",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Venezia",
+      "fromLogo": "https://media.api-sports.io/football/teams/517.png",
+      "to": "Torino",
+      "toLogo": "https://media.api-sports.io/football/teams/503.png"
+    },
+    {
+      "id": "25502-2026-07-08-494",
+      "kind": "confirmed",
+      "player": "O. Traoré",
+      "date": "2026-07-08",
+      "type": "Free agent",
+      "league": "Serie A",
+      "from": "1. FC Heidenheim",
+      "fromLogo": "https://media.api-sports.io/football/teams/180.png",
+      "to": "Udinese",
+      "toLogo": "https://media.api-sports.io/football/teams/494.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/07/newcastle-sean-steur-",
@@ -800,6 +929,78 @@
       "toLogo": "https://media.api-sports.io/football/teams/1297.png"
     },
     {
+      "id": "332308-2026-07-07-494",
+      "kind": "confirmed",
+      "player": "Unai Gómez",
+      "date": "2026-07-07",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Athletic Club",
+      "fromLogo": "https://media.api-sports.io/football/teams/531.png",
+      "to": "Udinese",
+      "toLogo": "https://media.api-sports.io/football/teams/494.png"
+    },
+    {
+      "id": "343345-2026-07-07-575",
+      "kind": "confirmed",
+      "player": "C. Alexiou",
+      "date": "2026-07-07",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Inter",
+      "fromLogo": "https://media.api-sports.io/football/teams/505.png",
+      "to": "AEK Athens FC",
+      "toLogo": "https://media.api-sports.io/football/teams/575.png"
+    },
+    {
+      "id": "639029-2026-07-07-1699",
+      "kind": "confirmed",
+      "player": "F. Presta",
+      "date": "2026-07-07",
+      "type": "Free agent",
+      "league": "Serie A",
+      "from": "Fiorentina",
+      "fromLogo": "https://media.api-sports.io/football/teams/502.png",
+      "to": "Gavorrano",
+      "toLogo": "https://media.api-sports.io/football/teams/1699.png"
+    },
+    {
+      "id": "448977-2026-07-07-1579",
+      "kind": "confirmed",
+      "player": "E. Kouadio",
+      "date": "2026-07-07",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Fiorentina",
+      "fromLogo": "https://media.api-sports.io/football/teams/502.png",
+      "to": "Monza",
+      "toLogo": "https://media.api-sports.io/football/teams/1579.png"
+    },
+    {
+      "id": "616148-2026-07-07-4256",
+      "kind": "confirmed",
+      "player": "Petar Markovic",
+      "date": "2026-07-07",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Bologna",
+      "fromLogo": "https://media.api-sports.io/football/teams/500.png",
+      "to": "Grazer AK",
+      "toLogo": "https://media.api-sports.io/football/teams/4256.png"
+    },
+    {
+      "id": "360032-2026-07-07-79",
+      "kind": "confirmed",
+      "player": "B. Önal",
+      "date": "2026-07-07",
+      "type": "Transfer",
+      "league": "Ligue 1",
+      "from": "NEC Nijmegen",
+      "fromLogo": "https://media.api-sports.io/football/teams/413.png",
+      "to": "Lille",
+      "toLogo": "https://media.api-sports.io/football/teams/79.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-m",
       "kind": "rumor",
       "player": "Sandro Tonali seals £92.5m move to Tottenham on back of ‘magic’ sales pitch",
@@ -1015,6 +1216,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/211.png"
     },
     {
+      "id": "312208-2026-07-06-512",
+      "kind": "confirmed",
+      "player": "W. Amey",
+      "date": "2026-07-06",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Bologna",
+      "fromLogo": "https://media.api-sports.io/football/teams/500.png",
+      "to": "Frosinone",
+      "toLogo": "https://media.api-sports.io/football/teams/512.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jul/05/andrey-santos-manches",
       "kind": "rumor",
       "player": "Manchester United target Andrey Santos but Chelsea value midfielder at £50m",
@@ -1185,7 +1398,7 @@
       "kind": "confirmed",
       "player": "G. Chakvetadze",
       "date": "2026-07-05",
-      "type": "-",
+      "type": "Transfer",
       "league": "Serie A",
       "from": "Watford",
       "fromLogo": "https://media.api-sports.io/football/teams/38.png",
@@ -1251,6 +1464,30 @@
       "fromLogo": "https://media.api-sports.io/football/teams/192.png",
       "to": "Benfica",
       "toLogo": "https://media.api-sports.io/football/teams/211.png"
+    },
+    {
+      "id": "419620-2026-07-05-507",
+      "kind": "confirmed",
+      "player": "G. De Pieri",
+      "date": "2026-07-05",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Inter",
+      "fromLogo": "https://media.api-sports.io/football/teams/505.png",
+      "to": "Ascoli",
+      "toLogo": "https://media.api-sports.io/football/teams/507.png"
+    },
+    {
+      "id": "394211-2026-07-05-79",
+      "kind": "confirmed",
+      "player": "L. Srdanovic",
+      "date": "2026-07-05",
+      "type": "Transfer",
+      "league": "Ligue 1",
+      "from": "Servette FC",
+      "fromLogo": "https://media.api-sports.io/football/teams/2184.png",
+      "to": "Lille",
+      "toLogo": "https://media.api-sports.io/football/teams/79.png"
     },
     {
       "id": "226-2026-07-04-541",
@@ -1445,6 +1682,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/543.png"
     },
     {
+      "id": "394211-2026-07-04-79",
+      "kind": "confirmed",
+      "player": "L. Srdanovic",
+      "date": "2026-07-04",
+      "type": "-",
+      "league": "Ligue 1",
+      "from": "Servette FC",
+      "fromLogo": "https://media.api-sports.io/football/teams/2184.png",
+      "to": "Lille",
+      "toLogo": "https://media.api-sports.io/football/teams/79.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-",
       "kind": "rumor",
       "player": "Fulham make move for Crysencio Summerville while Granit Xhaka stays at Sunderland",
@@ -1605,7 +1854,7 @@
       "player": "D. Dumfries",
       "date": "2026-07-03",
       "type": "Transfer",
-      "league": "La Liga",
+      "league": "Serie A",
       "from": "Inter",
       "fromLogo": "https://media.api-sports.io/football/teams/505.png",
       "to": "Real Madrid",
@@ -2172,6 +2421,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/84.png"
     },
     {
+      "id": "286473-2026-07-01-523",
+      "kind": "confirmed",
+      "player": "F. Carboni",
+      "date": "2026-07-01",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Inter",
+      "fromLogo": "https://media.api-sports.io/football/teams/505.png",
+      "to": "Parma",
+      "toLogo": "https://media.api-sports.io/football/teams/523.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jun/30/tottenham-west-ham-ma",
       "kind": "rumor",
       "player": "Tottenham win race to sign West Ham’s Mateus Fernandes for club record £85m",
@@ -2708,270 +2969,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/201.png",
       "to": "Maccabi Tel Aviv",
       "toLogo": "https://media.api-sports.io/football/teams/604.png"
-    },
-    {
-      "id": "312837-2026-06-30-205",
-      "kind": "confirmed",
-      "player": "L. Zeefuik",
-      "date": "2026-06-30",
-      "type": "Loan",
-      "league": "Eredivisie",
-      "from": "AZ Alkmaar",
-      "fromLogo": "https://media.api-sports.io/football/teams/201.png",
-      "to": "Fortuna Sittard",
-      "toLogo": "https://media.api-sports.io/football/teams/205.png"
-    },
-    {
-      "id": "37438-2026-06-30-197",
-      "kind": "confirmed",
-      "player": "S. Mijnans",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Eredivisie",
-      "from": "AZ Alkmaar",
-      "fromLogo": "https://media.api-sports.io/football/teams/201.png",
-      "to": "PSV Eindhoven",
-      "toLogo": "https://media.api-sports.io/football/teams/197.png"
-    },
-    {
-      "id": "319915-2026-06-30-195",
-      "kind": "confirmed",
-      "player": "F. Stam",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Eredivisie",
-      "from": "AZ Alkmaar",
-      "fromLogo": "https://media.api-sports.io/football/teams/201.png",
-      "to": "Willem II",
-      "toLogo": "https://media.api-sports.io/football/teams/195.png"
-    },
-    {
-      "id": "8470-2026-06-30-201",
-      "kind": "confirmed",
-      "player": "J. De Busser",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Eredivisie",
-      "from": "GO Ahead Eagles",
-      "fromLogo": "https://media.api-sports.io/football/teams/410.png",
-      "to": "AZ Alkmaar",
-      "toLogo": "https://media.api-sports.io/football/teams/201.png"
-    },
-    {
-      "id": "146008-2026-06-30-598",
-      "kind": "confirmed",
-      "player": "M. Cham",
-      "date": "2026-06-30",
-      "type": "Loan",
-      "league": "Süper Lig",
-      "from": "Trabzonspor",
-      "fromLogo": "https://media.api-sports.io/football/teams/998.png",
-      "to": "FK Crvena Zvezda",
-      "toLogo": "https://media.api-sports.io/football/teams/598.png"
-    },
-    {
-      "id": "158431-2026-06-30-998",
-      "kind": "confirmed",
-      "player": "M. Kabasakal",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Gaziantep FK",
-      "fromLogo": "https://media.api-sports.io/football/teams/3573.png",
-      "to": "Trabzonspor",
-      "toLogo": "https://media.api-sports.io/football/teams/998.png"
-    },
-    {
-      "id": "49860-2026-06-30-564",
-      "kind": "confirmed",
-      "player": "E. Višća",
-      "date": "2026-06-30",
-      "type": "Free agent",
-      "league": "Süper Lig",
-      "from": "Trabzonspor",
-      "fromLogo": "https://media.api-sports.io/football/teams/998.png",
-      "to": "Başakşehir",
-      "toLogo": "https://media.api-sports.io/football/teams/564.png"
-    },
-    {
-      "id": "105320-2026-06-30-575",
-      "kind": "confirmed",
-      "player": "O. Zubkov",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Trabzonspor",
-      "fromLogo": "https://media.api-sports.io/football/teams/998.png",
-      "to": "AEK Athens FC",
-      "toLogo": "https://media.api-sports.io/football/teams/575.png"
-    },
-    {
-      "id": "3638-2026-06-30-998",
-      "kind": "confirmed",
-      "player": "E. Muçi",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Beşiktaş",
-      "fromLogo": "https://media.api-sports.io/football/teams/549.png",
-      "to": "Trabzonspor",
-      "toLogo": "https://media.api-sports.io/football/teams/998.png"
-    },
-    {
-      "id": "167659-2026-06-30-551",
-      "kind": "confirmed",
-      "player": "K. Olaigbe",
-      "date": "2026-06-30",
-      "type": "Loan",
-      "league": "Süper Lig",
-      "from": "Trabzonspor",
-      "fromLogo": "https://media.api-sports.io/football/teams/998.png",
-      "to": "FC Basel 1893",
-      "toLogo": "https://media.api-sports.io/football/teams/551.png"
-    },
-    {
-      "id": "306854-2026-06-30-596",
-      "kind": "confirmed",
-      "player": "Felipe Augusto",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Trabzonspor",
-      "fromLogo": "https://media.api-sports.io/football/teams/998.png",
-      "to": "Zenit",
-      "toLogo": "https://media.api-sports.io/football/teams/596.png"
-    },
-    {
-      "id": "610759-2026-06-30-998",
-      "kind": "confirmed",
-      "player": "T. Karadeniz",
-      "date": "2026-06-30",
-      "type": "Free agent",
-      "league": "Süper Lig",
-      "from": "1. FC Köln",
-      "fromLogo": "https://media.api-sports.io/football/teams/192.png",
-      "to": "Trabzonspor",
-      "toLogo": "https://media.api-sports.io/football/teams/998.png"
-    },
-    {
-      "id": "1938-2026-06-30-998",
-      "kind": "confirmed",
-      "player": "R. Malinovskyi",
-      "date": "2026-06-30",
-      "type": "Free agent",
-      "league": "Süper Lig",
-      "from": "Genoa",
-      "fromLogo": "https://media.api-sports.io/football/teams/495.png",
-      "to": "Trabzonspor",
-      "toLogo": "https://media.api-sports.io/football/teams/998.png"
-    },
-    {
-      "id": "308689-2026-06-30-998",
-      "kind": "confirmed",
-      "player": "S. Lopes Cabral",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Benfica",
-      "fromLogo": "https://media.api-sports.io/football/teams/211.png",
-      "to": "Trabzonspor",
-      "toLogo": "https://media.api-sports.io/football/teams/998.png"
-    },
-    {
-      "id": "454973-2026-06-30-998",
-      "kind": "confirmed",
-      "player": "N. Saviolo",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Guimaraes",
-      "fromLogo": "https://media.api-sports.io/football/teams/224.png",
-      "to": "Trabzonspor",
-      "toLogo": "https://media.api-sports.io/football/teams/998.png"
-    },
-    {
-      "id": "62490-2026-06-30-998",
-      "kind": "confirmed",
-      "player": "S. Akaydin",
-      "date": "2026-06-30",
-      "type": "Free agent",
-      "league": "Süper Lig",
-      "from": "Rizespor",
-      "fromLogo": "https://media.api-sports.io/football/teams/1007.png",
-      "to": "Trabzonspor",
-      "toLogo": "https://media.api-sports.io/football/teams/998.png"
-    },
-    {
-      "id": "107660-2026-06-30-998",
-      "kind": "confirmed",
-      "player": "M. Mimaroğlu",
-      "date": "2026-06-30",
-      "type": "Free agent",
-      "league": "Süper Lig",
-      "from": "Gençlerbirliği S.K.",
-      "fromLogo": "https://media.api-sports.io/football/teams/997.png",
-      "to": "Trabzonspor",
-      "toLogo": "https://media.api-sports.io/football/teams/998.png"
-    },
-    {
-      "id": "463101-2026-06-30-3601",
-      "kind": "confirmed",
-      "player": "O. ÃakıroÄlu",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Trabzonspor",
-      "fromLogo": "https://media.api-sports.io/football/teams/998.png",
-      "to": "Pendikspor",
-      "toLogo": "https://media.api-sports.io/football/teams/3601.png"
-    },
-    {
-      "id": "27760-2026-06-30-347",
-      "kind": "confirmed",
-      "player": "L. Palma",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "",
-      "from": "Celtic",
-      "fromLogo": "https://media.api-sports.io/football/teams/247.png",
-      "to": "Lech Poznan",
-      "toLogo": "https://media.api-sports.io/football/teams/347.png"
-    },
-    {
-      "id": "67958-2026-06-30-76",
-      "kind": "confirmed",
-      "player": "S. Welsh",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "",
-      "from": "Celtic",
-      "fromLogo": "https://media.api-sports.io/football/teams/247.png",
-      "to": "Swansea",
-      "toLogo": "https://media.api-sports.io/football/teams/76.png"
-    },
-    {
-      "id": "348262-2026-06-30-901",
-      "kind": "confirmed",
-      "player": "J. Clarke",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "",
-      "from": "Celtic",
-      "fromLogo": "https://media.api-sports.io/football/teams/247.png",
-      "to": "Partick",
-      "toLogo": "https://media.api-sports.io/football/teams/901.png"
-    },
-    {
-      "id": "422380-2026-06-30-292",
-      "kind": "confirmed",
-      "player": "H. Inamura",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "",
-      "from": "Celtic",
-      "fromLogo": "https://media.api-sports.io/football/teams/247.png",
-      "to": "FC Tokyo",
-      "toLogo": "https://media.api-sports.io/football/teams/292.png"
     }
   ]
 }
