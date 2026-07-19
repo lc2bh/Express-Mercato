@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-07-18T07:53:33.393Z",
+  "updatedAt": "2026-07-19T08:20:35.322Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers",
+      "kind": "rumor",
+      "player": "Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking £117m deal",
+      "date": "2026-07-18",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-ag",
       "kind": "rumor",
@@ -236,6 +247,18 @@
       "league": "Serie A",
       "from": "Genoa",
       "fromLogo": "https://media.api-sports.io/football/teams/495.png",
+      "to": "Frosinone",
+      "toLogo": "https://media.api-sports.io/football/teams/512.png"
+    },
+    {
+      "id": "162570-2026-07-11-512",
+      "kind": "confirmed",
+      "player": "G. Cittadini",
+      "date": "2026-07-11",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Atalanta",
+      "fromLogo": "https://media.api-sports.io/football/teams/499.png",
       "to": "Frosinone",
       "toLogo": "https://media.api-sports.io/football/teams/512.png"
     },
@@ -737,6 +760,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/1581.png"
     },
     {
+      "id": "325-2026-07-08-499",
+      "kind": "confirmed",
+      "player": "G. Gaetano",
+      "date": "2026-07-08",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Cagliari",
+      "fromLogo": "https://media.api-sports.io/football/teams/490.png",
+      "to": "Atalanta",
+      "toLogo": "https://media.api-sports.io/football/teams/499.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jul/07/newcastle-sean-steur-",
       "kind": "rumor",
       "player": "Newcastle close in on signing Ajax generational talent Sean Steur for £23m",
@@ -1118,6 +1153,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/495.png",
       "to": "Team Altamura",
       "toLogo": "https://media.api-sports.io/football/teams/9549.png"
+    },
+    {
+      "id": "325-2026-07-07-499",
+      "kind": "confirmed",
+      "player": "G. Gaetano",
+      "date": "2026-07-07",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Cagliari",
+      "fromLogo": "https://media.api-sports.io/football/teams/490.png",
+      "to": "Atalanta",
+      "toLogo": "https://media.api-sports.io/football/teams/499.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-m",
@@ -1830,7 +1877,7 @@
       "player": "A. Longoni",
       "date": "2026-07-04",
       "type": "Free agent",
-      "league": "Serie A",
+      "league": "Ligue 1",
       "from": "AC Milan",
       "fromLogo": "https://media.api-sports.io/football/teams/489.png",
       "to": "Paris Saint Germain",
@@ -2920,54 +2967,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/797.png",
       "to": "Celta Vigo",
       "toLogo": "https://media.api-sports.io/football/teams/538.png"
-    },
-    {
-      "id": "311344-2026-06-30-118",
-      "kind": "confirmed",
-      "player": "A. Véliz",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Premier League",
-      "from": "Tottenham",
-      "fromLogo": "https://media.api-sports.io/football/teams/47.png",
-      "to": "Bahia",
-      "toLogo": "https://media.api-sports.io/football/teams/118.png"
-    },
-    {
-      "id": "6610-2026-06-30-47",
-      "kind": "confirmed",
-      "player": "M. Senesi",
-      "date": "2026-06-30",
-      "type": "Free agent",
-      "league": "Premier League",
-      "from": "Bournemouth",
-      "fromLogo": "https://media.api-sports.io/football/teams/35.png",
-      "to": "Tottenham",
-      "toLogo": "https://media.api-sports.io/football/teams/47.png"
-    },
-    {
-      "id": "38695-2026-06-30-47",
-      "kind": "confirmed",
-      "player": "J. van Hecke",
-      "date": "2026-06-30",
-      "type": "Transfer",
-      "league": "Premier League",
-      "from": "Brighton",
-      "fromLogo": "https://media.api-sports.io/football/teams/51.png",
-      "to": "Tottenham",
-      "toLogo": "https://media.api-sports.io/football/teams/47.png"
-    },
-    {
-      "id": "18886-2026-06-30-47",
-      "kind": "confirmed",
-      "player": "M. Dúbravka",
-      "date": "2026-06-30",
-      "type": "Free agent",
-      "league": "Premier League",
-      "from": "Burnley",
-      "fromLogo": "https://media.api-sports.io/football/teams/44.png",
-      "to": "Tottenham",
-      "toLogo": "https://media.api-sports.io/football/teams/47.png"
     }
   ]
 }
