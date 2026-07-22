@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-07-21T08:31:43.097Z",
+  "updatedAt": "2026-07-22T08:32:28.831Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/21/morgan-rogers-biggest",
+      "kind": "rumor",
+      "player": "Morgan Rogers ‘excited to join biggest club in London’ after making £117m Chelsea move",
+      "date": "2026-07-21",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/21/morgan-rogers-biggest-club-london-117m-chelsea-deal"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/21/spurs-sign-alice-somb",
+      "kind": "rumor",
+      "player": "Spurs break their women’s transfer record to sign Alice Sombath from Lyonnes",
+      "date": "2026-07-21",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/21/spurs-sign-alice-sombath-from-lyonnes-transfer-record"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/20/joao-gomes-signs-asto",
       "kind": "rumor",
@@ -379,6 +401,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/194.png"
     },
     {
+      "id": "265372-2026-07-15-565",
+      "kind": "confirmed",
+      "player": "I. Schmidt",
+      "date": "2026-07-15",
+      "type": "Transfer",
+      "league": "Premier League",
+      "from": "Leeds",
+      "fromLogo": "https://media.api-sports.io/football/teams/63.png",
+      "to": "BSC Young Boys",
+      "toLogo": "https://media.api-sports.io/football/teams/565.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jul/14/youri-tielemans-signs",
       "kind": "rumor",
       "player": "Youri Tielemans targets ‘biggest trophies’ after joining Manchester United",
@@ -588,6 +622,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/44.png",
       "to": "Galatasaray",
       "toLogo": "https://media.api-sports.io/football/teams/645.png"
+    },
+    {
+      "id": "70297-2026-07-14-13975",
+      "kind": "confirmed",
+      "player": "Carlinhos",
+      "date": "2026-07-14",
+      "type": "Loan",
+      "league": "",
+      "from": "Flamengo",
+      "fromLogo": "https://media.api-sports.io/football/teams/127.png",
+      "to": "Athletic Club",
+      "toLogo": "https://media.api-sports.io/football/teams/13975.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/13/aston-villa-hijack-ne",
@@ -874,6 +920,42 @@
       "fromLogo": "https://media.api-sports.io/football/teams/2932.png",
       "to": "Al-Qadisiyah FC",
       "toLogo": "https://media.api-sports.io/football/teams/2933.png"
+    },
+    {
+      "id": "2926-2026-07-13-33",
+      "kind": "confirmed",
+      "player": "Y. Tielemans",
+      "date": "2026-07-13",
+      "type": "Transfer",
+      "league": "Premier League",
+      "from": "Aston Villa",
+      "fromLogo": "https://media.api-sports.io/football/teams/66.png",
+      "to": "Manchester United",
+      "toLogo": "https://media.api-sports.io/football/teams/33.png"
+    },
+    {
+      "id": "18885-2026-07-13-33",
+      "kind": "confirmed",
+      "player": "K. Darlow",
+      "date": "2026-07-13",
+      "type": "Free agent",
+      "league": "Premier League",
+      "from": "Leeds",
+      "fromLogo": "https://media.api-sports.io/football/teams/63.png",
+      "to": "Manchester United",
+      "toLogo": "https://media.api-sports.io/football/teams/33.png"
+    },
+    {
+      "id": "1946-2026-07-13-549",
+      "kind": "confirmed",
+      "player": "L. Trossard",
+      "date": "2026-07-13",
+      "type": "Transfer",
+      "league": "Premier League",
+      "from": "Arsenal",
+      "fromLogo": "https://media.api-sports.io/football/teams/42.png",
+      "to": "Beşiktaş",
+      "toLogo": "https://media.api-sports.io/football/teams/549.png"
     },
     {
       "id": "387521-2026-07-12-51",
@@ -1284,6 +1366,42 @@
       "toLogo": "https://media.api-sports.io/football/teams/1609.png"
     },
     {
+      "id": "2926-2026-07-12-33",
+      "kind": "confirmed",
+      "player": "Y. Tielemans",
+      "date": "2026-07-12",
+      "type": "Transfer",
+      "league": "Premier League",
+      "from": "Aston Villa",
+      "fromLogo": "https://media.api-sports.io/football/teams/66.png",
+      "to": "Manchester United",
+      "toLogo": "https://media.api-sports.io/football/teams/33.png"
+    },
+    {
+      "id": "305834-2026-07-12-33",
+      "kind": "confirmed",
+      "player": "Andrey Santos",
+      "date": "2026-07-12",
+      "type": "Transfer",
+      "league": "Premier League",
+      "from": "Chelsea",
+      "fromLogo": "https://media.api-sports.io/football/teams/49.png",
+      "to": "Manchester United",
+      "toLogo": "https://media.api-sports.io/football/teams/33.png"
+    },
+    {
+      "id": "1946-2026-07-12-549",
+      "kind": "confirmed",
+      "player": "L. Trossard",
+      "date": "2026-07-12",
+      "type": "Transfer",
+      "league": "Premier League",
+      "from": "Arsenal",
+      "fromLogo": "https://media.api-sports.io/football/teams/42.png",
+      "to": "Beşiktaş",
+      "toLogo": "https://media.api-sports.io/football/teams/549.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
       "kind": "rumor",
       "player": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
@@ -1483,6 +1601,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/554.png",
       "to": "Lens",
       "toLogo": "https://media.api-sports.io/football/teams/116.png"
+    },
+    {
+      "id": "305834-2026-07-11-33",
+      "kind": "confirmed",
+      "player": "Andrey Santos",
+      "date": "2026-07-11",
+      "type": "Transfer",
+      "league": "Premier League",
+      "from": "Chelsea",
+      "fromLogo": "https://media.api-sports.io/football/teams/49.png",
+      "to": "Manchester United",
+      "toLogo": "https://media.api-sports.io/football/teams/33.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/10/arsenal-sign-ona-batl",
@@ -1686,6 +1816,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/79.png",
       "to": "Torreense",
       "toLogo": "https://media.api-sports.io/football/teams/4799.png"
+    },
+    {
+      "id": "31631-2026-07-10-504",
+      "kind": "confirmed",
+      "player": "N. Leali",
+      "date": "2026-07-10",
+      "type": "Free agent",
+      "league": "Serie A",
+      "from": "Genoa",
+      "fromLogo": "https://media.api-sports.io/football/teams/495.png",
+      "to": "Hellas Verona",
+      "toLogo": "https://media.api-sports.io/football/teams/504.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/09/team-for-now-not-a-sq",
@@ -2462,6 +2604,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/554.png"
     },
     {
+      "id": "543471-2026-07-08-4259",
+      "kind": "confirmed",
+      "player": "Ken Izekor",
+      "date": "2026-07-08",
+      "type": "Transfer",
+      "league": "Bundesliga",
+      "from": "Bayer Leverkusen",
+      "fromLogo": "https://media.api-sports.io/football/teams/168.png",
+      "to": "Alemannia Aachen",
+      "toLogo": "https://media.api-sports.io/football/teams/4259.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jul/07/newcastle-sean-steur-",
       "kind": "rumor",
       "player": "Newcastle close in on signing Ajax generational talent Sean Steur for £23m",
@@ -2819,162 +2973,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/500.png",
       "to": "Grazer AK",
       "toLogo": "https://media.api-sports.io/football/teams/4256.png"
-    },
-    {
-      "id": "360032-2026-07-07-79",
-      "kind": "confirmed",
-      "player": "B. Önal",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "NEC Nijmegen",
-      "fromLogo": "https://media.api-sports.io/football/teams/413.png",
-      "to": "Lille",
-      "toLogo": "https://media.api-sports.io/football/teams/79.png"
-    },
-    {
-      "id": "557096-2026-07-07-9549",
-      "kind": "confirmed",
-      "player": "L. Gagliardi",
-      "date": "2026-07-07",
-      "type": "Loan",
-      "league": "Serie A",
-      "from": "Genoa",
-      "fromLogo": "https://media.api-sports.io/football/teams/495.png",
-      "to": "Team Altamura",
-      "toLogo": "https://media.api-sports.io/football/teams/9549.png"
-    },
-    {
-      "id": "325-2026-07-07-499",
-      "kind": "confirmed",
-      "player": "G. Gaetano",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Cagliari",
-      "fromLogo": "https://media.api-sports.io/football/teams/490.png",
-      "to": "Atalanta",
-      "toLogo": "https://media.api-sports.io/football/teams/499.png"
-    },
-    {
-      "id": "2939-2026-07-07-55",
-      "kind": "confirmed",
-      "player": "C. Wilson",
-      "date": "2026-07-07",
-      "type": "Free agent",
-      "league": "Premier League",
-      "from": "West Ham",
-      "fromLogo": "https://media.api-sports.io/football/teams/48.png",
-      "to": "Brentford",
-      "toLogo": "https://media.api-sports.io/football/teams/55.png"
-    },
-    {
-      "id": "187987-2026-07-07-546",
-      "kind": "confirmed",
-      "player": "Ramón Terrats",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "La Liga",
-      "from": "Villarreal",
-      "fromLogo": "https://media.api-sports.io/football/teams/533.png",
-      "to": "Getafe",
-      "toLogo": "https://media.api-sports.io/football/teams/546.png"
-    },
-    {
-      "id": "551382-2026-07-07-714",
-      "kind": "confirmed",
-      "player": "D. Ramirez",
-      "date": "2026-07-07",
-      "type": "Free agent",
-      "league": "La Liga",
-      "from": "Real Sociedad",
-      "fromLogo": "https://media.api-sports.io/football/teams/548.png",
-      "to": "Gimnastic",
-      "toLogo": "https://media.api-sports.io/football/teams/714.png"
-    },
-    {
-      "id": "161790-2026-07-07-998",
-      "kind": "confirmed",
-      "player": "A. Şimşir",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "FC Midtjylland",
-      "fromLogo": "https://media.api-sports.io/football/teams/397.png",
-      "to": "Trabzonspor",
-      "toLogo": "https://media.api-sports.io/football/teams/998.png"
-    },
-    {
-      "id": "15597-2026-07-07-2283",
-      "kind": "confirmed",
-      "player": "R. Mmaee",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "",
-      "from": "Omonia Nicosia",
-      "fromLogo": "https://media.api-sports.io/football/teams/3402.png",
-      "to": "Atlas",
-      "toLogo": "https://media.api-sports.io/football/teams/2283.png"
-    },
-    {
-      "id": "583725-2026-07-07-17265",
-      "kind": "confirmed",
-      "player": "A. Xie",
-      "date": "2026-07-07",
-      "type": "Free agent",
-      "league": "Bundesliga",
-      "from": "VfB Stuttgart",
-      "fromLogo": "https://media.api-sports.io/football/teams/172.png",
-      "to": "Qingdao Youth Island",
-      "toLogo": "https://media.api-sports.io/football/teams/17265.png"
-    },
-    {
-      "id": "51144-2026-07-07-94",
-      "kind": "confirmed",
-      "player": "B. Reynolds",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "KVC Westerlo",
-      "fromLogo": "https://media.api-sports.io/football/teams/261.png",
-      "to": "Rennes",
-      "toLogo": "https://media.api-sports.io/football/teams/94.png"
-    },
-    {
-      "id": "472266-2026-07-07-96",
-      "kind": "confirmed",
-      "player": "C. Tapé",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "AC Horsens",
-      "fromLogo": "https://media.api-sports.io/football/teams/404.png",
-      "to": "Toulouse",
-      "toLogo": "https://media.api-sports.io/football/teams/96.png"
-    },
-    {
-      "id": "20661-2026-07-07-1007",
-      "kind": "confirmed",
-      "player": "M. Sagnan",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "Montpellier",
-      "fromLogo": "https://media.api-sports.io/football/teams/82.png",
-      "to": "Rizespor",
-      "toLogo": "https://media.api-sports.io/football/teams/1007.png"
-    },
-    {
-      "id": "469321-2026-07-07-34",
-      "kind": "confirmed",
-      "player": "Sean Steur",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Eredivisie",
-      "from": "Ajax",
-      "fromLogo": "https://media.api-sports.io/football/teams/194.png",
-      "to": "Newcastle",
-      "toLogo": "https://media.api-sports.io/football/teams/34.png"
     }
   ]
 }
