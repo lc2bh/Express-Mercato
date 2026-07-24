@@ -1,9 +1,75 @@
 {
-  "updatedAt": "2026-07-23T08:34:48.303Z",
+  "updatedAt": "2026-07-24T08:30:46.455Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/23/from-popp-to-diani-10",
+      "kind": "rumor",
+      "player": "From Popp to Diani: 10 women’s transfers you may have missed during the men’s World Cup",
+      "date": "2026-07-23",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/23/from-popp-to-diani-10-womens-transfers-you-may-have-missed-during-the-mens-world-cup"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/23/chelsea-aston-villa-1",
+      "kind": "rumor",
+      "player": "Chelsea paid Aston Villa £117m for Morgan Rogers. Is he the right fit?",
+      "date": "2026-07-23",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/23/chelsea-aston-villa-117m-morgan-rogers-england-xabi-alonso"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/23/aston-villa-loan-sign",
+      "kind": "rumor",
+      "player": "Aston Villa seal loan signing of Alejandro Garnacho from Chelsea",
+      "date": "2026-07-23",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/23/aston-villa-loan-signing-alejandro-garnacho-chelsea-transfer-latest"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/23/arsenal-sign-greece-f",
+      "kind": "rumor",
+      "player": "Arsenal sign Greece forward Christos Tzolis from Club Brugge for £34m",
+      "date": "2026-07-23",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/23/arsenal-sign-greece-forward-christos-tzolis-from-club-brugge-for-34m"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/23/transfer-roundup-barc",
+      "kind": "rumor",
+      "player": "Transfer roundup: Barcelona sign Adeyemi, Monaco’s Bamba set for Newcastle",
+      "date": "2026-07-23",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/23/transfer-roundup-barcelona-sign-karim-adeyemi-newcastle-aladji-bamba-monaco"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/23/manchester-united-con",
+      "kind": "rumor",
+      "player": "Manchester United consider Camavinga and Berge as midfield overhaul continues",
+      "date": "2026-07-23",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/23/manchester-united-consider-eduardo-camavinga-sander-berge-midfield-overhaul"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/22/trossard-ramos-dumfri",
       "kind": "rumor",
@@ -459,6 +525,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/734.png"
     },
     {
+      "id": "314226-2026-07-15-15130",
+      "kind": "confirmed",
+      "player": "L. Zvonarek",
+      "date": "2026-07-15",
+      "type": "Transfer",
+      "league": "Bundesliga",
+      "from": "Bayern München",
+      "fromLogo": "https://media.api-sports.io/football/teams/157.png",
+      "to": "Estrela",
+      "toLogo": "https://media.api-sports.io/football/teams/15130.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jul/14/youri-tielemans-signs",
       "kind": "rumor",
       "player": "Youri Tielemans targets ‘biggest trophies’ after joining Manchester United",
@@ -704,6 +782,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/85.png",
       "to": "Paris FC",
       "toLogo": "https://media.api-sports.io/football/teams/114.png"
+    },
+    {
+      "id": "314226-2026-07-14-15130",
+      "kind": "confirmed",
+      "player": "L. Zvonarek",
+      "date": "2026-07-14",
+      "type": "Transfer",
+      "league": "Bundesliga",
+      "from": "Bayern München",
+      "fromLogo": "https://media.api-sports.io/football/teams/157.png",
+      "to": "Estrela",
+      "toLogo": "https://media.api-sports.io/football/teams/15130.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/13/aston-villa-hijack-ne",
@@ -1508,6 +1598,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/2871.png"
     },
     {
+      "id": "354754-2026-07-12-544",
+      "kind": "confirmed",
+      "player": "Jonathan Asp Jensen",
+      "date": "2026-07-12",
+      "type": "Transfer",
+      "league": "Bundesliga",
+      "from": "Bayern München",
+      "fromLogo": "https://media.api-sports.io/football/teams/157.png",
+      "to": "Deportivo La Coruna",
+      "toLogo": "https://media.api-sports.io/football/teams/544.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
       "kind": "rumor",
       "player": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
@@ -1719,6 +1821,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/49.png",
       "to": "Manchester United",
       "toLogo": "https://media.api-sports.io/football/teams/33.png"
+    },
+    {
+      "id": "354754-2026-07-11-544",
+      "kind": "confirmed",
+      "player": "Jonathan Asp Jensen",
+      "date": "2026-07-11",
+      "type": "Transfer",
+      "league": "Bundesliga",
+      "from": "Bayern München",
+      "fromLogo": "https://media.api-sports.io/football/teams/157.png",
+      "to": "Deportivo La Coruna",
+      "toLogo": "https://media.api-sports.io/football/teams/544.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/10/arsenal-sign-ona-batl",
@@ -2851,126 +2965,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/201.png",
       "to": "Derry City",
       "toLogo": "https://media.api-sports.io/football/teams/670.png"
-    },
-    {
-      "id": "402317-2026-07-07-62",
-      "kind": "confirmed",
-      "player": "R. Donovan",
-      "date": "2026-07-07",
-      "type": "Loan",
-      "league": "Premier League",
-      "from": "Brentford",
-      "fromLogo": "https://media.api-sports.io/football/teams/55.png",
-      "to": "Sheffield Utd",
-      "toLogo": "https://media.api-sports.io/football/teams/62.png"
-    },
-    {
-      "id": "560978-2026-07-07-713",
-      "kind": "confirmed",
-      "player": "E. Garcia",
-      "date": "2026-07-07",
-      "type": "Loan",
-      "league": "La Liga",
-      "from": "Athletic Club",
-      "fromLogo": "https://media.api-sports.io/football/teams/531.png",
-      "to": "Cordoba",
-      "toLogo": "https://media.api-sports.io/football/teams/713.png"
-    },
-    {
-      "id": "384262-2026-07-07-731",
-      "kind": "confirmed",
-      "player": "Aimar Duñabeitia",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "La Liga",
-      "from": "Athletic Club",
-      "fromLogo": "https://media.api-sports.io/football/teams/531.png",
-      "to": "Sporting Gijon",
-      "toLogo": "https://media.api-sports.io/football/teams/731.png"
-    },
-    {
-      "id": "31037-2026-07-07-505",
-      "kind": "confirmed",
-      "player": "I. Provedel",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Lazio",
-      "fromLogo": "https://media.api-sports.io/football/teams/487.png",
-      "to": "Inter",
-      "toLogo": "https://media.api-sports.io/football/teams/505.png"
-    },
-    {
-      "id": "67953-2026-07-07-83",
-      "kind": "confirmed",
-      "player": "L. Perrin",
-      "date": "2026-07-07",
-      "type": "Free agent",
-      "league": "Ligue 1",
-      "from": "Sporting Gijon",
-      "fromLogo": "https://media.api-sports.io/football/teams/731.png",
-      "to": "Nantes",
-      "toLogo": "https://media.api-sports.io/football/teams/83.png"
-    },
-    {
-      "id": "409840-2026-07-07-370",
-      "kind": "confirmed",
-      "player": "J. Uneken",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Eredivisie",
-      "from": "PSV Eindhoven",
-      "fromLogo": "https://media.api-sports.io/football/teams/197.png",
-      "to": "Sirius",
-      "toLogo": "https://media.api-sports.io/football/teams/370.png"
-    },
-    {
-      "id": "399-2026-07-07-549",
-      "kind": "confirmed",
-      "player": "A. Nübel",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Bayern München",
-      "fromLogo": "https://media.api-sports.io/football/teams/157.png",
-      "to": "Beşiktaş",
-      "toLogo": "https://media.api-sports.io/football/teams/549.png"
-    },
-    {
-      "id": "312260-2026-07-07-3012",
-      "kind": "confirmed",
-      "player": "K. Young",
-      "date": "2026-07-07",
-      "type": "Loan",
-      "league": "Premier League",
-      "from": "Aston Villa",
-      "fromLogo": "https://media.api-sports.io/football/teams/66.png",
-      "to": "Annecy",
-      "toLogo": "https://media.api-sports.io/football/teams/3012.png"
-    },
-    {
-      "id": "19221-2026-07-07-63",
-      "kind": "confirmed",
-      "player": "H. Wilson",
-      "date": "2026-07-07",
-      "type": "Free agent",
-      "league": "Premier League",
-      "from": "Fulham",
-      "fromLogo": "https://media.api-sports.io/football/teams/36.png",
-      "to": "Leeds",
-      "toLogo": "https://media.api-sports.io/football/teams/63.png"
-    },
-    {
-      "id": "346865-2026-07-07-544",
-      "kind": "confirmed",
-      "player": "L. Amatucci",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Fiorentina",
-      "fromLogo": "https://media.api-sports.io/football/teams/502.png",
-      "to": "Deportivo La Coruna",
-      "toLogo": "https://media.api-sports.io/football/teams/544.png"
     }
   ]
 }
