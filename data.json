@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-07-24T08:30:46.455Z",
+  "updatedAt": "2026-07-25T08:11:50.380Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/25/premier-league-club-b",
+      "kind": "rumor",
+      "player": "Premier League: club-by-club guide to transfer business so far – and what they still need",
+      "date": "2026-07-25",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/25/premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-s",
+      "kind": "rumor",
+      "player": "Transfer news: Newcastle sign Monaco’s Bamba, Summerville joins Al-Hilal",
+      "date": "2026-07-24",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/23/from-popp-to-diani-10",
       "kind": "rumor",
@@ -2941,30 +2963,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/541.png",
       "to": "Real Betis",
       "toLogo": "https://media.api-sports.io/football/teams/543.png"
-    },
-    {
-      "id": "531-2026-07-07-194",
-      "kind": "confirmed",
-      "player": "D. Blind",
-      "date": "2026-07-07",
-      "type": "Free agent",
-      "league": "Eredivisie",
-      "from": "Girona",
-      "fromLogo": "https://media.api-sports.io/football/teams/547.png",
-      "to": "Ajax",
-      "toLogo": "https://media.api-sports.io/football/teams/194.png"
-    },
-    {
-      "id": "312839-2026-07-07-670",
-      "kind": "confirmed",
-      "player": "N. Twisk",
-      "date": "2026-07-07",
-      "type": "Free agent",
-      "league": "Eredivisie",
-      "from": "AZ Alkmaar",
-      "fromLogo": "https://media.api-sports.io/football/teams/201.png",
-      "to": "Derry City",
-      "toLogo": "https://media.api-sports.io/football/teams/670.png"
     }
   ]
 }
