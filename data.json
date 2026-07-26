@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T08:11:50.380Z",
+  "updatedAt": "2026-07-26T08:31:50.116Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
   "count": 250,
@@ -14,6 +14,17 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jul/25/premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-trans",
+      "kind": "rumor",
+      "player": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
+      "date": "2026-07-25",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-s",
@@ -2951,18 +2962,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/85.png",
       "to": "Espanyol",
       "toLogo": "https://media.api-sports.io/football/teams/540.png"
-    },
-    {
-      "id": "736-2026-07-07-543",
-      "kind": "confirmed",
-      "player": "Fran García",
-      "date": "2026-07-07",
-      "type": "Transfer",
-      "league": "La Liga",
-      "from": "Real Madrid",
-      "fromLogo": "https://media.api-sports.io/football/teams/541.png",
-      "to": "Real Betis",
-      "toLogo": "https://media.api-sports.io/football/teams/543.png"
     }
   ]
 }
