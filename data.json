@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-08-01T08:24:51.502Z",
+  "updatedAt": "2026-08-02T08:26:22.491Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 0,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/01/transfer-news-welbeck",
+      "kind": "rumor",
+      "player": "Transfer news: Welbeck joins Chelsea, Brentford complete record Sangaré deal",
+      "date": "2026-08-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/01/transfer-news-welbeck-joins-chelsea-brentford-complete-record-sangare-deal"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/31/football-transfer-rum",
       "kind": "rumor",
@@ -193,6 +204,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/496.png",
       "to": "Lyon",
       "toLogo": "https://media.api-sports.io/football/teams/80.png"
+    },
+    {
+      "id": "334878-2026-07-27-44",
+      "kind": "confirmed",
+      "player": "U. Raghouber",
+      "date": "2026-07-27",
+      "type": "Transfer",
+      "league": "Ligue 1",
+      "from": "Lille",
+      "fromLogo": "https://media.api-sports.io/football/teams/79.png",
+      "to": "Burnley",
+      "toLogo": "https://media.api-sports.io/football/teams/44.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/26/real-madrid-ready-to-",
@@ -2942,30 +2965,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/488.png",
       "to": "Leeds",
       "toLogo": "https://media.api-sports.io/football/teams/63.png"
-    },
-    {
-      "id": "133110-2026-07-16-79",
-      "kind": "confirmed",
-      "player": "T. Nianzou",
-      "date": "2026-07-16",
-      "type": "Free agent",
-      "league": "Ligue 1",
-      "from": "Sevilla",
-      "fromLogo": "https://media.api-sports.io/football/teams/536.png",
-      "to": "Lille",
-      "toLogo": "https://media.api-sports.io/football/teams/79.png"
-    },
-    {
-      "id": "570-2026-07-16-437",
-      "kind": "confirmed",
-      "player": "F. Cervi",
-      "date": "2026-07-16",
-      "type": "Free agent",
-      "league": "La Liga",
-      "from": "Celta Vigo",
-      "fromLogo": "https://media.api-sports.io/football/teams/538.png",
-      "to": "Rosario Central",
-      "toLogo": "https://media.api-sports.io/football/teams/437.png"
     }
   ]
 }
