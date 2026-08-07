@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T08:39:11.688Z",
+  "updatedAt": "2026-08-07T07:19:11.214Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 8,
   "count": 250,
@@ -14,6 +14,61 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/06/football-transfer-rumours-arsenal-ezri-konsa-raul-asencio-liverpool"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-clu",
+      "kind": "rumor",
+      "player": "Real Madrid announce arrival of £115m Yan Diomande on seven-year contract",
+      "date": "2026-08-06",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvar",
+      "kind": "rumor",
+      "player": "Barcelona step up Rodri interest after Real Madrid talks with Manchester City star stall",
+      "date": "2026-08-06",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvarez-manchester-city-real-madrid-transfers"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-",
+      "kind": "rumor",
+      "player": "Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032",
+      "date": "2026-08-06",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/06/kerolin-failed-to-rep",
+      "kind": "rumor",
+      "player": "Kerolin failed to report for pre-season at Manchester City before Barcelona switch",
+      "date": "2026-08-06",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/06/kerolin-failed-to-report-for-pre-season-at-manchester-city-before-barcelona-switch"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/06/mohamed-salah-14m-per",
+      "kind": "rumor",
+      "player": "Mohamed Salah to earn upwards of £14.5m per season in two-year Trabzonspor deal",
+      "date": "2026-08-06",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/06/mohamed-salah-14m-per-season-two-year-trabzonspor-deal"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/05/football-transfer-rum",
@@ -47,17 +102,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-clu",
-      "kind": "rumor",
-      "player": "Real Madrid agree club-record £115m deal for Yan Diomande and want to keep Vinícius",
-      "date": "2026-08-05",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/05/mohamed-salah-potted-",
@@ -261,6 +305,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/531.png",
       "to": "Almeria",
       "toLogo": "https://media.api-sports.io/football/teams/723.png"
+    },
+    {
+      "id": "426446-2026-07-31-529",
+      "kind": "confirmed",
+      "player": "J. Bisiwu",
+      "date": "2026-07-31",
+      "type": "Transfer",
+      "league": "La Liga",
+      "from": "Club Brugge II",
+      "fromLogo": "https://media.api-sports.io/football/teams/14130.png",
+      "to": "Barcelona",
+      "toLogo": "https://media.api-sports.io/football/teams/529.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/30/chelsea-crystal-palac",
@@ -2897,66 +2953,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/3396.png",
       "to": "Al-Ittihad FC",
       "toLogo": "https://media.api-sports.io/football/teams/2938.png"
-    },
-    {
-      "id": "350550-2026-07-21-2938",
-      "kind": "confirmed",
-      "player": "Rakan Kaabi",
-      "date": "2026-07-21",
-      "type": "Free agent",
-      "league": "Saudi Pro League",
-      "from": "Al-Fayha",
-      "fromLogo": "https://media.api-sports.io/football/teams/2944.png",
-      "to": "Al-Ittihad FC",
-      "toLogo": "https://media.api-sports.io/football/teams/2938.png"
-    },
-    {
-      "id": "2048-2026-07-21-174",
-      "kind": "confirmed",
-      "player": "M. Wöber",
-      "date": "2026-07-21",
-      "type": "Free agent",
-      "league": "Premier League",
-      "from": "Leeds",
-      "fromLogo": "https://media.api-sports.io/football/teams/63.png",
-      "to": "FC Schalke 04",
-      "toLogo": "https://media.api-sports.io/football/teams/174.png"
-    },
-    {
-      "id": "57446-2026-07-21-517",
-      "kind": "confirmed",
-      "player": "A. Adams",
-      "date": "2026-07-21",
-      "type": "Transfer",
-      "league": "La Liga",
-      "from": "Sevilla",
-      "fromLogo": "https://media.api-sports.io/football/teams/536.png",
-      "to": "Venezia",
-      "toLogo": "https://media.api-sports.io/football/teams/517.png"
-    },
-    {
-      "id": "309364-2026-07-21-10509",
-      "kind": "confirmed",
-      "player": "Coba",
-      "date": "2026-07-21",
-      "type": "Transfer",
-      "league": "La Liga",
-      "from": "Getafe",
-      "fromLogo": "https://media.api-sports.io/football/teams/546.png",
-      "to": "Al Kholood",
-      "toLogo": "https://media.api-sports.io/football/teams/10509.png"
-    },
-    {
-      "id": "392493-2026-07-21-870",
-      "kind": "confirmed",
-      "player": "M. Cocchi",
-      "date": "2026-07-21",
-      "type": "Loan",
-      "league": "Serie A",
-      "from": "Inter",
-      "fromLogo": "https://media.api-sports.io/football/teams/505.png",
-      "to": "Padova",
-      "toLogo": "https://media.api-sports.io/football/teams/870.png"
     }
   ]
 }
