@@ -1,9 +1,53 @@
 {
-  "updatedAt": "2026-08-07T07:19:11.214Z",
+  "updatedAt": "2026-08-08T06:55:01.534Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 8,
+  "requestsRemaining": 2,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/07/jay-z-roc-nation-spor",
+      "kind": "rumor",
+      "player": "Jay-Z’s Roc Nation Sports making waves in European football transfer market",
+      "date": "2026-08-07",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/07/jay-z-roc-nation-sports-european-football-transfer-market-vinicius-junior-yan-diomande"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/07/manchester-city-rejec",
+      "kind": "rumor",
+      "player": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
+      "date": "2026-08-07",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/07/manchester-city-reject-barcelonas-opening-385m-bid-for-rodri-as-talks-continue"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletic",
+      "kind": "rumor",
+      "player": "Tottenham and Atlético in talks over Romero with Van de Ven set to sign new deal",
+      "date": "2026-08-07",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/07/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Cristian Romero to leave Spurs for … Arsenal?",
+      "date": "2026-08-07",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/06/football-transfer-rum",
       "kind": "rumor",
@@ -2905,54 +2949,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/212.png",
       "to": "Botafogo",
       "toLogo": "https://media.api-sports.io/football/teams/120.png"
-    },
-    {
-      "id": "371917-2026-07-21-427",
-      "kind": "confirmed",
-      "player": "F. Rust",
-      "date": "2026-07-21",
-      "type": "Free agent",
-      "league": "Eredivisie",
-      "from": "Feyenoord",
-      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
-      "to": "Telstar",
-      "toLogo": "https://media.api-sports.io/football/teams/427.png"
-    },
-    {
-      "id": "443802-2026-07-21-257",
-      "kind": "confirmed",
-      "player": "V. Dragojević",
-      "date": "2026-07-21",
-      "type": "Transfer",
-      "league": "",
-      "from": "FK Partizan",
-      "fromLogo": "https://media.api-sports.io/football/teams/573.png",
-      "to": "Rangers",
-      "toLogo": "https://media.api-sports.io/football/teams/257.png"
-    },
-    {
-      "id": "371910-2026-07-21-2938",
-      "kind": "confirmed",
-      "player": "J. Šimić",
-      "date": "2026-07-21",
-      "type": "Transfer",
-      "league": "",
-      "from": "Anderlecht",
-      "fromLogo": "https://media.api-sports.io/football/teams/554.png",
-      "to": "Al-Ittihad FC",
-      "toLogo": "https://media.api-sports.io/football/teams/2938.png"
-    },
-    {
-      "id": "561386-2026-07-21-2938",
-      "kind": "confirmed",
-      "player": "S. Keller",
-      "date": "2026-07-21",
-      "type": "Transfer",
-      "league": "Saudi Pro League",
-      "from": "AEL",
-      "fromLogo": "https://media.api-sports.io/football/teams/3396.png",
-      "to": "Al-Ittihad FC",
-      "toLogo": "https://media.api-sports.io/football/teams/2938.png"
     }
   ]
 }
