@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-08-08T06:55:01.534Z",
+  "updatedAt": "2026-08-09T07:00:01.101Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 2,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/08/arsenal-transfer-brun",
+      "kind": "rumor",
+      "player": "Bruno Guimarães completes £75m Arsenal move: ‘I needed a new challenge’",
+      "date": "2026-08-08",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/08/arsenal-transfer-bruno-guimaraes-newcastle-football"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-r",
+      "kind": "rumor",
+      "player": "Liverpool agree to sign Barcelona’s Ronald Araújo on loan as Jacquet cover",
+      "date": "2026-08-08",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/07/jay-z-roc-nation-spor",
       "kind": "rumor",
@@ -2925,30 +2947,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/93.png",
       "to": "Wuhan Three Towns",
       "toLogo": "https://media.api-sports.io/football/teams/5695.png"
-    },
-    {
-      "id": "21506-2026-07-21-2930",
-      "kind": "confirmed",
-      "player": "Alexandre Mendy",
-      "date": "2026-07-21",
-      "type": "Free agent",
-      "league": "Ligue 1",
-      "from": "Montpellier",
-      "fromLogo": "https://media.api-sports.io/football/teams/82.png",
-      "to": "Al-Faisaly FC",
-      "toLogo": "https://media.api-sports.io/football/teams/2930.png"
-    },
-    {
-      "id": "237165-2026-07-21-120",
-      "kind": "confirmed",
-      "player": "Domingos Andrade",
-      "date": "2026-07-21",
-      "type": "Transfer",
-      "league": "Liga Portugal",
-      "from": "FC Porto",
-      "fromLogo": "https://media.api-sports.io/football/teams/212.png",
-      "to": "Botafogo",
-      "toLogo": "https://media.api-sports.io/football/teams/120.png"
     }
   ]
 }
