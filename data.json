@@ -1,9 +1,64 @@
 {
-  "updatedAt": "2026-08-11T07:10:09.040Z",
+  "updatedAt": "2026-08-12T07:29:05.670Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 8,
+  "requestsRemaining": 0,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/10/crystal-palace-everto",
+      "kind": "rumor",
+      "player": "Crystal Palace and Everton seal Brennan Johnson-Dwight McNeil swap deal",
+      "date": "2026-08-11",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/10/crystal-palace-everton-brennan-johnson-dwight-mcneil-transfer-roundup"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/11/transfer-roundup-nott",
+      "kind": "rumor",
+      "player": "Transfer roundup: Nottingham Forest seal £34m deal for Sporting’s Diomande",
+      "date": "2026-08-11",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/11/transfer-roundup-nottingham-forest-ousmane-diomande-fulham-shea-charles"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/11/djed-spence-nears-tot",
+      "kind": "rumor",
+      "player": "Djed Spence nears Tottenham exit with Inter in talks over £25.6m move",
+      "date": "2026-08-11",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/11/djed-spence-nears-tottenham-exit-inter-in-talks-over-move"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/11/arsenal-myles-lewis-s",
+      "kind": "rumor",
+      "player": "Arsenal’s Myles Lewis-Skelly offered to Manchester United as left-back solution",
+      "date": "2026-08-11",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/11/arsenal-myles-lewis-skelly-offered-to-manchester-united-left-back"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/11/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Vardy to West Ham? Madrid move for Zubimendi?",
+      "date": "2026-08-11",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/11/football-transfer-rumour-mill-jamie-vardy-west-ham-real-madrid-zubimendi"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/10/football-transfer-rum",
       "kind": "rumor",
@@ -14,17 +69,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/10/football-transfer-rumours-aston-villa-endrick-manchester-city-barcelona-rodri-frenkie-de-jong"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/10/crystal-palace-everto",
-      "kind": "rumor",
-      "player": "Crystal Palace and Everton agree Brennan Johnson-Dwight McNeil swap deal",
-      "date": "2026-08-10",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/10/crystal-palace-everton-brennan-johnson-dwight-mcneil-transfer-roundup"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/10/manchester-city-85m-a",
@@ -354,7 +398,7 @@
       "player": "Ø. Nyland",
       "date": "2026-08-03",
       "type": "Free agent",
-      "league": "La Liga",
+      "league": "Bundesliga",
       "from": "Sevilla",
       "fromLogo": "https://media.api-sports.io/football/teams/536.png",
       "to": "RB Leipzig",
@@ -497,7 +541,7 @@
       "player": "P. Gulácsi",
       "date": "2026-08-02",
       "type": "Transfer",
-      "league": "La Liga",
+      "league": "Bundesliga",
       "from": "RB Leipzig",
       "fromLogo": "https://media.api-sports.io/football/teams/173.png",
       "to": "Villarreal",
@@ -624,6 +668,42 @@
       "toLogo": "https://media.api-sports.io/football/teams/2936.png"
     },
     {
+      "id": "295159-2026-08-02-101",
+      "kind": "confirmed",
+      "player": "L. Cerri",
+      "date": "2026-08-02",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Juventus",
+      "fromLogo": "https://media.api-sports.io/football/teams/496.png",
+      "to": "Grenoble",
+      "toLogo": "https://media.api-sports.io/football/teams/101.png"
+    },
+    {
+      "id": "339872-2026-08-02-488",
+      "kind": "confirmed",
+      "player": "Vasilije Adžić",
+      "date": "2026-08-02",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Juventus",
+      "fromLogo": "https://media.api-sports.io/football/teams/496.png",
+      "to": "Sassuolo",
+      "toLogo": "https://media.api-sports.io/football/teams/488.png"
+    },
+    {
+      "id": "558631-2026-08-02-492",
+      "kind": "confirmed",
+      "player": "M. Esposito",
+      "date": "2026-08-02",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Sorrento",
+      "fromLogo": "https://media.api-sports.io/football/teams/9537.png",
+      "to": "Napoli",
+      "toLogo": "https://media.api-sports.io/football/teams/492.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/aug/01/transfer-news-welbeck",
       "kind": "rumor",
       "player": "Transfer news: Welbeck joins Chelsea, Brentford complete record Sangaré deal",
@@ -700,7 +780,7 @@
       "player": "P. Gulácsi",
       "date": "2026-08-01",
       "type": "Transfer",
-      "league": "La Liga",
+      "league": "Bundesliga",
       "from": "RB Leipzig",
       "fromLogo": "https://media.api-sports.io/football/teams/173.png",
       "to": "Villarreal",
@@ -873,6 +953,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/84.png",
       "to": "PAOK",
       "toLogo": "https://media.api-sports.io/football/teams/619.png"
+    },
+    {
+      "id": "295159-2026-08-01-101",
+      "kind": "confirmed",
+      "player": "L. Cerri",
+      "date": "2026-08-01",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Juventus",
+      "fromLogo": "https://media.api-sports.io/football/teams/496.png",
+      "to": "Grenoble",
+      "toLogo": "https://media.api-sports.io/football/teams/101.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/31/football-transfer-rum",
@@ -1589,6 +1681,18 @@
       "fromLogo": "https://media.api-sports.io/football/teams/438.png",
       "to": "River Plate",
       "toLogo": "https://media.api-sports.io/football/teams/435.png"
+    },
+    {
+      "id": "544573-2026-07-30-801",
+      "kind": "confirmed",
+      "player": "E. Rao",
+      "date": "2026-07-30",
+      "type": "Loan",
+      "league": "Serie A",
+      "from": "Napoli",
+      "fromLogo": "https://media.api-sports.io/football/teams/492.png",
+      "to": "Pisa",
+      "toLogo": "https://media.api-sports.io/football/teams/801.png"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-",
@@ -2606,6 +2710,18 @@
       "toLogo": "https://media.api-sports.io/football/teams/17259.png"
     },
     {
+      "id": "341914-2026-07-28-10124",
+      "kind": "confirmed",
+      "player": "C. Saco",
+      "date": "2026-07-28",
+      "type": "Transfer",
+      "league": "Serie A",
+      "from": "Napoli",
+      "fromLogo": "https://media.api-sports.io/football/teams/492.png",
+      "to": "Riga",
+      "toLogo": "https://media.api-sports.io/football/teams/10124.png"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/jul/27/football-transfer-rum",
       "kind": "rumor",
       "player": "Football transfer rumours: Arsenal and Liverpool battle it out for Bradley Barcola?",
@@ -2839,126 +2955,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/1616.png",
       "to": "FC Kharkiv",
       "toLogo": "https://media.api-sports.io/football/teams/3628.png"
-    },
-    {
-      "id": "449244-2026-07-27-1604",
-      "kind": "confirmed",
-      "player": "Luighi Hanri",
-      "date": "2026-07-27",
-      "type": "Loan",
-      "league": "",
-      "from": "Palmeiras",
-      "fromLogo": "https://media.api-sports.io/football/teams/121.png",
-      "to": "New York City FC",
-      "toLogo": "https://media.api-sports.io/football/teams/1604.png"
-    },
-    {
-      "id": "51841-2026-07-27-460",
-      "kind": "confirmed",
-      "player": "G. del Prete",
-      "date": "2026-07-27",
-      "type": "Free agent",
-      "league": "",
-      "from": "Atlas",
-      "fromLogo": "https://media.api-sports.io/football/teams/2283.png",
-      "to": "San Lorenzo",
-      "toLogo": "https://media.api-sports.io/football/teams/460.png"
-    },
-    {
-      "id": "327604-2026-07-27-1389",
-      "kind": "confirmed",
-      "player": "Joseph Charles Gardner",
-      "date": "2026-07-27",
-      "type": "-",
-      "league": "Premier League",
-      "from": "Nottingham Forest",
-      "fromLogo": "https://media.api-sports.io/football/teams/65.png",
-      "to": "Falkirk",
-      "toLogo": "https://media.api-sports.io/football/teams/1389.png"
-    },
-    {
-      "id": "353419-2026-07-27-630",
-      "kind": "confirmed",
-      "player": "L. Villa",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Juventus",
-      "fromLogo": "https://media.api-sports.io/football/teams/496.png",
-      "to": "FC Sion",
-      "toLogo": "https://media.api-sports.io/football/teams/630.png"
-    },
-    {
-      "id": "575285-2026-07-27-637",
-      "kind": "confirmed",
-      "player": "L. Balbo",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Fiorentina",
-      "fromLogo": "https://media.api-sports.io/football/teams/502.png",
-      "to": "Sturm Graz",
-      "toLogo": "https://media.api-sports.io/football/teams/637.png"
-    },
-    {
-      "id": "426626-2026-07-27-500",
-      "kind": "confirmed",
-      "player": "M. Amondarain",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Estudiantes L.P.",
-      "fromLogo": "https://media.api-sports.io/football/teams/450.png",
-      "to": "Bologna",
-      "toLogo": "https://media.api-sports.io/football/teams/500.png"
-    },
-    {
-      "id": "418774-2026-07-27-169",
-      "kind": "confirmed",
-      "player": "Otávio",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "Bundesliga",
-      "from": "Estrela",
-      "fromLogo": "https://media.api-sports.io/football/teams/15130.png",
-      "to": "Eintracht Frankfurt",
-      "toLogo": "https://media.api-sports.io/football/teams/169.png"
-    },
-    {
-      "id": "1321-2026-07-27-575",
-      "kind": "confirmed",
-      "player": "L. Majer",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "Bundesliga",
-      "from": "VfL Wolfsburg",
-      "fromLogo": "https://media.api-sports.io/football/teams/161.png",
-      "to": "AEK Athens FC",
-      "toLogo": "https://media.api-sports.io/football/teams/575.png"
-    },
-    {
-      "id": "15916-2026-07-27-564",
-      "kind": "confirmed",
-      "player": "A. Skov Olsen",
-      "date": "2026-07-27",
-      "type": "Loan",
-      "league": "Bundesliga",
-      "from": "VfL Wolfsburg",
-      "fromLogo": "https://media.api-sports.io/football/teams/161.png",
-      "to": "Başakşehir",
-      "toLogo": "https://media.api-sports.io/football/teams/564.png"
-    },
-    {
-      "id": "445604-2026-07-27-102",
-      "kind": "confirmed",
-      "player": "J. Coulibaly",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "Rennes",
-      "fromLogo": "https://media.api-sports.io/football/teams/94.png",
-      "to": "Nancy",
-      "toLogo": "https://media.api-sports.io/football/teams/102.png"
     }
   ]
 }
