@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-08-12T07:29:05.670Z",
+  "updatedAt": "2026-08-13T07:31:18.387Z",
   "lastTeamChecked": "100 clubs + RSS",
-  "requestsRemaining": 0,
+  "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree",
+      "kind": "rumor",
+      "player": "Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero",
+      "date": "2026-08-12",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/12/manchester-city-chels",
+      "kind": "rumor",
+      "player": "Barcelona make improved £51m bid for Rodri as Manchester City target Fernández",
+      "date": "2026-08-12",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/12/manchester-city-chelsea-enzo-fernandez"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/12/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
+      "date": "2026-08-12",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/12/football-transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus-to-napoli"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/10/crystal-palace-everto",
       "kind": "rumor",
@@ -2919,42 +2952,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/209.png",
       "to": "AZ Alkmaar",
       "toLogo": "https://media.api-sports.io/football/teams/201.png"
-    },
-    {
-      "id": "441274-2026-07-27-418",
-      "kind": "confirmed",
-      "player": "I. Ka",
-      "date": "2026-07-27",
-      "type": "-",
-      "league": "Eredivisie",
-      "from": "Feyenoord",
-      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
-      "to": "Jong AZ",
-      "toLogo": "https://media.api-sports.io/football/teams/418.png"
-    },
-    {
-      "id": "15704-2026-07-27-247",
-      "kind": "confirmed",
-      "player": "K. Høgh",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "",
-      "from": "Bodo/Glimt",
-      "fromLogo": "https://media.api-sports.io/football/teams/327.png",
-      "to": "Celtic",
-      "toLogo": "https://media.api-sports.io/football/teams/247.png"
-    },
-    {
-      "id": "347794-2026-07-27-3628",
-      "kind": "confirmed",
-      "player": "A. Smolyakov",
-      "date": "2026-07-27",
-      "type": "Loan",
-      "league": "MLS",
-      "from": "Los Angeles FC",
-      "fromLogo": "https://media.api-sports.io/football/teams/1616.png",
-      "to": "FC Kharkiv",
-      "toLogo": "https://media.api-sports.io/football/teams/3628.png"
     }
   ]
 }
