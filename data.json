@@ -1,9 +1,53 @@
 {
-  "updatedAt": "2026-08-13T07:31:18.387Z",
+  "updatedAt": "2026-08-14T07:28:58.802Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
+      "kind": "rumor",
+      "player": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "date": "2026-08-13",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-t",
+      "kind": "rumor",
+      "player": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "date": "2026-08-13",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/13/manchester-city-barce",
+      "kind": "rumor",
+      "player": "Chelsea set Friday deadline for Fernández suitors as City reject new £51m Barça bid for Rodri",
+      "date": "2026-08-13",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/13/manchester-city-barcelona-rodri-chelsea-enzo-fernandez"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/13/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
+      "date": "2026-08-13",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/13/football-transfer-rumour-mill-galatasaray-38m-arsenal-gabriel-martinelli"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree",
       "kind": "rumor",
@@ -2904,54 +2948,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/110.png",
       "to": "AC Milan",
       "toLogo": "https://media.api-sports.io/football/teams/489.png"
-    },
-    {
-      "id": "462228-2026-07-27-201",
-      "kind": "confirmed",
-      "player": "A. Natali",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "Eredivisie",
-      "from": "Bayer Leverkusen",
-      "fromLogo": "https://media.api-sports.io/football/teams/168.png",
-      "to": "AZ Alkmaar",
-      "toLogo": "https://media.api-sports.io/football/teams/201.png"
-    },
-    {
-      "id": "8553-2026-07-27-740",
-      "kind": "confirmed",
-      "player": "M. Busi",
-      "date": "2026-07-27",
-      "type": "Free agent",
-      "league": "Ligue 1",
-      "from": "Reims",
-      "fromLogo": "https://media.api-sports.io/football/teams/93.png",
-      "to": "Antwerp",
-      "toLogo": "https://media.api-sports.io/football/teams/740.png"
-    },
-    {
-      "id": "342163-2026-07-27-172",
-      "kind": "confirmed",
-      "player": "L. Sauer",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "Eredivisie",
-      "from": "Feyenoord",
-      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
-      "to": "VfB Stuttgart",
-      "toLogo": "https://media.api-sports.io/football/teams/172.png"
-    },
-    {
-      "id": "36910-2026-07-27-201",
-      "kind": "confirmed",
-      "player": "C. Stengs",
-      "date": "2026-07-27",
-      "type": "Free agent",
-      "league": "Eredivisie",
-      "from": "Feyenoord",
-      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
-      "to": "AZ Alkmaar",
-      "toLogo": "https://media.api-sports.io/football/teams/201.png"
     }
   ]
 }
