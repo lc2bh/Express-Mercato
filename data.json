@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-08-14T07:28:58.802Z",
+  "updatedAt": "2026-08-15T06:41:09.019Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/14/enzo-maresca-manchest",
+      "kind": "rumor",
+      "player": "Chelsea expect Enzo Fernández to stay after Manchester City opt not to meet deadline",
+      "date": "2026-08-14",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/14/enzo-maresca-manchester-city-chelsea-fernandez-rodri-transfer"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/14/arsenal-bayer-leverku",
+      "kind": "rumor",
+      "player": "Arsenal open talks with Bayer Leverkusen over deal for Jarell Quansah",
+      "date": "2026-08-14",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/14/arsenal-bayer-leverkusen-jarell-quansah-transfer-talks"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/14/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Arsenal offered Osimhen in exchange deal? Newcastle to make Baleba bid?",
+      "date": "2026-08-14",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
       "kind": "rumor",
@@ -2912,42 +2945,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/40.png",
       "to": "Zemplín Michalovce",
       "toLogo": "https://media.api-sports.io/football/teams/3552.png"
-    },
-    {
-      "id": "408129-2026-07-27-1347",
-      "kind": "confirmed",
-      "player": "S. Tabares",
-      "date": "2026-07-27",
-      "type": "Free agent",
-      "league": "Premier League",
-      "from": "Southampton",
-      "fromLogo": "https://media.api-sports.io/football/teams/41.png",
-      "to": "Gillingham",
-      "toLogo": "https://media.api-sports.io/football/teams/1347.png"
-    },
-    {
-      "id": "386870-2026-07-27-536",
-      "kind": "confirmed",
-      "player": "Julio Díaz del Romo",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "La Liga",
-      "from": "Atletico Madrid",
-      "fromLogo": "https://media.api-sports.io/football/teams/530.png",
-      "to": "Sevilla",
-      "toLogo": "https://media.api-sports.io/football/teams/536.png"
-    },
-    {
-      "id": "467860-2026-07-27-489",
-      "kind": "confirmed",
-      "player": "S. Bocoum",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Estac Troyes",
-      "fromLogo": "https://media.api-sports.io/football/teams/110.png",
-      "to": "AC Milan",
-      "toLogo": "https://media.api-sports.io/football/teams/489.png"
     }
   ]
 }
