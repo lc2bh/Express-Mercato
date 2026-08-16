@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-08-15T06:41:09.019Z",
+  "updatedAt": "2026-08-16T06:43:26.121Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-bar",
+      "kind": "rumor",
+      "player": "Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki as Emiliano Martínez nears exit",
+      "date": "2026-08-15",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/14/enzo-maresca-manchest",
       "kind": "rumor",
@@ -2933,18 +2944,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/79.png",
       "to": "Burnley",
       "toLogo": "https://media.api-sports.io/football/teams/44.png"
-    },
-    {
-      "id": "301286-2026-07-27-3552",
-      "kind": "confirmed",
-      "player": "Tommy Pilling",
-      "date": "2026-07-27",
-      "type": "Free agent",
-      "league": "Premier League",
-      "from": "Liverpool",
-      "fromLogo": "https://media.api-sports.io/football/teams/40.png",
-      "to": "Zemplín Michalovce",
-      "toLogo": "https://media.api-sports.io/football/teams/3552.png"
     }
   ]
 }
