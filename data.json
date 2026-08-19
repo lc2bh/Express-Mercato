@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-08-18T06:46:09.710Z",
+  "updatedAt": "2026-08-19T06:47:30.093Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-d",
+      "kind": "rumor",
+      "player": "Transfer roundup: Dedic completes £29.5m Newcastle move, Wan-Bissaka loaned to Villa",
+      "date": "2026-08-18",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodr",
+      "kind": "rumor",
+      "player": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
+      "date": "2026-08-18",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/18/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Atlético want Alvarez to join Arsenal over Barça?",
+      "date": "2026-08-18",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/18/football-transfer-rumour-mill-atletico-madrid-julian-alvarez-arsenal-barcelona"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete",
       "kind": "rumor",
@@ -2907,40 +2940,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jul/27/mind-the-ever-growing",
-      "kind": "rumor",
-      "player": "Mind the ever-growing gap: the Premier League keeps spending big",
-      "date": "2026-07-27",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jul/27/mind-the-ever-growing-gap-the-premier-league-keeps-spending"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jul/27/manchester-city-rodri",
-      "kind": "rumor",
-      "player": "Manchester City hope Rodri will sign new deal as Real Madrid weigh up offer",
-      "date": "2026-07-27",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jul/27/manchester-city-rodri-contract-real-madrid-offer-transfer-window"
-    },
-    {
-      "id": "6490-2026-07-27-54",
-      "kind": "confirmed",
-      "player": "L. Vázquez",
-      "date": "2026-07-27",
-      "type": "Transfer",
-      "league": "",
-      "from": "Anderlecht",
-      "fromLogo": "https://media.api-sports.io/football/teams/554.png",
-      "to": "Birmingham",
-      "toLogo": "https://media.api-sports.io/football/teams/54.png"
     }
   ]
 }
