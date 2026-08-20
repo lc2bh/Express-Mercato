@@ -1,9 +1,97 @@
 {
-  "updatedAt": "2026-08-19T06:47:30.093Z",
+  "updatedAt": "2026-08-20T06:49:08.683Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/19/manchester-city-targe",
+      "kind": "rumor",
+      "player": "Manchester City target Roma’s Manu Koné as Spurs talk over Savinho and Marmoush deal",
+      "date": "2026-08-19",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/19/manchester-city-target-romas-manu-kone-as-spurs-talk-over-savinho-and-marmoush-deal"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-c",
+      "kind": "rumor",
+      "player": "Curtis Jones set to leave Liverpool as Inter submit £30m offer for midfielder",
+      "date": "2026-08-19",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-curtis-jones-transfer-window-premier-league"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-",
+      "kind": "rumor",
+      "player": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
+      "date": "2026-08-19",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs",
+      "kind": "rumor",
+      "player": "Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
+      "date": "2026-08-19",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs-signing-players-transfers-football-daily"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-",
+      "kind": "rumor",
+      "player": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
+      "date": "2026-08-19",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-ma",
+      "kind": "rumor",
+      "player": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
+      "date": "2026-08-19",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/19/manchester-united-bri",
+      "kind": "rumor",
+      "player": "Manchester United make £65m offer for Brighton’s Carlos Baleba",
+      "date": "2026-08-19",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/19/manchester-united-brighton-carlos-baleba"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/19/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
+      "date": "2026-08-19",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-d",
       "kind": "rumor",
@@ -2847,99 +2935,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/50.png",
       "to": "Cercle Brugge",
       "toLogo": "https://media.api-sports.io/football/teams/741.png"
-    },
-    {
-      "id": "196856-2026-07-28-1837",
-      "kind": "confirmed",
-      "player": "Daniel Edward Peter Imray",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Premier League",
-      "from": "Crystal Palace",
-      "fromLogo": "https://media.api-sports.io/football/teams/52.png",
-      "to": "Wrexham",
-      "toLogo": "https://media.api-sports.io/football/teams/1837.png"
-    },
-    {
-      "id": "379985-2026-07-28-65",
-      "kind": "confirmed",
-      "player": "Gustavo Sá",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Premier League",
-      "from": "Famalicao",
-      "fromLogo": "https://media.api-sports.io/football/teams/242.png",
-      "to": "Nottingham Forest",
-      "toLogo": "https://media.api-sports.io/football/teams/65.png"
-    },
-    {
-      "id": "441274-2026-07-28-418",
-      "kind": "confirmed",
-      "player": "I. Ka",
-      "date": "2026-07-28",
-      "type": "-",
-      "league": "Eredivisie",
-      "from": "Feyenoord",
-      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
-      "to": "Jong AZ",
-      "toLogo": "https://media.api-sports.io/football/teams/418.png"
-    },
-    {
-      "id": "493965-2026-07-28-17259",
-      "kind": "confirmed",
-      "player": "A. Ãztürk",
-      "date": "2026-07-28",
-      "type": "Loan",
-      "league": "Süper Lig",
-      "from": "Trabzonspor",
-      "fromLogo": "https://media.api-sports.io/football/teams/998.png",
-      "to": "Iğdır FK",
-      "toLogo": "https://media.api-sports.io/football/teams/17259.png"
-    },
-    {
-      "id": "341914-2026-07-28-10124",
-      "kind": "confirmed",
-      "player": "C. Saco",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Napoli",
-      "fromLogo": "https://media.api-sports.io/football/teams/492.png",
-      "to": "Riga",
-      "toLogo": "https://media.api-sports.io/football/teams/10124.png"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jul/27/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Arsenal and Liverpool battle it out for Bradley Barcola?",
-      "date": "2026-07-27",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jul/27/football-transfer-rumours-arsenal-liverpool-bradley-barcola-psg"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jul/27/john-stones-inter-mov",
-      "kind": "rumor",
-      "player": "John Stones set for Inter move after shining for England at World Cup",
-      "date": "2026-07-27",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jul/27/john-stones-inter-move-england-world-cup-2026-manchester-city"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move",
-      "kind": "rumor",
-      "player": "Chelsea explore surprise moves for Danny Welbeck and Jordan Henderson",
-      "date": "2026-07-27",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton"
     }
   ]
 }
