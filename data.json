@@ -1,9 +1,53 @@
 {
-  "updatedAt": "2026-08-20T06:49:08.683Z",
+  "updatedAt": "2026-08-21T06:49:43.492Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/20/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Newcastle to sign Manchester City’s Nico González?",
+      "date": "2026-08-20",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid",
+      "kind": "rumor",
+      "player": "Liverpool see £50m bid for Yankuba Minteh rejected by Brighton",
+      "date": "2026-08-20",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelse",
+      "kind": "rumor",
+      "player": "‘Enzo is a Chelsea player,’ says Alonso but doesn’t guarantee Fernández’s future",
+      "date": "2026-08-20",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/20/manchester-united-may",
+      "kind": "rumor",
+      "player": "Frugal or foolish? Manchester United may regret not backing Carrick",
+      "date": "2026-08-20",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/20/manchester-united-may-regret-not-backing-michael-carrick"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/19/manchester-city-targe",
       "kind": "rumor",
@@ -2887,54 +2931,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/998.png",
       "to": "Bodrum FK",
       "toLogo": "https://media.api-sports.io/football/teams/3583.png"
-    },
-    {
-      "id": "68193-2026-07-28-457",
-      "kind": "confirmed",
-      "player": "M. García",
-      "date": "2026-07-28",
-      "type": "Free agent",
-      "league": "",
-      "from": "Atlas",
-      "fromLogo": "https://media.api-sports.io/football/teams/2283.png",
-      "to": "Newells Old Boys",
-      "toLogo": "https://media.api-sports.io/football/teams/457.png"
-    },
-    {
-      "id": "35514-2026-07-28-2283",
-      "kind": "confirmed",
-      "player": "J. Purata",
-      "date": "2026-07-28",
-      "type": "Loan",
-      "league": "",
-      "from": "Tigres UANL",
-      "fromLogo": "https://media.api-sports.io/football/teams/2279.png",
-      "to": "Atlas",
-      "toLogo": "https://media.api-sports.io/football/teams/2283.png"
-    },
-    {
-      "id": "103335-2026-07-28-2307",
-      "kind": "confirmed",
-      "player": "L. Sepúlveda",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "",
-      "from": "Guadalajara Chivas",
-      "fromLogo": "https://media.api-sports.io/football/teams/2278.png",
-      "to": "Leones Negros UDG",
-      "toLogo": "https://media.api-sports.io/football/teams/2307.png"
-    },
-    {
-      "id": "328096-2026-07-28-741",
-      "kind": "confirmed",
-      "player": "Joel Tshisanga Ndala",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Premier League",
-      "from": "Manchester City",
-      "fromLogo": "https://media.api-sports.io/football/teams/50.png",
-      "to": "Cercle Brugge",
-      "toLogo": "https://media.api-sports.io/football/teams/741.png"
     }
   ]
 }
