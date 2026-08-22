@@ -1,9 +1,53 @@
 {
-  "updatedAt": "2026-08-21T06:49:43.492Z",
+  "updatedAt": "2026-08-22T06:43:00.012Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/21/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
+      "date": "2026-08-21",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/21/football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/21/manchester-united-con",
+      "kind": "rumor",
+      "player": "Manchester United agree deal for Carlos Baleba to continue midfield rebuild",
+      "date": "2026-08-21",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/21/crystal-palace-axel-d",
+      "kind": "rumor",
+      "player": "Crystal Palace agree Disasi loan and tell Manchester City that Wharton is not for sale",
+      "date": "2026-08-21",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/21/crystal-palace-axel-disasi-loan-chelsea-manchester-city-adam-wharton-transfer-window-premier-league"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-clo",
+      "kind": "rumor",
+      "player": "Manchester City set to sell Savinho and Omar Marmoush to Spurs for combined £160m",
+      "date": "2026-08-21",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/20/football-transfer-rum",
       "kind": "rumor",
@@ -2883,54 +2927,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/83.png",
       "to": "Monaco",
       "toLogo": "https://media.api-sports.io/football/teams/91.png"
-    },
-    {
-      "id": "8553-2026-07-28-740",
-      "kind": "confirmed",
-      "player": "M. Busi",
-      "date": "2026-07-28",
-      "type": "Free agent",
-      "league": "Ligue 1",
-      "from": "Reims",
-      "fromLogo": "https://media.api-sports.io/football/teams/93.png",
-      "to": "Antwerp",
-      "toLogo": "https://media.api-sports.io/football/teams/740.png"
-    },
-    {
-      "id": "633361-2026-07-28-1305",
-      "kind": "confirmed",
-      "player": "Erawan Garnier",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "Lens",
-      "fromLogo": "https://media.api-sports.io/football/teams/116.png",
-      "to": "Bastia",
-      "toLogo": "https://media.api-sports.io/football/teams/1305.png"
-    },
-    {
-      "id": "338816-2026-07-28-3583",
-      "kind": "confirmed",
-      "player": "A. Yılmaz",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Trabzonspor",
-      "fromLogo": "https://media.api-sports.io/football/teams/998.png",
-      "to": "Bodrum FK",
-      "toLogo": "https://media.api-sports.io/football/teams/3583.png"
-    },
-    {
-      "id": "493968-2026-07-28-3583",
-      "kind": "confirmed",
-      "player": "B. BaÅkan",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Trabzonspor",
-      "fromLogo": "https://media.api-sports.io/football/teams/998.png",
-      "to": "Bodrum FK",
-      "toLogo": "https://media.api-sports.io/football/teams/3583.png"
     }
   ]
 }
