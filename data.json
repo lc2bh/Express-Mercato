@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-08-23T06:44:40.756Z",
+  "updatedAt": "2026-08-24T06:59:17.925Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/23/manchester-city-agree",
+      "kind": "rumor",
+      "player": "Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi",
+      "date": "2026-08-23",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-",
+      "kind": "rumor",
+      "player": "Mateta’s Palace dispute deepens after losing appeals to end contract early",
+      "date": "2026-08-23",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/21/football-transfer-rum",
       "kind": "rumor",
@@ -2903,30 +2925,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/502.png",
       "to": "Torino",
       "toLogo": "https://media.api-sports.io/football/teams/503.png"
-    },
-    {
-      "id": "419584-2026-07-28-111",
-      "kind": "confirmed",
-      "player": "J. Tincres",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "Monaco",
-      "fromLogo": "https://media.api-sports.io/football/teams/91.png",
-      "to": "Le Havre",
-      "toLogo": "https://media.api-sports.io/football/teams/111.png"
-    },
-    {
-      "id": "161622-2026-07-28-91",
-      "kind": "confirmed",
-      "player": "M. Abline",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "Nantes",
-      "fromLogo": "https://media.api-sports.io/football/teams/83.png",
-      "to": "Monaco",
-      "toLogo": "https://media.api-sports.io/football/teams/91.png"
     }
   ]
 }
