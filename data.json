@@ -1,9 +1,53 @@
 {
-  "updatedAt": "2026-08-24T06:59:17.925Z",
+  "updatedAt": "2026-08-25T06:49:51.033Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/24/nottingham-forest-lia",
+      "kind": "rumor",
+      "player": "Nottingham Forest close in on signing Liam Delap from Chelsea",
+      "date": "2026-08-24",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/24/nottingham-forest-liam-delap-chelsea-tranfer-window"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/24/manchester-city-agree",
+      "kind": "rumor",
+      "player": "Manchester City agree £34m deal for Allan Elias as Nico González nears Newcastle move",
+      "date": "2026-08-24",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/24/manchester-city-agree-34m-deal-for-allan-elias-as-nico-gonzalez-nears-newcastle-move"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-",
+      "kind": "rumor",
+      "player": "Julián Álvarez walks alone at Atlético in transfer saga with no end – and no winners | Sid Lowe",
+      "date": "2026-08-24",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-alone-at-atletico-madrid-barcelona-transfer-saga-la-liga"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/24/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atlético?",
+      "date": "2026-08-24",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/23/manchester-city-agree",
       "kind": "rumor",
@@ -2877,54 +2921,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/94.png",
       "to": "Racing Santander",
       "toLogo": "https://media.api-sports.io/football/teams/4665.png"
-    },
-    {
-      "id": "344707-2026-07-28-1359",
-      "kind": "confirmed",
-      "player": "C. Marshall",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Premier League",
-      "from": "West Ham",
-      "fromLogo": "https://media.api-sports.io/football/teams/48.png",
-      "to": "Luton",
-      "toLogo": "https://media.api-sports.io/football/teams/1359.png"
-    },
-    {
-      "id": "408129-2026-07-28-1347",
-      "kind": "confirmed",
-      "player": "S. Tabares",
-      "date": "2026-07-28",
-      "type": "Free agent",
-      "league": "Premier League",
-      "from": "Southampton",
-      "fromLogo": "https://media.api-sports.io/football/teams/41.png",
-      "to": "Gillingham",
-      "toLogo": "https://media.api-sports.io/football/teams/1347.png"
-    },
-    {
-      "id": "48372-2026-07-28-503",
-      "kind": "confirmed",
-      "player": "E. Cömert",
-      "date": "2026-07-28",
-      "type": "Free agent",
-      "league": "Serie A",
-      "from": "Valencia",
-      "fromLogo": "https://media.api-sports.io/football/teams/532.png",
-      "to": "Torino",
-      "toLogo": "https://media.api-sports.io/football/teams/503.png"
-    },
-    {
-      "id": "396637-2026-07-28-503",
-      "kind": "confirmed",
-      "player": "P. Comuzzo",
-      "date": "2026-07-28",
-      "type": "Loan",
-      "league": "Serie A",
-      "from": "Fiorentina",
-      "fromLogo": "https://media.api-sports.io/football/teams/502.png",
-      "to": "Torino",
-      "toLogo": "https://media.api-sports.io/football/teams/503.png"
     }
   ]
 }
