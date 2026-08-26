@@ -1,9 +1,53 @@
 {
-  "updatedAt": "2026-08-25T06:49:51.033Z",
+  "updatedAt": "2026-08-26T06:51:25.839Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/25/liam-delap-nottingham",
+      "kind": "rumor",
+      "player": "Delap heads to Forest for £50m as Chelsea open talks to sell Jackson to Aston Villa",
+      "date": "2026-08-25",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/25/liam-delap-nottingham-forest-chelsea-nicholas-jackson-aston-villa-transfer-window"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/25/manchester-united-sig",
+      "kind": "rumor",
+      "player": "Manchester United confirm Carlos Baleba signing as midfield spend nears £150m",
+      "date": "2026-08-25",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/25/savinho-completes-spu",
+      "kind": "rumor",
+      "player": "Savinho seals £75m Spurs move from Manchester City – and changes name to Sávio",
+      "date": "2026-08-25",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/25/savinho-completes-spurs-move-manchester-city-changes-name-to-savio"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/25/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Manchester City and Spurs chase Cody Gakpo?",
+      "date": "2026-08-25",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/25/football-transfer-rumours-manchester-city-tottenham-cody-gakpo"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/24/nottingham-forest-lia",
       "kind": "rumor",
@@ -2873,54 +2917,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/79.png",
       "to": "AEL",
       "toLogo": "https://media.api-sports.io/football/teams/3396.png"
-    },
-    {
-      "id": "50026-2026-07-28-607",
-      "kind": "confirmed",
-      "player": "C. Awaziem",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "Nantes",
-      "fromLogo": "https://media.api-sports.io/football/teams/83.png",
-      "to": "Konyaspor",
-      "toLogo": "https://media.api-sports.io/football/teams/607.png"
-    },
-    {
-      "id": "343383-2026-07-28-509",
-      "kind": "confirmed",
-      "player": "R. Pagano",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "AS Roma",
-      "fromLogo": "https://media.api-sports.io/football/teams/497.png",
-      "to": "Cesena",
-      "toLogo": "https://media.api-sports.io/football/teams/509.png"
-    },
-    {
-      "id": "472080-2026-07-28-528",
-      "kind": "confirmed",
-      "player": "Mattia Della Rocca",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "AS Roma",
-      "fromLogo": "https://media.api-sports.io/football/teams/497.png",
-      "to": "Avellino",
-      "toLogo": "https://media.api-sports.io/football/teams/528.png"
-    },
-    {
-      "id": "457101-2026-07-28-4665",
-      "kind": "confirmed",
-      "player": "M. Zabiri",
-      "date": "2026-07-28",
-      "type": "Loan",
-      "league": "Ligue 1",
-      "from": "Rennes",
-      "fromLogo": "https://media.api-sports.io/football/teams/94.png",
-      "to": "Racing Santander",
-      "toLogo": "https://media.api-sports.io/football/teams/4665.png"
     }
   ]
 }
