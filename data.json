@@ -1,9 +1,53 @@
 {
-  "updatedAt": "2026-08-27T17:26:49.265Z",
+  "updatedAt": "2026-08-28T18:19:39.501Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/28/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Rafael Leão to Aston Villa? Harvey Elliott to Napoli or Lazio?",
+      "date": "2026-08-28",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/28/football-transfer-rumours-rafael-leao-to-aston-villa-harvey-elliott-to-napoli-or-lazio"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears",
+      "kind": "rumor",
+      "player": "Aston Villa close on Jackson and Mbaye as Emery clears air with departing Watkins",
+      "date": "2026-08-28",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/28/tottenham-roberto-de-",
+      "kind": "rumor",
+      "player": "De Zerbi wants one more signing for Tottenham before transfer deadline",
+      "date": "2026-08-28",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/28/tottenham-roberto-de-zerbi-premier-league-transfer-deadline-window"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/28/aston-villa-spurs-are",
+      "kind": "rumor",
+      "player": "Aston Villa’s squad is crumbling while Spurs splash out. Are the financial rules fair?",
+      "date": "2026-08-28",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/28/aston-villa-spurs-are-football-financial-rules-fair-transfers"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/27/liam-delap-signs-nott",
       "kind": "rumor",
@@ -69,6 +113,28 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/who-scored-blog/2026/aug/27/transfer-window-barcola-alvarez-fernandez-gakpo-liverpool-arsenal-manchester-city-spurs"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/27/atletico-madrid-julia",
+      "kind": "rumor",
+      "player": "Atlético Madrid chief insists Julián Alvarez will ‘never, ever’ be sold to Barcelona",
+      "date": "2026-08-27",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/27/atletico-madrid-julian-alvarez-barcelona-transfer-news"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-si",
+      "kind": "rumor",
+      "player": "Chelsea agree £7.5m deal to sign Emiliano Martínez from Aston Villa",
+      "date": "2026-08-27",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/26/chelsea-emiliano-mart",
@@ -2834,78 +2900,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/33.png",
       "to": "Lausanne",
       "toLogo": "https://media.api-sports.io/football/teams/1014.png"
-    },
-    {
-      "id": "355454-2026-07-28-46",
-      "kind": "confirmed",
-      "player": "C. McFarlane",
-      "date": "2026-07-28",
-      "type": "Loan",
-      "league": "Premier League",
-      "from": "Manchester City",
-      "fromLogo": "https://media.api-sports.io/football/teams/50.png",
-      "to": "Leicester",
-      "toLogo": "https://media.api-sports.io/football/teams/46.png"
-    },
-    {
-      "id": "591991-2026-07-28-528",
-      "kind": "confirmed",
-      "player": "Filippo Scotti",
-      "date": "2026-07-28",
-      "type": "Free agent",
-      "league": "Serie A",
-      "from": "AC Milan",
-      "fromLogo": "https://media.api-sports.io/football/teams/489.png",
-      "to": "Avellino",
-      "toLogo": "https://media.api-sports.io/football/teams/528.png"
-    },
-    {
-      "id": "462228-2026-07-28-201",
-      "kind": "confirmed",
-      "player": "A. Natali",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Eredivisie",
-      "from": "Bayer Leverkusen",
-      "fromLogo": "https://media.api-sports.io/football/teams/168.png",
-      "to": "AZ Alkmaar",
-      "toLogo": "https://media.api-sports.io/football/teams/201.png"
-    },
-    {
-      "id": "110153-2026-07-28-194",
-      "kind": "confirmed",
-      "player": "T. Arokodare",
-      "date": "2026-07-28",
-      "type": "Loan",
-      "league": "Eredivisie",
-      "from": "Wolves",
-      "fromLogo": "https://media.api-sports.io/football/teams/39.png",
-      "to": "Ajax",
-      "toLogo": "https://media.api-sports.io/football/teams/194.png"
-    },
-    {
-      "id": "342163-2026-07-28-172",
-      "kind": "confirmed",
-      "player": "L. Sauer",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Eredivisie",
-      "from": "Feyenoord",
-      "fromLogo": "https://media.api-sports.io/football/teams/209.png",
-      "to": "VfB Stuttgart",
-      "toLogo": "https://media.api-sports.io/football/teams/172.png"
-    },
-    {
-      "id": "15906-2026-07-28-554",
-      "kind": "confirmed",
-      "player": "O. Antman",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "",
-      "from": "Rangers",
-      "fromLogo": "https://media.api-sports.io/football/teams/257.png",
-      "to": "Anderlecht",
-      "toLogo": "https://media.api-sports.io/football/teams/554.png"
     }
   ]
 }
