@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-08-28T18:19:39.501Z",
+  "updatedAt": "2026-08-29T12:22:27.394Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears",
+      "kind": "rumor",
+      "player": "Aston Villa sign Jackson and close on Mbaye as Emery clears air with departing Watkins",
+      "date": "2026-08-29",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/29/xabi-alonso-chelsea-k",
+      "kind": "rumor",
+      "player": "Alonso gets Chelsea’s priorities right by ditching Sánchez for winner Martínez | Jacob Steinberg",
+      "date": "2026-08-29",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/29/xabi-alonso-chelsea-keepers-robert-sanchez-emiliano-martinez"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-de",
+      "kind": "rumor",
+      "player": "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger",
+      "date": "2026-08-29",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-deal-bradley-barcola-psg-medical-premier-league"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/28/football-transfer-rum",
       "kind": "rumor",
@@ -14,17 +47,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/28/football-transfer-rumours-rafael-leao-to-aston-villa-harvey-elliott-to-napoli-or-lazio"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears",
-      "kind": "rumor",
-      "player": "Aston Villa close on Jackson and Mbaye as Emery clears air with departing Watkins",
-      "date": "2026-08-28",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/28/tottenham-roberto-de-",
@@ -2877,29 +2899,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/jul/28/football-transfer-rumours-manchester-united-francisco-conceicao-juventus"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jul/28/sunderland-newcastle-",
-      "kind": "rumor",
-      "player": "Sunderland close in on Dayann Methalie signing after Newcastle back off",
-      "date": "2026-07-28",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jul/28/sunderland-newcastle-transfer-window-dayann-methalie"
-    },
-    {
-      "id": "328101-2026-07-28-1014",
-      "kind": "confirmed",
-      "player": "T. Fredricson",
-      "date": "2026-07-28",
-      "type": "Transfer",
-      "league": "Premier League",
-      "from": "Manchester United",
-      "fromLogo": "https://media.api-sports.io/football/teams/33.png",
-      "to": "Lausanne",
-      "toLogo": "https://media.api-sports.io/football/teams/1014.png"
     }
   ]
 }
