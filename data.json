@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-08-29T12:22:27.394Z",
+  "updatedAt": "2026-08-30T11:18:45.941Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-ast",
+      "kind": "rumor",
+      "player": "Emiliano Martínez finally gets his Villa exit with £7.5m move to Chelsea",
+      "date": "2026-08-30",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears",
       "kind": "rumor",
@@ -36,6 +47,17 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-deal-bradley-barcola-psg-medical-premier-league"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-mu",
+      "kind": "rumor",
+      "player": "Transfer roundup: Moyes wants to keep Armstrong while Forest agree Muñoz deal",
+      "date": "2026-08-29",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-must-keep-best-players-after-forest-bid-for-harrison-armstrong"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/28/football-transfer-rum",
@@ -2876,29 +2898,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/553.png",
       "to": "Kalamata",
       "toLogo": "https://media.api-sports.io/football/teams/5046.png"
-    },
-    {
-      "id": "516771-2026-07-29-435",
-      "kind": "confirmed",
-      "player": "T. Andrada",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "",
-      "from": "Velez Sarsfield",
-      "fromLogo": "https://media.api-sports.io/football/teams/438.png",
-      "to": "River Plate",
-      "toLogo": "https://media.api-sports.io/football/teams/435.png"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/jul/28/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?",
-      "date": "2026-07-28",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/jul/28/football-transfer-rumours-manchester-united-francisco-conceicao-juventus"
     }
   ]
 }
