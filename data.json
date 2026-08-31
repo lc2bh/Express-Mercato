@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-08-30T11:18:45.941Z",
+  "updatedAt": "2026-08-31T12:43:27.426Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-",
+      "kind": "rumor",
+      "player": "Transfer latest: Juventus in Woltemade loan talks, Everton pushing for Balogun",
+      "date": "2026-08-31",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/live/2026/aug/31/football-transfe",
+      "kind": "rumor",
+      "player": "Football transfer deadline day looms: Manchester City sign Allan, Muñoz joins Forest, and more – live",
+      "date": "2026-08-31",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/31/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
+      "date": "2026-08-31",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-ast",
       "kind": "rumor",
@@ -14,6 +47,17 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/30/transfer-roundup-olli",
+      "kind": "rumor",
+      "player": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
+      "date": "2026-08-30",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears",
@@ -2850,54 +2894,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/84.png",
       "to": "Nice",
       "toLogo": "https://media.api-sports.io/football/teams/84.png"
-    },
-    {
-      "id": "363226-2026-07-29-1298",
-      "kind": "confirmed",
-      "player": "R. Bamba",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "Ligue 1",
-      "from": "Rennes",
-      "fromLogo": "https://media.api-sports.io/football/teams/94.png",
-      "to": "Le Mans",
-      "toLogo": "https://media.api-sports.io/football/teams/1298.png"
-    },
-    {
-      "id": "667582-2026-07-29-3583",
-      "kind": "confirmed",
-      "player": "K. Cengizer",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Süper Lig",
-      "from": "Beşiktaş",
-      "fromLogo": "https://media.api-sports.io/football/teams/549.png",
-      "to": "Bodrum FK",
-      "toLogo": "https://media.api-sports.io/football/teams/3583.png"
-    },
-    {
-      "id": "424375-2026-07-29-955",
-      "kind": "confirmed",
-      "player": "A. Papakanellos",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "",
-      "from": "Olympiakos Piraeus",
-      "fromLogo": "https://media.api-sports.io/football/teams/553.png",
-      "to": "Asteras Tripolis",
-      "toLogo": "https://media.api-sports.io/football/teams/955.png"
-    },
-    {
-      "id": "443716-2026-07-29-5046",
-      "kind": "confirmed",
-      "player": "A. Liatsikouras",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "",
-      "from": "Olympiakos Piraeus",
-      "fromLogo": "https://media.api-sports.io/football/teams/553.png",
-      "to": "Kalamata",
-      "toLogo": "https://media.api-sports.io/football/teams/5046.png"
     }
   ]
 }
