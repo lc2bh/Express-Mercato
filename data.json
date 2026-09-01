@@ -1,13 +1,68 @@
 {
-  "updatedAt": "2026-08-31T12:43:27.426Z",
+  "updatedAt": "2026-09-01T11:11:04.256Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
     {
+      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
+      "kind": "rumor",
+      "player": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-t",
+      "kind": "rumor",
+      "player": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/live/2026/sep/01/football-transfe",
+      "kind": "rumor",
+      "player": "Football transfer deadline day: Manchester City move for Fernández, Villa sign Mbaye, and more – live",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/picture/2026/sep/01/david-squires",
+      "kind": "rumor",
+      "player": "David Squires on … the art of the transfer deal",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/picture/2026/sep/01/david-squires-on-the-art-of-the-transfer-deal"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/01/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
+    },
+    {
       "id": "rss-https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-",
       "kind": "rumor",
-      "player": "Transfer latest: Juventus in Woltemade loan talks, Everton pushing for Balogun",
+      "player": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
       "date": "2026-08-31",
       "league": "",
       "from": "",
@@ -18,7 +73,7 @@
     {
       "id": "rss-https://www.theguardian.com/football/live/2026/aug/31/football-transfe",
       "kind": "rumor",
-      "player": "Football transfer deadline day looms: Manchester City sign Allan, Muñoz joins Forest, and more – live",
+      "player": "Football transfer deadline day looms: Liverpool sign Barcola, Chelsea target Koné – as it happened",
       "date": "2026-08-31",
       "league": "",
       "from": "",
@@ -36,6 +91,39 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/31/manchester-city-spurs",
+      "kind": "rumor",
+      "player": "Manchester City gazump Spurs over Iliman Ndiaye and eye Enzo Fernández deal",
+      "date": "2026-08-31",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/31/manchester-city-spurs-iliman-ndiaye-enzo-fernandez-deal-richarlison-mudryk"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bra",
+      "kind": "rumor",
+      "player": "Liverpool sign Barcola in £123m deal and expect Gakpo to stay after City offer £80m",
+      "date": "2026-08-31",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/aug/31/marseille-squad-manag",
+      "kind": "rumor",
+      "player": "Marseille’s squad is being gutted but their manager is staying – for now",
+      "date": "2026-08-31",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-ast",
@@ -674,28 +762,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
-      "kind": "rumor",
-      "player": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "date": "2026-08-13",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-t",
-      "kind": "rumor",
-      "player": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-      "date": "2026-08-13",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/13/manchester-city-barce",
@@ -2822,78 +2888,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/2278.png",
       "to": "Leones Negros UDG",
       "toLogo": "https://media.api-sports.io/football/teams/2307.png"
-    },
-    {
-      "id": "379985-2026-07-29-553",
-      "kind": "confirmed",
-      "player": "Gustavo Sá",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "",
-      "from": "Nottingham Forest",
-      "fromLogo": "https://media.api-sports.io/football/teams/65.png",
-      "to": "Olympiakos Piraeus",
-      "toLogo": "https://media.api-sports.io/football/teams/553.png"
-    },
-    {
-      "id": "6383-2026-07-29-38",
-      "kind": "confirmed",
-      "player": "M. Payero",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Udinese",
-      "fromLogo": "https://media.api-sports.io/football/teams/494.png",
-      "to": "Watford",
-      "toLogo": "https://media.api-sports.io/football/teams/38.png"
-    },
-    {
-      "id": "568269-2026-07-29-1014",
-      "kind": "confirmed",
-      "player": "T. Cordier",
-      "date": "2026-07-29",
-      "type": "Free agent",
-      "league": "Ligue 1",
-      "from": "Paris Saint Germain",
-      "fromLogo": "https://media.api-sports.io/football/teams/85.png",
-      "to": "Lausanne",
-      "toLogo": "https://media.api-sports.io/football/teams/1014.png"
-    },
-    {
-      "id": "567806-2026-07-29-90",
-      "kind": "confirmed",
-      "player": "Z. Chtai-Telamio",
-      "date": "2026-07-29",
-      "type": "Free agent",
-      "league": "Ligue 1",
-      "from": "Paris Saint Germain",
-      "fromLogo": "https://media.api-sports.io/football/teams/85.png",
-      "to": "Guingamp",
-      "toLogo": "https://media.api-sports.io/football/teams/90.png"
-    },
-    {
-      "id": "180510-2026-07-29-498",
-      "kind": "confirmed",
-      "player": "M. Viti",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "Nice",
-      "fromLogo": "https://media.api-sports.io/football/teams/84.png",
-      "to": "Sampdoria",
-      "toLogo": "https://media.api-sports.io/football/teams/498.png"
-    },
-    {
-      "id": "671608-2026-07-29-84",
-      "kind": "confirmed",
-      "player": "E. Sahraoui",
-      "date": "2026-07-29",
-      "type": "Free agent",
-      "league": "Ligue 1",
-      "from": "Nice",
-      "fromLogo": "https://media.api-sports.io/football/teams/84.png",
-      "to": "Nice",
-      "toLogo": "https://media.api-sports.io/football/teams/84.png"
     }
   ]
 }
