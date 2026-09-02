@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-09-01T11:11:04.256Z",
+  "updatedAt": "2026-09-02T10:40:42.533Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/02/premier-league-transf",
+      "kind": "rumor",
+      "player": "Transfer window verdict: how every Premier League club fared",
+      "date": "2026-09-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/02/football-transfer-rum",
+      "kind": "rumor",
+      "player": "Football transfer rumours: Jamie Vardy to São Paulo or Sheffield Wednesday?",
+      "date": "2026-09-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/02/football-transfer-rumours-jamie-vardy-to-sao-paulo-or-sheffield-wednesday"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
       "kind": "rumor",
@@ -29,7 +51,7 @@
     {
       "id": "rss-https://www.theguardian.com/football/live/2026/sep/01/football-transfe",
       "kind": "rumor",
-      "player": "Football transfer deadline day: Manchester City move for Fernández, Villa sign Mbaye, and more – live",
+      "player": "Transfer deadline day: Man City sign Fernández and Ndiaye, Mudryk and Tosin join Spurs – as it happened",
       "date": "2026-09-01",
       "league": "",
       "from": "",
@@ -58,6 +80,83 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/02/everton-in-late-scram",
+      "kind": "rumor",
+      "player": "Everton left with only one striker after Balogun deal collapses late on deadline day",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/02/fernandez-completes-r",
+      "kind": "rumor",
+      "player": "Fernández completes record-equalling £125m move from Chelsea to Manchester City",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/01/sunderland-pip-crysta",
+      "kind": "rumor",
+      "player": "Sunderland pip Crystal Palace in battle of the private jets to land Malick Fofana",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/01/sunderland-pip-crystal-palace-in-battle-of-the-private-jets-to-land-malick-fofana"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/01/a-great-feeling-mykha",
+      "kind": "rumor",
+      "player": "‘A great feeling’: Mykhailo Mudryk seals loan move from Chelsea to Tottenham",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/01/a-great-feeling-mykhailo-mudryk-seals-loan-move-from-chelsea-to-tottenham"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbay",
+      "kind": "rumor",
+      "player": "Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-t",
+      "kind": "rumor",
+      "player": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens",
+      "kind": "rumor",
+      "player": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "date": "2026-09-01",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-",
@@ -2780,114 +2879,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/91.png",
       "to": "Cercle Brugge",
       "toLogo": "https://media.api-sports.io/football/teams/741.png"
-    },
-    {
-      "id": "161622-2026-07-29-91",
-      "kind": "confirmed",
-      "player": "M. Abline",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "Nantes",
-      "fromLogo": "https://media.api-sports.io/football/teams/83.png",
-      "to": "Monaco",
-      "toLogo": "https://media.api-sports.io/football/teams/91.png"
-    },
-    {
-      "id": "531323-2026-07-29-3396",
-      "kind": "confirmed",
-      "player": "Samy Merzouk",
-      "date": "2026-07-29",
-      "type": "Free agent",
-      "league": "Ligue 1",
-      "from": "Lille",
-      "fromLogo": "https://media.api-sports.io/football/teams/79.png",
-      "to": "AEL",
-      "toLogo": "https://media.api-sports.io/football/teams/3396.png"
-    },
-    {
-      "id": "671671-2026-07-29-96",
-      "kind": "confirmed",
-      "player": "L. Frechingues",
-      "date": "2026-07-29",
-      "type": "Free agent",
-      "league": "Ligue 1",
-      "from": "Toulouse",
-      "fromLogo": "https://media.api-sports.io/football/teams/96.png",
-      "to": "Toulouse",
-      "toLogo": "https://media.api-sports.io/football/teams/96.png"
-    },
-    {
-      "id": "414188-2026-07-29-202",
-      "kind": "confirmed",
-      "player": "M. Jeng",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "Ligue 1",
-      "from": "Reims",
-      "fromLogo": "https://media.api-sports.io/football/teams/93.png",
-      "to": "Groningen",
-      "toLogo": "https://media.api-sports.io/football/teams/202.png"
-    },
-    {
-      "id": "333118-2026-07-29-15130",
-      "kind": "confirmed",
-      "player": "L. Mincarelli Davin",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "Montpellier",
-      "fromLogo": "https://media.api-sports.io/football/teams/82.png",
-      "to": "Estrela",
-      "toLogo": "https://media.api-sports.io/football/teams/15130.png"
-    },
-    {
-      "id": "577999-2026-07-29-213",
-      "kind": "confirmed",
-      "player": "J. Monteiro",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Liga Portugal",
-      "from": "Benfica",
-      "fromLogo": "https://media.api-sports.io/football/teams/211.png",
-      "to": "Feirense",
-      "toLogo": "https://media.api-sports.io/football/teams/213.png"
-    },
-    {
-      "id": "5187-2026-07-29-2432",
-      "kind": "confirmed",
-      "player": "N. Orsini",
-      "date": "2026-07-29",
-      "type": "Free agent",
-      "league": "",
-      "from": "Boca Juniors",
-      "fromLogo": "https://media.api-sports.io/football/teams/451.png",
-      "to": "Barracas Central",
-      "toLogo": "https://media.api-sports.io/football/teams/2432.png"
-    },
-    {
-      "id": "68193-2026-07-29-457",
-      "kind": "confirmed",
-      "player": "M. García",
-      "date": "2026-07-29",
-      "type": "Free agent",
-      "league": "",
-      "from": "Atlas",
-      "fromLogo": "https://media.api-sports.io/football/teams/2283.png",
-      "to": "Newells Old Boys",
-      "toLogo": "https://media.api-sports.io/football/teams/457.png"
-    },
-    {
-      "id": "103335-2026-07-29-2307",
-      "kind": "confirmed",
-      "player": "L. Sepúlveda",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "",
-      "from": "Guadalajara Chivas",
-      "fromLogo": "https://media.api-sports.io/football/teams/2278.png",
-      "to": "Leones Negros UDG",
-      "toLogo": "https://media.api-sports.io/football/teams/2307.png"
     }
   ]
 }
