@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-09-02T10:40:42.533Z",
+  "updatedAt": "2026-09-03T10:47:12.233Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/03/premier-league-transf",
+      "kind": "rumor",
+      "player": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew",
+      "date": "2026-09-03",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-expensive-midfielders-enzo-fernandez-elliot-anderson-sandro-tonali"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline",
+      "kind": "rumor",
+      "player": "Arsenal poised to land PSG’s Élisa De Almeida on WSL transfer deadline day",
+      "date": "2026-09-03",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline-day-arsenal-elisa-de-almeida-psg"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-pr",
+      "kind": "rumor",
+      "player": "Azeez to Andrés: seven smart-looking Premier League deadline day deals",
+      "date": "2026-09-03",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/02/premier-league-transf",
       "kind": "rumor",
@@ -25,6 +58,61 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/sep/02/football-transfer-rumours-jamie-vardy-to-sao-paulo-or-sheffield-wednesday"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/02/a-commodity-ismaila-s",
+      "kind": "rumor",
+      "player": "‘A commodity’: Ismaïla Sarr’s agent wants respect for African players in transfer deals",
+      "date": "2026-09-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/02/a-commodity-ismaila-sarrs-agent-wants-respect-for-african-players-in-transfer-deals"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/02/premier-league-spendi",
+      "kind": "rumor",
+      "player": "Premier League money has lost all meaning amid chaotic spectacle of excess | Barney Ronay",
+      "date": "2026-09-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/02/premier-league-spending-transfer-window-summer-2026-chelsea-enzo-fernandez"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/02/folarin-balogun-trans",
+      "kind": "rumor",
+      "player": "Balogun pulled out of Everton move over handling of his medical, claim Monaco",
+      "date": "2026-09-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/02/folarin-balogun-transfer-deadline-day-collapse-monaco-everton-lamine-camara-chelsea"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/02/richarlison-could-sti",
+      "kind": "rumor",
+      "player": "Richarlison could still leave Tottenham as Trabzonspor weigh up bid for striker",
+      "date": "2026-09-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/02/richarlison-could-still-leave-tottenham-as-trabzonspor-weigh-up-bid-for-striker"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/02/football-daily-newsle",
+      "kind": "rumor",
+      "player": "Football Daily | War chests, deal sheets and online meltdowns: anatomy of a deadline day",
+      "date": "2026-09-02",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/02/football-daily-newsletter-anatomy-of-a-deadline-day"
     },
     {
       "id": "rss-https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens",
@@ -2783,102 +2871,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/257.png",
       "to": "ST Mirren",
       "toLogo": "https://media.api-sports.io/football/teams/251.png"
-    },
-    {
-      "id": "344707-2026-07-29-1359",
-      "kind": "confirmed",
-      "player": "C. Marshall",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Premier League",
-      "from": "West Ham",
-      "fromLogo": "https://media.api-sports.io/football/teams/48.png",
-      "to": "Luton",
-      "toLogo": "https://media.api-sports.io/football/teams/1359.png"
-    },
-    {
-      "id": "15811-2026-07-29-500",
-      "kind": "confirmed",
-      "player": "A. Dovbyk",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "Serie A",
-      "from": "AS Roma",
-      "fromLogo": "https://media.api-sports.io/football/teams/497.png",
-      "to": "Bologna",
-      "toLogo": "https://media.api-sports.io/football/teams/500.png"
-    },
-    {
-      "id": "421807-2026-07-29-517",
-      "kind": "confirmed",
-      "player": "M. Moreno",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "Serie A",
-      "from": "Fiorentina",
-      "fromLogo": "https://media.api-sports.io/football/teams/502.png",
-      "to": "Venezia",
-      "toLogo": "https://media.api-sports.io/football/teams/517.png"
-    },
-    {
-      "id": "342005-2026-07-29-870",
-      "kind": "confirmed",
-      "player": "Alessandro Dellavalle",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "Serie A",
-      "from": "Torino",
-      "fromLogo": "https://media.api-sports.io/football/teams/503.png",
-      "to": "Padova",
-      "toLogo": "https://media.api-sports.io/football/teams/870.png"
-    },
-    {
-      "id": "36895-2026-07-29-503",
-      "kind": "confirmed",
-      "player": "K. Fitz-Jim",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Eredivisie",
-      "from": "Ajax",
-      "fromLogo": "https://media.api-sports.io/football/teams/194.png",
-      "to": "Torino",
-      "toLogo": "https://media.api-sports.io/football/teams/503.png"
-    },
-    {
-      "id": "31098-2026-07-29-38",
-      "kind": "confirmed",
-      "player": "F. Ravaglia",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Bologna",
-      "fromLogo": "https://media.api-sports.io/football/teams/500.png",
-      "to": "Watford",
-      "toLogo": "https://media.api-sports.io/football/teams/38.png"
-    },
-    {
-      "id": "419584-2026-07-29-111",
-      "kind": "confirmed",
-      "player": "J. Tincres",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Ligue 1",
-      "from": "Monaco",
-      "fromLogo": "https://media.api-sports.io/football/teams/91.png",
-      "to": "Le Havre",
-      "toLogo": "https://media.api-sports.io/football/teams/111.png"
-    },
-    {
-      "id": "343319-2026-07-29-741",
-      "kind": "confirmed",
-      "player": "L. Michal",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "Ligue 1",
-      "from": "Monaco",
-      "fromLogo": "https://media.api-sports.io/football/teams/91.png",
-      "to": "Cercle Brugge",
-      "toLogo": "https://media.api-sports.io/football/teams/741.png"
     }
   ]
 }
