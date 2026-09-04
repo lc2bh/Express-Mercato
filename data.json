@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T10:47:12.233Z",
+  "updatedAt": "2026-09-04T10:38:32.381Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
@@ -18,7 +18,7 @@
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline",
       "kind": "rumor",
-      "player": "Arsenal poised to land PSG’s Élisa De Almeida on WSL transfer deadline day",
+      "player": "Manchester City’s Vivianne Miedema could miss rest of year with knee injury",
       "date": "2026-09-03",
       "league": "",
       "from": "",
@@ -36,6 +36,72 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/03/summer-transfer-windo",
+      "kind": "rumor",
+      "player": "World Cup wishlists, early movers, big clearouts: 2026 summer transfer window trends",
+      "date": "2026-09-03",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/03/summer-transfer-window-2026-trends-premier-league-la-liga-serie-a-bundesliga-ligue-1"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/03/andoni-iraola-defends",
+      "kind": "rumor",
+      "player": "Andoni Iraola defends Liverpool opting against throwing ‘crazy money’ at short-term fixes",
+      "date": "2026-09-03",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/03/andoni-iraola-defends-liverpool-transfer-strategy-turned-down-options"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-le",
+      "kind": "rumor",
+      "player": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
+      "date": "2026-09-03",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/03/the-ideal-teammate-wh",
+      "kind": "rumor",
+      "player": "‘The ideal teammate’: why Bradley Barcola could be just what Liverpool need",
+      "date": "2026-09-03",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/03/the-ideal-teammate-why-bradley-barcola-could-be-just-what-liverpool-need"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/03/loan-stars-premier-le",
+      "kind": "rumor",
+      "player": "Loan stars: Premier League youngsters to watch in the EFL",
+      "date": "2026-09-03",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/03/loan-stars-premier-league-youngsters-to-watch-in-the-efl"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/03/arsenal-late-and-big-",
+      "kind": "rumor",
+      "player": "Arsenal bank on continuity after big names elude them late in transfer window",
+      "date": "2026-09-03",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/03/arsenal-late-and-big-name-targets-elude-them-transfer-window"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/02/premier-league-transf",
@@ -2799,78 +2865,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/500.png",
       "to": "AS Roma",
       "toLogo": "https://media.api-sports.io/football/teams/497.png"
-    },
-    {
-      "id": "33095-2026-07-29-163",
-      "kind": "confirmed",
-      "player": "D. Hashioka",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "Bundesliga",
-      "from": "Slavia Praha",
-      "fromLogo": "https://media.api-sports.io/football/teams/560.png",
-      "to": "Borussia Mönchengladbach",
-      "toLogo": "https://media.api-sports.io/football/teams/163.png"
-    },
-    {
-      "id": "450497-2026-07-29-541",
-      "kind": "confirmed",
-      "player": "Carlos Espí",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "La Liga",
-      "from": "Levante",
-      "fromLogo": "https://media.api-sports.io/football/teams/539.png",
-      "to": "Real Madrid",
-      "toLogo": "https://media.api-sports.io/football/teams/541.png"
-    },
-    {
-      "id": "560901-2026-07-29-502",
-      "kind": "confirmed",
-      "player": "V. Valdepenas",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Real Madrid",
-      "fromLogo": "https://media.api-sports.io/football/teams/541.png",
-      "to": "Fiorentina",
-      "toLogo": "https://media.api-sports.io/football/teams/502.png"
-    },
-    {
-      "id": "560904-2026-07-29-3617",
-      "kind": "confirmed",
-      "player": "B. Iglesias Lois",
-      "date": "2026-07-29",
-      "type": "Free agent",
-      "league": "La Liga",
-      "from": "Real Madrid",
-      "fromLogo": "https://media.api-sports.io/football/teams/541.png",
-      "to": "Karpaty",
-      "toLogo": "https://media.api-sports.io/football/teams/3617.png"
-    },
-    {
-      "id": "338508-2026-07-29-5254",
-      "kind": "confirmed",
-      "player": "I. Kostis",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "La Liga",
-      "from": "Atletico Madrid",
-      "fromLogo": "https://media.api-sports.io/football/teams/530.png",
-      "to": "Castellón",
-      "toLogo": "https://media.api-sports.io/football/teams/5254.png"
-    },
-    {
-      "id": "384577-2026-07-29-251",
-      "kind": "confirmed",
-      "player": "P. Nsio",
-      "date": "2026-07-29",
-      "type": "Loan",
-      "league": "",
-      "from": "Rangers",
-      "fromLogo": "https://media.api-sports.io/football/teams/257.png",
-      "to": "ST Mirren",
-      "toLogo": "https://media.api-sports.io/football/teams/251.png"
     }
   ]
 }
