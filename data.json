@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-09-04T10:38:32.381Z",
+  "updatedAt": "2026-09-05T10:04:42.529Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/04/a-window-tax-to-curb-",
+      "kind": "rumor",
+      "player": "A window tax to curb the Premier League’s big spenders | Brief letters",
+      "date": "2026-09-04",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/04/a-window-tax-to-curb-the-premier-leagues-big-spenders"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/03/premier-league-transf",
       "kind": "rumor",
@@ -2853,18 +2864,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/52.png",
       "to": "Chelsea",
       "toLogo": "https://media.api-sports.io/football/teams/49.png"
-    },
-    {
-      "id": "311067-2026-07-29-497",
-      "kind": "confirmed",
-      "player": "S. Castro",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Serie A",
-      "from": "Bologna",
-      "fromLogo": "https://media.api-sports.io/football/teams/500.png",
-      "to": "AS Roma",
-      "toLogo": "https://media.api-sports.io/football/teams/497.png"
     }
   ]
 }
