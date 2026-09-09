@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-09-08T10:40:42.897Z",
+  "updatedAt": "2026-09-09T10:51:38.749Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/08/mls-transfer-window-s",
+      "kind": "rumor",
+      "player": "MLS’s transfer window and the spending line that keeps going up",
+      "date": "2026-09-08",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/08/mls-transfer-window-spending"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/04/a-window-tax-to-curb-",
       "kind": "rumor",
@@ -2852,18 +2863,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/1599.png",
       "to": "Rangers",
       "toLogo": "https://media.api-sports.io/football/teams/257.png"
-    },
-    {
-      "id": "20995-2026-07-29-49",
-      "kind": "confirmed",
-      "player": "M. Lacroix",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "Premier League",
-      "from": "Crystal Palace",
-      "fromLogo": "https://media.api-sports.io/football/teams/52.png",
-      "to": "Chelsea",
-      "toLogo": "https://media.api-sports.io/football/teams/49.png"
     }
   ]
 }
