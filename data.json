@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-09-11T10:42:22.588Z",
+  "updatedAt": "2026-09-12T10:10:07.184Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
   "count": 250,
   "transfers": [
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/12/all-change-for-maresc",
+      "kind": "rumor",
+      "player": "All change for Maresca: the data behind Manchester City’s rapid player turnover",
+      "date": "2026-09-12",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/12/all-change-for-maresca-the-data-behind-manchester-citys-rapid-player-turnover"
+    },
+    {
+      "id": "rss-https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-ne",
+      "kind": "rumor",
+      "player": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
+      "date": "2026-09-11",
+      "league": "",
+      "from": "",
+      "to": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso"
+    },
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/08/mls-transfer-window-s",
       "kind": "rumor",
@@ -128,13 +150,13 @@
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/02/premier-league-transf",
       "kind": "rumor",
-      "player": "Transfer window verdict: how every Premier League club fared",
+      "player": "Premier League transfer talking points: three things we learned from the data",
       "date": "2026-09-02",
       "league": "",
       "from": "",
       "to": "",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026"
+      "link": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data"
     },
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/02/football-transfer-rum",
@@ -2839,30 +2861,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/50.png",
       "to": "Inter",
       "toLogo": "https://media.api-sports.io/football/teams/505.png"
-    },
-    {
-      "id": "15906-2026-07-29-554",
-      "kind": "confirmed",
-      "player": "O. Antman",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "",
-      "from": "Rangers",
-      "fromLogo": "https://media.api-sports.io/football/teams/257.png",
-      "to": "Anderlecht",
-      "toLogo": "https://media.api-sports.io/football/teams/554.png"
-    },
-    {
-      "id": "392387-2026-07-29-257",
-      "kind": "confirmed",
-      "player": "O. Makhanya",
-      "date": "2026-07-29",
-      "type": "Transfer",
-      "league": "",
-      "from": "Philadelphia Union",
-      "fromLogo": "https://media.api-sports.io/football/teams/1599.png",
-      "to": "Rangers",
-      "toLogo": "https://media.api-sports.io/football/teams/257.png"
     }
   ]
 }
