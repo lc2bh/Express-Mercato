@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-31T11:48:16.237Z",
+  "updatedAt": "2026-11-01T12:46:05.562Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 143,
+  "count": 133,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1468,123 +1468,6 @@
       "fromLogo": "https://media.api-sports.io/football/teams/503.png",
       "to": "Getafe",
       "toLogo": "https://media.api-sports.io/football/teams/546.png"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/03/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Atlético to offer Grealish escape route? Spurs target Osimhen and Gakpo?",
-      "date": "2026-08-03",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/03/football-transfer-rumours-atletico-grealish-tottenham-osimhen-gakpo"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chel",
-      "kind": "rumor",
-      "player": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
-      "date": "2026-08-03",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/03/premier-league-transf",
-      "kind": "rumor",
-      "player": "Newcastle reject first bid from Arsenal for captain Bruno Guimarães",
-      "date": "2026-08-03",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/03/premier-league-transfer-newcastle-reject-first-bid-arsenal-bruno-guimaraes"
-    },
-    {
-      "id": "47013-2026-08-03-1123",
-      "kind": "confirmed",
-      "player": "Rafa Mir",
-      "date": "2026-08-03",
-      "type": "Loan",
-      "league": "La Liga",
-      "from": "Sevilla",
-      "fromLogo": "https://media.api-sports.io/football/teams/536.png",
-      "to": "Aris Thessalonikis",
-      "toLogo": "https://media.api-sports.io/football/teams/1123.png"
-    },
-    {
-      "id": "19172-2026-08-03-173",
-      "kind": "confirmed",
-      "player": "Ø. Nyland",
-      "date": "2026-08-03",
-      "type": "Free agent",
-      "league": "Bundesliga",
-      "from": "Sevilla",
-      "fromLogo": "https://media.api-sports.io/football/teams/536.png",
-      "to": "RB Leipzig",
-      "toLogo": "https://media.api-sports.io/football/teams/173.png"
-    },
-    {
-      "id": "278392-2026-08-03-94",
-      "kind": "confirmed",
-      "player": "C. Cresswell",
-      "date": "2026-08-03",
-      "type": "Loan",
-      "league": "Ligue 1",
-      "from": "Toulouse",
-      "fromLogo": "https://media.api-sports.io/football/teams/96.png",
-      "to": "Rennes",
-      "toLogo": "https://media.api-sports.io/football/teams/94.png"
-    },
-    {
-      "id": "284446-2026-08-03-569",
-      "kind": "confirmed",
-      "player": "F. Potts",
-      "date": "2026-08-03",
-      "type": "Transfer",
-      "league": "",
-      "from": "West Ham United U21",
-      "fromLogo": "https://media.api-sports.io/football/teams/7203.png",
-      "to": "Club Brugge KV",
-      "toLogo": "https://media.api-sports.io/football/teams/569.png"
-    },
-    {
-      "id": "127-2026-08-03-194",
-      "kind": "confirmed",
-      "player": "M. ter Stegen",
-      "date": "2026-08-03",
-      "type": "Loan",
-      "league": "Eredivisie",
-      "from": "Barcelona",
-      "fromLogo": "https://media.api-sports.io/football/teams/529.png",
-      "to": "Ajax",
-      "toLogo": "https://media.api-sports.io/football/teams/194.png"
-    },
-    {
-      "id": "161921-2026-08-03-95",
-      "kind": "confirmed",
-      "player": "G. Reyna",
-      "date": "2026-08-03",
-      "type": "Transfer",
-      "league": "Bundesliga",
-      "from": "Borussia Mönchengladbach",
-      "fromLogo": "https://media.api-sports.io/football/teams/163.png",
-      "to": "Strasbourg",
-      "toLogo": "https://media.api-sports.io/football/teams/95.png"
-    },
-    {
-      "id": "161938-2026-08-03-340",
-      "kind": "confirmed",
-      "player": "Paulo Bernardo",
-      "date": "2026-08-03",
-      "type": "Loan",
-      "league": "",
-      "from": "Celtic",
-      "fromLogo": "https://media.api-sports.io/football/teams/247.png",
-      "to": "Gornik Zabrze",
-      "toLogo": "https://media.api-sports.io/football/teams/340.png"
     }
   ]
 }
