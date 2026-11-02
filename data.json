@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-01T12:46:05.562Z",
+  "updatedAt": "2026-11-02T14:48:41.801Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 133,
+  "count": 127,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1400,74 +1400,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/04/frank-lampard-coventr",
-      "kind": "rumor",
-      "player": "Frank Lampard hails ‘huge’ signing as Coventry seal record £22.5m Rushworth deal",
-      "date": "2026-08-04",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/04/frank-lampard-coventry-brighton-carl-rushworth-transfer-roundup"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/04/barcelona-sign-brazil",
-      "kind": "rumor",
-      "player": "Barcelona sign Brazil forward Kerolin from Manchester City for club-record £1.25m",
-      "date": "2026-08-04",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/04/barcelona-sign-brazil-forward-kerolin-manchester-city-womens-super-league"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/04/chelsea-jordan-hender",
-      "kind": "rumor",
-      "player": "Football Daily | Chelsea, Jordan Henderson and a transfer pivot for the ages",
-      "date": "2026-08-04",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/04/chelsea-jordan-henderson-transfer-pivot-for-the-ages-football-daily"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/04/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Chelsea’s Mudryk to reunite with Lampard at Coventry?",
-      "date": "2026-08-04",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/04/football-transfer-rumour-mill-chelsea-mykhailo-mudryk-lampard-coventry"
-    },
-    {
-      "id": "527401-2026-08-04-538",
-      "kind": "confirmed",
-      "player": "Vladimir Silva",
-      "date": "2026-08-04",
-      "type": "Loan",
-      "league": "La Liga",
-      "from": "Pacos Ferreira",
-      "fromLogo": "https://media.api-sports.io/football/teams/234.png",
-      "to": "Celta Vigo",
-      "toLogo": "https://media.api-sports.io/football/teams/538.png"
-    },
-    {
-      "id": "268728-2026-08-04-546",
-      "kind": "confirmed",
-      "player": "S. Sazonov",
-      "date": "2026-08-04",
-      "type": "Free agent",
-      "league": "Serie A",
-      "from": "Torino",
-      "fromLogo": "https://media.api-sports.io/football/teams/503.png",
-      "to": "Getafe",
-      "toLogo": "https://media.api-sports.io/football/teams/546.png"
     }
   ]
 }
