@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-02T14:48:41.801Z",
+  "updatedAt": "2026-11-03T13:42:15.505Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 127,
+  "count": 122,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1345,61 +1345,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/06/mohamed-salah-14m-per-season-two-year-trabzonspor-deal"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/05/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
-      "date": "2026-08-05",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/05/football-transfer-rumours-folarin-balogun-tottenham-hotspur-pedro-neto-manchester-city"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/04/trabzonspor-transfer-",
-      "kind": "rumor",
-      "player": "‘Trabzon, are you ⁠ready?’: Mohamed Salah lands in Turkey to sign for Trabzonspor",
-      "date": "2026-08-05",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/04/trabzonspor-transfer-mohamed-salah-turkish-super-lig"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-",
-      "kind": "rumor",
-      "player": "Transfer roundup: Coventry to make Yirenkyi record signing, Palace swoop for Gozo",
-      "date": "2026-08-05",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/05/mohamed-salah-potted-",
-      "kind": "rumor",
-      "player": "Football Daily | Mohamed Salah and a potted history of Liverpool legends visiting Trabzon",
-      "date": "2026-08-05",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/05/mohamed-salah-potted-history-liverpool-legends-visiting-trabzon-football-daily"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee",
-      "kind": "rumor",
-      "player": "Arsenal agree £75m fee with Newcastle for Bruno Guimarães as clubs reach compromise",
-      "date": "2026-08-05",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise"
     }
   ]
 }
