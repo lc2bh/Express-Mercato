@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T13:42:15.505Z",
+  "updatedAt": "2026-11-04T13:53:10.875Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 122,
+  "count": 116,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1279,72 +1279,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/06/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Arsenal back for £60m Konsa? Asencio to Liverpool?",
-      "date": "2026-08-06",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/06/football-transfer-rumours-arsenal-ezri-konsa-raul-asencio-liverpool"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-clu",
-      "kind": "rumor",
-      "player": "Real Madrid announce arrival of £115m Yan Diomande on seven-year contract",
-      "date": "2026-08-06",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvar",
-      "kind": "rumor",
-      "player": "Barcelona step up Rodri interest after Real Madrid talks with Manchester City star stall",
-      "date": "2026-08-06",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvarez-manchester-city-real-madrid-transfers"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-",
-      "kind": "rumor",
-      "player": "Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032",
-      "date": "2026-08-06",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/06/kerolin-failed-to-rep",
-      "kind": "rumor",
-      "player": "Kerolin failed to report for pre-season at Manchester City before Barcelona switch",
-      "date": "2026-08-06",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/06/kerolin-failed-to-report-for-pre-season-at-manchester-city-before-barcelona-switch"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/06/mohamed-salah-14m-per",
-      "kind": "rumor",
-      "player": "Mohamed Salah to earn upwards of £14.5m per season in two-year Trabzonspor deal",
-      "date": "2026-08-06",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/06/mohamed-salah-14m-per-season-two-year-trabzonspor-deal"
     }
   ]
 }
