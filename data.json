@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-04T13:53:10.875Z",
+  "updatedAt": "2026-11-05T14:05:52.494Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 116,
+  "count": 112,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1235,50 +1235,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/07/jay-z-roc-nation-spor",
-      "kind": "rumor",
-      "player": "Jay-Z’s Roc Nation Sports making waves in European football transfer market",
-      "date": "2026-08-07",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/07/jay-z-roc-nation-sports-european-football-transfer-market-vinicius-junior-yan-diomande"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/07/manchester-city-rejec",
-      "kind": "rumor",
-      "player": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
-      "date": "2026-08-07",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/07/manchester-city-reject-barcelonas-opening-385m-bid-for-rodri-as-talks-continue"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletic",
-      "kind": "rumor",
-      "player": "Tottenham and Atlético in talks over Romero with Van de Ven set to sign new deal",
-      "date": "2026-08-07",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/07/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Cristian Romero to leave Spurs for … Arsenal?",
-      "date": "2026-08-07",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter"
     }
   ]
 }
