@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-05T14:05:52.494Z",
+  "updatedAt": "2026-11-06T13:51:15.707Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 112,
+  "count": 110,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1213,28 +1213,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/09/transfer-roundup-fulham-agree-deal-shea-charles-southampton-trevoh-chalobah-como"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/08/arsenal-transfer-brun",
-      "kind": "rumor",
-      "player": "Bruno Guimarães completes £75m Arsenal move: ‘I needed a new challenge’",
-      "date": "2026-08-08",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/08/arsenal-transfer-bruno-guimaraes-newcastle-football"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-r",
-      "kind": "rumor",
-      "player": "Liverpool agree to sign Barcelona’s Ronald Araújo on loan as Jacquet cover",
-      "date": "2026-08-08",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer"
     }
   ]
 }
