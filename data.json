@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-06T13:51:15.707Z",
+  "updatedAt": "2026-11-07T12:31:52.050Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 110,
+  "count": 109,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1202,17 +1202,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/10/manchester-city-85m-ayyoub-bouaddi-rodri-barcelona-transfer"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/09/transfer-roundup-fulh",
-      "kind": "rumor",
-      "player": "Transfer roundup: Digne returns to PSG from Villa, Fulham agree £30m deal for Charles",
-      "date": "2026-08-09",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/09/transfer-roundup-fulham-agree-deal-shea-charles-southampton-trevoh-chalobah-como"
     }
   ]
 }
