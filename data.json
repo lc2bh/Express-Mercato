@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-07T12:31:52.050Z",
+  "updatedAt": "2026-11-08T12:51:08.323Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 109,
+  "count": 107,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1180,28 +1180,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/11/football-transfer-rumour-mill-jamie-vardy-west-ham-real-madrid-zubimendi"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/10/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Endrick set for Villa loan? De Jong offered in Rodri deal?",
-      "date": "2026-08-10",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/10/football-transfer-rumours-aston-villa-endrick-manchester-city-barcelona-rodri-frenkie-de-jong"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/10/manchester-city-85m-a",
-      "kind": "rumor",
-      "player": "Manchester City closing in on £85m Bouaddi to soften blow of Rodri’s expected exit",
-      "date": "2026-08-10",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/10/manchester-city-85m-ayyoub-bouaddi-rodri-barcelona-transfer"
     }
   ]
 }
