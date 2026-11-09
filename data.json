@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-08T12:51:08.323Z",
+  "updatedAt": "2026-11-09T15:10:41.028Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 107,
+  "count": 102,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1125,61 +1125,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/12/football-transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus-to-napoli"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/10/crystal-palace-everto",
-      "kind": "rumor",
-      "player": "Crystal Palace and Everton seal Brennan Johnson-Dwight McNeil swap deal",
-      "date": "2026-08-11",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/10/crystal-palace-everton-brennan-johnson-dwight-mcneil-transfer-roundup"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/11/transfer-roundup-nott",
-      "kind": "rumor",
-      "player": "Transfer roundup: Nottingham Forest seal £34m deal for Sporting’s Diomande",
-      "date": "2026-08-11",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/11/transfer-roundup-nottingham-forest-ousmane-diomande-fulham-shea-charles"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/11/djed-spence-nears-tot",
-      "kind": "rumor",
-      "player": "Djed Spence nears Tottenham exit with Inter in talks over £25.6m move",
-      "date": "2026-08-11",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/11/djed-spence-nears-tottenham-exit-inter-in-talks-over-move"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/11/arsenal-myles-lewis-s",
-      "kind": "rumor",
-      "player": "Arsenal’s Myles Lewis-Skelly offered to Manchester United as left-back solution",
-      "date": "2026-08-11",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/11/arsenal-myles-lewis-skelly-offered-to-manchester-united-left-back"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/11/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Vardy to West Ham? Madrid move for Zubimendi?",
-      "date": "2026-08-11",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/11/football-transfer-rumour-mill-jamie-vardy-west-ham-real-madrid-zubimendi"
     }
   ]
 }
