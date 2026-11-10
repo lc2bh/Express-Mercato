@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-09T15:10:41.028Z",
+  "updatedAt": "2026-11-10T14:24:09.728Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 102,
+  "count": 99,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1092,39 +1092,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/13/football-transfer-rumour-mill-galatasaray-38m-arsenal-gabriel-martinelli"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree",
-      "kind": "rumor",
-      "player": "Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero",
-      "date": "2026-08-12",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/12/manchester-city-chels",
-      "kind": "rumor",
-      "player": "Barcelona make improved £51m bid for Rodri as Manchester City target Fernández",
-      "date": "2026-08-12",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/12/manchester-city-chelsea-enzo-fernandez"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/12/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
-      "date": "2026-08-12",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/12/football-transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus-to-napoli"
     }
   ]
 }
