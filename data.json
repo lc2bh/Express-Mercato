@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-10T14:24:09.728Z",
+  "updatedAt": "2026-11-11T13:39:04.412Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 99,
+  "count": 97,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1070,28 +1070,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/13/manchester-city-barce",
-      "kind": "rumor",
-      "player": "Chelsea set Friday deadline for Fernández suitors as City reject new £51m Barça bid for Rodri",
-      "date": "2026-08-13",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/13/manchester-city-barcelona-rodri-chelsea-enzo-fernandez"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/13/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
-      "date": "2026-08-13",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/13/football-transfer-rumour-mill-galatasaray-38m-arsenal-gabriel-martinelli"
     }
   ]
 }
