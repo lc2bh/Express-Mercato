@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11T13:39:04.412Z",
+  "updatedAt": "2026-11-12T14:42:52.809Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 97,
+  "count": 94,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1037,39 +1037,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/14/enzo-maresca-manchest",
-      "kind": "rumor",
-      "player": "Chelsea expect Enzo Fernández to stay after Manchester City opt not to meet deadline",
-      "date": "2026-08-14",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/14/enzo-maresca-manchester-city-chelsea-fernandez-rodri-transfer"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/14/arsenal-bayer-leverku",
-      "kind": "rumor",
-      "player": "Arsenal open talks with Bayer Leverkusen over deal for Jarell Quansah",
-      "date": "2026-08-14",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/14/arsenal-bayer-leverkusen-jarell-quansah-transfer-talks"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/14/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Arsenal offered Osimhen in exchange deal? Newcastle to make Baleba bid?",
-      "date": "2026-08-14",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid"
     }
   ]
 }
