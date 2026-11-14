@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-13T14:01:27.151Z",
+  "updatedAt": "2026-11-14T13:05:18.534Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 94,
+  "count": 93,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -1026,17 +1026,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-bar",
-      "kind": "rumor",
-      "player": "Transfer roundup: Aston Villa close on Japan keeper Zion Suzuki; Djed Spence seals Inter move",
-      "date": "2026-08-16",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window"
     }
   ]
 }
