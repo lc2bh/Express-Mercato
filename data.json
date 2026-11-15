@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-14T13:05:18.534Z",
+  "updatedAt": "2026-11-15T13:32:34.198Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 93,
+  "count": 90,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -993,39 +993,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/18/football-transfer-rumour-mill-atletico-madrid-julian-alvarez-arsenal-barcelona"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete",
-      "kind": "rumor",
-      "player": "Rodri calls it ‘a dream to play for Barcelona’ as he flies in for medical",
-      "date": "2026-08-17",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-v",
-      "kind": "rumor",
-      "player": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
-      "date": "2026-08-17",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/17/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Manchester City to move for Alexis Mac Allister?",
-      "date": "2026-08-17",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
     }
   ]
 }
