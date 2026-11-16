@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-15T13:32:34.198Z",
+  "updatedAt": "2026-11-16T14:47:15.047Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 90,
+  "count": 87,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -960,39 +960,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-d",
-      "kind": "rumor",
-      "player": "Transfer roundup: Dedic completes £29.5m Newcastle move, Wan-Bissaka loaned to Villa",
-      "date": "2026-08-18",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodr",
-      "kind": "rumor",
-      "player": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
-      "date": "2026-08-18",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/18/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Atlético want Alvarez to join Arsenal over Barça?",
-      "date": "2026-08-18",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/18/football-transfer-rumour-mill-atletico-madrid-julian-alvarez-arsenal-barcelona"
     }
   ]
 }
