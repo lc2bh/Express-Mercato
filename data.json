@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-16T14:47:15.047Z",
+  "updatedAt": "2026-11-17T15:36:55.029Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 87,
+  "count": 79,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -872,94 +872,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/20/manchester-united-may-regret-not-backing-michael-carrick"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/19/manchester-city-targe",
-      "kind": "rumor",
-      "player": "Manchester City target Roma’s Manu Koné as Spurs talk over Savinho and Marmoush deal",
-      "date": "2026-08-19",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/19/manchester-city-target-romas-manu-kone-as-spurs-talk-over-savinho-and-marmoush-deal"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-c",
-      "kind": "rumor",
-      "player": "Curtis Jones set to leave Liverpool as Inter submit £30m offer for midfielder",
-      "date": "2026-08-19",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-curtis-jones-transfer-window-premier-league"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-",
-      "kind": "rumor",
-      "player": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
-      "date": "2026-08-19",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs",
-      "kind": "rumor",
-      "player": "Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
-      "date": "2026-08-19",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs-signing-players-transfers-football-daily"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-",
-      "kind": "rumor",
-      "player": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
-      "date": "2026-08-19",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-ma",
-      "kind": "rumor",
-      "player": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
-      "date": "2026-08-19",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/19/manchester-united-bri",
-      "kind": "rumor",
-      "player": "Manchester United make £65m offer for Brighton’s Carlos Baleba",
-      "date": "2026-08-19",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/19/manchester-united-brighton-carlos-baleba"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/19/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
-      "date": "2026-08-19",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins"
     }
   ]
 }
