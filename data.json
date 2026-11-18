@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-17T15:36:55.029Z",
+  "updatedAt": "2026-11-18T15:11:01.346Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 79,
+  "count": 75,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -828,50 +828,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/20/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Newcastle to sign Manchester City’s Nico González?",
-      "date": "2026-08-20",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid",
-      "kind": "rumor",
-      "player": "Liverpool see £50m bid for Yankuba Minteh rejected by Brighton",
-      "date": "2026-08-20",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelse",
-      "kind": "rumor",
-      "player": "‘Enzo is a Chelsea player,’ says Alonso but doesn’t guarantee Fernández’s future",
-      "date": "2026-08-20",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/20/manchester-united-may",
-      "kind": "rumor",
-      "player": "Frugal or foolish? Manchester United may regret not backing Carrick",
-      "date": "2026-08-20",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/20/manchester-united-may-regret-not-backing-michael-carrick"
     }
   ]
 }
