@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-18T15:11:01.346Z",
+  "updatedAt": "2026-11-19T15:19:29.808Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 75,
+  "count": 71,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -784,50 +784,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/21/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
-      "date": "2026-08-21",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/21/football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/21/manchester-united-con",
-      "kind": "rumor",
-      "player": "Manchester United agree £65m deal for Carlos Baleba in midfield rebuild",
-      "date": "2026-08-21",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/21/crystal-palace-axel-d",
-      "kind": "rumor",
-      "player": "Crystal Palace agree Disasi loan and tell Manchester City that Wharton is not for sale",
-      "date": "2026-08-21",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/21/crystal-palace-axel-disasi-loan-chelsea-manchester-city-adam-wharton-transfer-window-premier-league"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-clo",
-      "kind": "rumor",
-      "player": "Manchester City set to sell Savinho and Omar Marmoush to Spurs for combined £160m",
-      "date": "2026-08-21",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush"
     }
   ]
 }
