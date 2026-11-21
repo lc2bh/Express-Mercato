@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-20T14:59:48.721Z",
+  "updatedAt": "2026-11-21T14:16:23.283Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 71,
+  "count": 69,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -762,28 +762,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/23/manchester-city-agree",
-      "kind": "rumor",
-      "player": "Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi",
-      "date": "2026-08-23",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-",
-      "kind": "rumor",
-      "player": "Mateta’s Palace dispute deepens after losing appeals to end contract early",
-      "date": "2026-08-23",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window"
     }
   ]
 }
