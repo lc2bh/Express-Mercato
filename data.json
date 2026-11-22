@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-21T14:16:23.283Z",
+  "updatedAt": "2026-11-22T14:09:01.594Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 69,
+  "count": 65,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -718,50 +718,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/25/football-transfer-rumours-manchester-city-tottenham-cody-gakpo"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/24/nottingham-forest-lia",
-      "kind": "rumor",
-      "player": "Nottingham Forest close in on signing Liam Delap from Chelsea",
-      "date": "2026-08-24",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/24/nottingham-forest-liam-delap-chelsea-tranfer-window"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/24/manchester-city-agree",
-      "kind": "rumor",
-      "player": "Manchester City agree £34m deal for Allan Elias as Nico González nears Newcastle move",
-      "date": "2026-08-24",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/24/manchester-city-agree-34m-deal-for-allan-elias-as-nico-gonzalez-nears-newcastle-move"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-",
-      "kind": "rumor",
-      "player": "Julián Álvarez walks alone at Atlético in transfer saga with no end – and no winners | Sid Lowe",
-      "date": "2026-08-24",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-alone-at-atletico-madrid-barcelona-transfer-saga-la-liga"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/24/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atlético?",
-      "date": "2026-08-24",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico"
     }
   ]
 }
