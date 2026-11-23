@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-22T14:09:01.594Z",
+  "updatedAt": "2026-11-23T17:24:19.237Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 65,
+  "count": 61,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -674,50 +674,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/26/football-transfer-rumours-jean-philippe-mateta-to-aston-villa"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/25/liam-delap-nottingham",
-      "kind": "rumor",
-      "player": "Delap heads to Forest for £50m as Chelsea open talks to sell Jackson to Aston Villa",
-      "date": "2026-08-25",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/25/liam-delap-nottingham-forest-chelsea-nicholas-jackson-aston-villa-transfer-window"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/25/manchester-united-sig",
-      "kind": "rumor",
-      "player": "Manchester United confirm Carlos Baleba signing as midfield spend nears £150m",
-      "date": "2026-08-25",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/25/savinho-completes-spu",
-      "kind": "rumor",
-      "player": "Savinho seals £75m Spurs move from Manchester City – and changes name to Sávio",
-      "date": "2026-08-25",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/25/savinho-completes-spurs-move-manchester-city-changes-name-to-savio"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/25/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Manchester City and Spurs chase Cody Gakpo?",
-      "date": "2026-08-25",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/25/football-transfer-rumours-manchester-city-tottenham-cody-gakpo"
     }
   ]
 }
