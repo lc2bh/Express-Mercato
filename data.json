@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-25T16:53:32.766Z",
+  "updatedAt": "2026-11-26T16:27:35.208Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 48,
+  "count": 45,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -498,39 +498,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-must-keep-best-players-after-forest-bid-for-harrison-armstrong"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/28/football-transfer-rum",
-      "kind": "rumor",
-      "player": "Football transfer rumours: Rafael Leão to Aston Villa? Harvey Elliott to Napoli or Lazio?",
-      "date": "2026-08-28",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/28/football-transfer-rumours-rafael-leao-to-aston-villa-harvey-elliott-to-napoli-or-lazio"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/28/tottenham-roberto-de-",
-      "kind": "rumor",
-      "player": "De Zerbi wants one more signing for Tottenham before transfer deadline",
-      "date": "2026-08-28",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/28/tottenham-roberto-de-zerbi-premier-league-transfer-deadline-window"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/28/aston-villa-spurs-are",
-      "kind": "rumor",
-      "player": "Aston Villa’s squad is crumbling while Spurs splash out. Are the financial rules fair?",
-      "date": "2026-08-28",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/28/aston-villa-spurs-are-football-financial-rules-fair-transfers"
     }
   ]
 }
