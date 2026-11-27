@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-26T16:27:35.208Z",
+  "updatedAt": "2026-11-27T16:12:22.686Z",
   "lastTeamChecked": "100 clubs + RSS",
   "requestsRemaining": 99,
-  "count": 45,
+  "count": 41,
   "transfers": [
     {
       "id": "rss-https://www.theguardian.com/football/2026/sep/23/summer-football-trans",
@@ -454,50 +454,6 @@
       "to": "",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears",
-      "kind": "rumor",
-      "player": "Aston Villa sign Jackson and close on Mbaye as Emery clears air with departing Watkins",
-      "date": "2026-08-29",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/29/xabi-alonso-chelsea-k",
-      "kind": "rumor",
-      "player": "Alonso gets Chelsea’s priorities right by ditching Sánchez for winner Martínez | Jacob Steinberg",
-      "date": "2026-08-29",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/29/xabi-alonso-chelsea-keepers-robert-sanchez-emiliano-martinez"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-de",
-      "kind": "rumor",
-      "player": "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger",
-      "date": "2026-08-29",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-deal-bradley-barcola-psg-medical-premier-league"
-    },
-    {
-      "id": "rss-https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-mu",
-      "kind": "rumor",
-      "player": "Transfer roundup: Moyes wants to keep Armstrong while Forest agree Muñoz deal",
-      "date": "2026-08-29",
-      "league": "",
-      "from": "",
-      "to": "",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-must-keep-best-players-after-forest-bid-for-harrison-armstrong"
     }
   ]
 }
